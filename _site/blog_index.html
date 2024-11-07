@@ -133,7 +133,7 @@ window.Quarto = {
 
 <link rel="stylesheet" href="styles/styles.css">
 <link rel="stylesheet" href="styles/all.min.css">
-</head>
+<link rel="alternate" type="application/rss+xml" title="R Ladies Melbourne Inc" href="blog_index.xml" data-external="1"></head>
 
 <body class="nav-fixed">
 
@@ -255,7 +255,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="RXZlbnQsRGF0YSBTY2llbmNlLEFGTA==" data-listing-date-sort="1730898000000" data-listing-file-modified-sort="1730940843945" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="337">
+<div class="quarto-post image-right" data-index="0" data-categories="RXZlbnQsRGF0YSBTY2llbmNlLEFGTA==" data-listing-date-sort="1730898000000" data-listing-file-modified-sort="1730949045020" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="337">
 <div class="thumbnail">
 <p><a href="./posts/06_11_24_event.html" class="no-external"></a></p><a href="./posts/06_11_24_event.html" class="no-external">
 <p class="card-img-top"><img src="posts/images/RLadiesMelb_201124_Flyer.png"  class="thumbnail-image card-img"/></p>
@@ -294,7 +294,7 @@ Caitlin Bourke
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="QWRtaW4sQ29kZQ==" data-listing-date-sort="1730811600000" data-listing-file-modified-sort="1730940843946" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="86">
+<div class="quarto-post image-right" data-index="1" data-categories="QWRtaW4sQ29kZQ==" data-listing-date-sort="1730811600000" data-listing-file-modified-sort="1730949045020" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="86">
 <div class="thumbnail">
 <p><a href="./posts/06_11_24_welcome.html" class="no-external"></a></p><a href="./posts/06_11_24_welcome.html" class="no-external">
 <p class="card-img-top"><img src="posts/images/rladiesmelblogo.png"  class="thumbnail-image card-img"/></p>
@@ -571,7 +571,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/R-LadiesMelbourne\.github\.io\/rladiesmelbwebsite\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
