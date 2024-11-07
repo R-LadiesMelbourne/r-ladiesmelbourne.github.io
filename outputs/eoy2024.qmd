@@ -1,0 +1,21 @@
+---
+title: "2024 End of Year Event 🎉"
+---
+
+## Mentors
+
+### Bios
+
+### "Ask Me About"
+
+### Fun Facts
+
+## Questions 
+
+<script src="https://utteranc.es/client.js"
+        repo="R-LadiesMelbourne/EOY_Event"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

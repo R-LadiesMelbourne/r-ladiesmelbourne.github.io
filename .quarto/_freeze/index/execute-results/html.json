@@ -1,0 +1,15 @@
+{
+  "hash": "b773517b8751160c113ae15eef34a3d5",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Welcome to R Ladies Melbourne Inc 🐨💜\"\ntoc: false \n---\n\n\n\n\n## R Ladies Melbourne: A Chapter of R Ladies Global\n\n[R Ladies Melbourne Inc]{style=\"color:purple\"} is a registered non-profit organization and a local chapter of [**R-Ladies Global**](https://rladies.org/). Our aim is to promote gender diversity in the R community, both in Australia and worldwide. We welcome members of all R proficiency levels, whether you're a new or aspiring R user or experienced in R programming and interested in mentoring, networking & expert upskilling. Our community is designed to develop our members' R skills & knowledge through social, collaborative learning & sharing. Checkout our [**about us page**](about.qmd) to learn more.\n\n## Meet our Committee {#sec-committee}\n\nOur leadership for 2024-25 R Ladies Melbourne includes:\n\n-   **President**: Dionne Argyropoulos\n-   **Vice-President**: Danyang Dai (Daidai)\n-   **Secretary**: Sehrish Kanwal\n-   **Treasurer**: Kathleen Zeglinski\n-   **Committee members**: Caitlin Bourke, Lauren Smith, Belen Prado, Cecilia Rios Teran, Felicia Bongiovanni\n\n![](images/committee_24_25.jpeg)\n\n::: column-margin\nBelen (top left), Daidai (top middle), Dionne (top right), Kathleen (middle left), Sehrish (centre), Lauren (middle right), Caitlin (middle bottom), Cecilia Rios Teran (not shown), Felicia Bongiovanni (not shown).\n:::\n\nPlease [**email us**](rladiesmelbourne@gmail.com) if you'd like to join our [committee](#sec-committee)!\n\n## Meetup Events\n\nWe host meet-up events covering a range of topics from introduction to advanced. We are currently recruiting [committee members]{style=\"color:purple\"} and [speakers]{style=\"color:purple\"} for our 2025 line-up so that we can have regular meetings once or twice a month! Fill out or [**expression of interest form**](https://docs.google.com/forms/d/e/1FAIpQLSd-9idjehoNOblVrfWSrxgoOlpBwOsUJKQNMJPKhQGDqrBhZA/viewform) if you'd like to present or speak at one of our events!\n\n::: {.column-screen-inset-shaded layout-ncol=\"3\" layout=\"[45,10,45]\"}\n![](images/meetupevent.jpeg)\n\n![](images/meetupevent2.jpeg)\n\n![](images/meetupevent3.jpeg)\n:::\n\nSee our [**github repo**](https://github.com/R-LadiesMelbourne/Links-to-Events-Repos) more information on our previous events. For our upcoming events make sure you check out our [**Meetup page**](https://www.meetup.com/rladies-melbourne/). You can also view most of our event recordings at our [**Youtube channel**](https://www.youtube.com/channel/UClC5yNEjMoE3MmbK-mrV8Ow).\n\n\n## Why Do We Love R?\n\n\n\n\n\n::: {.cell}\n\n:::\n\n\n\n    \n<iframe src = \"a.html\" width = \"1000\" height = \"1000\"></iframe>\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

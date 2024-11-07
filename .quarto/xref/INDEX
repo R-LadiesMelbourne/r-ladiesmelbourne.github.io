@@ -1,0 +1,47 @@
+{
+  "about.qmd": {
+    "about.html": "75549d25"
+  },
+  "index.qmd": {
+    "index.html": "e9d72308"
+  },
+  "blog/blog.qmd": {
+    "blog.html": "cba02e20"
+  },
+  "blog/entry1.qmd": {
+    "entry1.html": "35865c9d"
+  },
+  "resources.qmd": {
+    "resources.html": "00de3a77"
+  },
+  "blog/entry2.qmd": {
+    "entry2.html": "7e9dc6aa"
+  },
+  "blog/index.qmd": {
+    "index.html": "fca968f9"
+  },
+  "blog_index.qmd": {
+    "blog_index.html": "9ff2413d"
+  },
+  "posts/entry2.qmd": {
+    "entry2.html": "8ce21571"
+  },
+  "posts/entry1.qmd": {
+    "entry1.html": "c0c11a90"
+  },
+  "posts/06_11_24_event.qmd": {
+    "06_11_24_event.html": "bffd58cd"
+  },
+  "posts/06_11_24_welcome.qmd": {
+    "06_11_24_welcome.html": "919d6b78"
+  },
+  "ourwork.qmd": {
+    "ourwork.html": "7441463c"
+  },
+  "outputs/eoy2024.qmd": {
+    "eoy2024.html": "a0e58fde"
+  },
+  "outputs/redu_itas.qmd": {
+    "redu_itas.html": "8e52d7bd"
+  }
+}

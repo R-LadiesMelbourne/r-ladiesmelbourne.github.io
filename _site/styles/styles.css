@@ -1,0 +1,30 @@
+/* css styles */
+/* Change link color */
+a {
+  color: #88398A; /* Replace with your desired color */
+  text-decoration: none; /* Optional: Remove underline */
+  /*font-weight: bold; /* Make text bold */
+}
+
+/* Change link color on hover */
+a:hover {
+  color: #b756b9; /* Replace with your desired hover color */
+  text-decoration: underline; /* Optional: Add underline on hover */
+  /*font-weight: bold; /* Make text bold */
+}
+
+h1 {
+  color: purple;
+}
+
+h2 {
+  color: purple;
+}
+
+h3 {
+  color: purple;
+}
+
+h4 {
+  color: purple;
+}
