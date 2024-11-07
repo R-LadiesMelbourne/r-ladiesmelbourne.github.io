@@ -75,6 +75,3 @@ format:
     fontawesome: true
 
 editor: visual
-
-execute:
-  freeze: auto
