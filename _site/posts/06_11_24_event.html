@@ -228,7 +228,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Please join us on Wednesday 20th November 2024 at Dius Offices Melbourne from 5.30pm. We will first have a casual networking catch-up with some light refreshments, and the presentation will start at 6pm. You will also be able to join this event online if you are not able to join us in person. Please register your attendance (both in-person and online) on Meetup by the 14th November for planning purposes.</p>
 <p>We look forward to seeing you there!</p>
 <p>💜 Caitlin on behalf of R Ladies Melbourne</p>
-<p><a href="blog_index.qmd">Back to our blog home page</a></p>
+<p><a href="../blog_index.html">Back to our blog home page</a></p>
 
 
 </section>
@@ -470,7 +470,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/R-LadiesMelbourne\.github\.io\/rladiesmelbwebsite\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

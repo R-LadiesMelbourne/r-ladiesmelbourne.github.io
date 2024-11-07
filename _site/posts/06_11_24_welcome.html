@@ -214,9 +214,8 @@ ul.task-list li input[type="checkbox"] {
 <p>This is the first entry on our R Ladies Melbourne website!</p>
 <p>The intention of this website is to hold a place for of our chapter’s events, links, code, tutorials and so on, with the hopes that this will be a portal for members to continue to grow their skills and learn from each other.</p>
 <p>Let us know via our <a href="rladiesmelbourne@gmail.com"><strong>email</strong></a> or <a href="https://github.com/R-LadiesMelbourne"><strong>github repo</strong></a> if there are any features you’d like to see or recommend!</p>
-<ul>
-<li>Dionne on behalf of R Ladies Melbourne!</li>
-</ul>
+<p>Dionne on behalf of R Ladies Melbourne!</p>
+<p><a href="../blog_index.html">Back to our blog home page</a></p>
 </div>
 </div>
 
@@ -459,7 +458,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/R-LadiesMelbourne\.github\.io\/rladiesmelbwebsite\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
