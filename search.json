@@ -1,94 +1,52 @@
 [
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
+    "objectID": "timeline.html",
+    "href": "timeline.html",
+    "title": "Our Legacy",
     "section": "",
-    "text": "RStudio Education for Beginners\nR for Data Science\nThe Epidemiologist R Handbook\nR You With Me\nR-Graph Gallery"
+    "text": "%%{init: { 'logLevel': 'debug', 'theme': 'default', 'themeVariables': { \n    'fontFamily': 'Helvetica, Arial, sans-serif',\n    'cScale0': '#88398A', 'cScale1': '#e1b9e2',\n    'cScaleLabel0': '#ffffff', 'cScaleLabel1': '#000000'\n} } }%%\n\ntimeline\n    title History of R-Ladies Melbourne \n\n    section Our Foundation\n    2012 : R-Ladies founded in San Francisco by Gabriela de Queiroz 💜\n    2016 : 18th October - R-Ladies Melbourne Launched 🚀\n\n    section Our Meetups\n    2017 : R Notebooks and Interactive Graphs\n         : Git and GitHub Workshop\n         : Twitter Workshop\n         : Web Scraping and Sports Analytics\n         : Build Neural Network with R\n         : mixOmics Combine Large Scale Datasets\n         : Introduction to R Workshop\n         : Random Forest, Climate Change and Food Production\n         : One Year of R-Ladies Melbourne\n         : Introduction to R-Shiny\n         : Christmas Party\n    2018 : Semiparametric and non-parametric models in R\n         : From zero to science hero in 1 week\n         : How R you? R-Ladies Melbourne second anniversary \n         : R as a tool for complex systems modelling \n         : Getting down and up with blogging with R! \n         : Follow me! Introduction so social media analysis in R \n         : Introduction to R \n         : Everything you need to know to create your R Package \n         : More than words - Text Analysis in R \n         : Parallel Programming in R \n         : Public Transport Maps and Geospatial Data in R\n    2019 : Producing publication-ready documents in R Markdown\n         : Baby one more time - reproducibility in R and when to bring in the big guns\n         : NLP with SpaCy in R\n         : Cluster analysis with international education data\n         : Introduction to R Workshop\n         : Gold star reproducibility - straightforward containerisation\n         : Take a sad plot and make it better\n         : Intro to Data Analysis and Graphics with R\n         : R-Shiny Tricks or Treats, Maybe Both?\n         : Designing Data Science\n         : Christmas Networking Party\n    2020 : TidyTuesday\n         : Binovisualfields Package - Development and Publication to CRAN\n         : Recent work in cluster trials and the representation of women in statistics\n         : Would you like to become a more confident and engaging speaker?\n         : R Markdown - A better way of communicating with data\n         : Sport, Data, and R\n         : Resume Guru\n         : How R you? 4-year Anniversary\n    2021 : TidyTuesday \n         : Diversity Scholars Workshop\n         : Create and publish your pesronal website with Blogdown\n         : A remove glimpse into the useR!2021 conference\n         : Anomalies! You can't escape them\n         : The Art of Design - Software and Experimental Design\n    2022 : Automate your CV with R Markdown - Easy as 1, 2, knit\n         : AI Ethics Workshop\n         : How to do analysis for others without going crazy - My mistakes in consulting\n         : Building a new geom in ggplot2\n         : Data viz for mass audiences\n         : The workflow of tidy data, constructing plots and making data driven decisions\n         : Switching between space and time - Spatiotemporal analysis with cubble\n         : How I use workflowr to create reproducible analyses\n         : Choose your own adventure - Tools for Open and Reproducible Research\n    2023 : Navigating Public Health Careers Insights into Career Journeys\n         : What's New in the Tidyverse?\n         : Teaching Computers to See Scatterplots with Scagnostics\n         : It Takes a Spark 2023 - Become A Disease Detective\n    2024 : Careers in Data Science\n         : Increasing diversity in R-Ladies São Paulo\n         : It Takes a Spark 2024 - Become A Disease Detective\n         : Data in Sport Analytics\n    2025 : Upcoming Events TBD!"
   },
   {
-    "objectID": "outputs/eoy2024.html#questions",
-    "href": "outputs/eoy2024.html#questions",
-    "title": "2024 End of Year Event 🎉",
-    "section": "Questions",
-    "text": "Questions"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About R Ladies Melbourne Inc",
+    "objectID": "timeline.html#timeline",
+    "href": "timeline.html#timeline",
+    "title": "Our Legacy",
     "section": "",
-    "text": "We are a registered non-profit organization and a local chapter of R-Ladies Global. Our aim is to promote gender diversity in the R community, both in Australia and worldwide.\nAs a diversity initiative, the mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusiasts to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.\nR-Ladies Melbourne Inc welcomes members of all R proficiency levels, whether you’re a new or aspiring R user, or an experienced R programmer interested in mentoring, networking & expert upskilling. Our community is designed to develop our members’ R skills & knowledge through social, collaborative learning & sharing."
+    "text": "%%{init: { 'logLevel': 'debug', 'theme': 'default', 'themeVariables': { \n    'fontFamily': 'Helvetica, Arial, sans-serif',\n    'cScale0': '#88398A', 'cScale1': '#e1b9e2',\n    'cScaleLabel0': '#ffffff', 'cScaleLabel1': '#000000'\n} } }%%\n\ntimeline\n    title History of R-Ladies Melbourne \n\n    section Our Foundation\n    2012 : R-Ladies founded in San Francisco by Gabriela de Queiroz 💜\n    2016 : 18th October - R-Ladies Melbourne Launched 🚀\n\n    section Our Meetups\n    2017 : R Notebooks and Interactive Graphs\n         : Git and GitHub Workshop\n         : Twitter Workshop\n         : Web Scraping and Sports Analytics\n         : Build Neural Network with R\n         : mixOmics Combine Large Scale Datasets\n         : Introduction to R Workshop\n         : Random Forest, Climate Change and Food Production\n         : One Year of R-Ladies Melbourne\n         : Introduction to R-Shiny\n         : Christmas Party\n    2018 : Semiparametric and non-parametric models in R\n         : From zero to science hero in 1 week\n         : How R you? R-Ladies Melbourne second anniversary \n         : R as a tool for complex systems modelling \n         : Getting down and up with blogging with R! \n         : Follow me! Introduction so social media analysis in R \n         : Introduction to R \n         : Everything you need to know to create your R Package \n         : More than words - Text Analysis in R \n         : Parallel Programming in R \n         : Public Transport Maps and Geospatial Data in R\n    2019 : Producing publication-ready documents in R Markdown\n         : Baby one more time - reproducibility in R and when to bring in the big guns\n         : NLP with SpaCy in R\n         : Cluster analysis with international education data\n         : Introduction to R Workshop\n         : Gold star reproducibility - straightforward containerisation\n         : Take a sad plot and make it better\n         : Intro to Data Analysis and Graphics with R\n         : R-Shiny Tricks or Treats, Maybe Both?\n         : Designing Data Science\n         : Christmas Networking Party\n    2020 : TidyTuesday\n         : Binovisualfields Package - Development and Publication to CRAN\n         : Recent work in cluster trials and the representation of women in statistics\n         : Would you like to become a more confident and engaging speaker?\n         : R Markdown - A better way of communicating with data\n         : Sport, Data, and R\n         : Resume Guru\n         : How R you? 4-year Anniversary\n    2021 : TidyTuesday \n         : Diversity Scholars Workshop\n         : Create and publish your pesronal website with Blogdown\n         : A remove glimpse into the useR!2021 conference\n         : Anomalies! You can't escape them\n         : The Art of Design - Software and Experimental Design\n    2022 : Automate your CV with R Markdown - Easy as 1, 2, knit\n         : AI Ethics Workshop\n         : How to do analysis for others without going crazy - My mistakes in consulting\n         : Building a new geom in ggplot2\n         : Data viz for mass audiences\n         : The workflow of tidy data, constructing plots and making data driven decisions\n         : Switching between space and time - Spatiotemporal analysis with cubble\n         : How I use workflowr to create reproducible analyses\n         : Choose your own adventure - Tools for Open and Reproducible Research\n    2023 : Navigating Public Health Careers Insights into Career Journeys\n         : What's New in the Tidyverse?\n         : Teaching Computers to See Scatterplots with Scagnostics\n         : It Takes a Spark 2023 - Become A Disease Detective\n    2024 : Careers in Data Science\n         : Increasing diversity in R-Ladies São Paulo\n         : It Takes a Spark 2024 - Become A Disease Detective\n         : Data in Sport Analytics\n    2025 : Upcoming Events TBD!"
   },
   {
-    "objectID": "about.html#who-we-are",
-    "href": "about.html#who-we-are",
-    "title": "About R Ladies Melbourne Inc",
+    "objectID": "timeline.html#our-organising-committees",
+    "href": "timeline.html#our-organising-committees",
+    "title": "Our Legacy",
+    "section": "Our Organising Committees",
+    "text": "Our Organising Committees\n\n2024-25\n\n\n\n\n\n\n\n\nMeetups Hosted:\n\nIncreasing diversity in R-Ladies São Paulo.\nIt Takes a Spark 2024: Become a Disease Detective.\nData in Sport Analytics.\n\n\n\n\n\n\nCommitee Members:\n\nDionne Argyropoulos (President)\nDanyang Dai (Daidai) (Vice President)\nSehrish Kanwal (Secretary)\nKathleen Zeglinski (Treasurer)\nCaitlin Bourke\nLauren Smith\nBelen Prado\nCecilia Rios Teran\nFelicia Bongiovanni\nOutgoing Members: Steph Studniberg, Jayani Lakshika\n\n\n\n2023-24\n\n\n\n\n\n\n\n\nMeetups Hosted:\n\nWhat’s New in the Tidyverse?.\nTeaching Computers to See Scatterplots with Scagnostics.\nIt Takes a Spark 2023: Become A Disease Detective.\nCareers in Data Science.\n\n\n\n\n\n\nCommitee Members:\n\nDanyang Dai (Daidai) (President)\nDionne Argyropoulos (Vice President)\nSehrish Kanwal (Secretary)\nKathleen Zeglinski (Treasurer)\nCaitlin Bourke\nBelen Prado\nCecilia Rios Teran\nSteph Studniberg\nJayani Lakshika\nOutgoing Members: Nikki Rubinstein, Gizem (Evie) Eker, Anna Quaglieri, Yuri Song\n\n\n\n2022-23\n\n\n\n\n\n\n\n\nMeetups Hosted:\n\nBuilding a new geom in ggplot2.\nData viz for mass audiences.\nThe workflow of tidy data, constructing plots and making data driven decisions.\nSwitching between space and time - Spatiotemporal analysis with cubble.\nHow I use workflowr to create reproducible analyses.\nChoose your own adventure - Tools for Open and Reproducible Research.\nNavigating Public Health Careers Insights into Career Journeys.\n\n\n\n\n\n\nCommitee Members:\n\nGizem (Evie) Eker (President)\nDanyang Dai (Daidai) (Vice President)\nSehrish Kanwal (Secretary)\nNikki Rubinstein (Treasurer)\nYuri Song\nAnna Quaglieri\nCaitlin Bourke\nKathleen Zeglinski\nSteph Studniberg\nOutgoing Members: Shazia Ruybal-Pesántez, Alexandra Garnham, Sepideh Foroutan\n\n\n\n2021-22\n\n\n\n\n\n\n\n\nMeetups Hosted:\n\nCreate and publish your pesronal website with Blogdown.\nA remove glimpse into the useR!2021 conference.\nAnomalies! You can’t escape them.\nThe Art of Design - Software and Experimental Design.\nAutomate your CV with R Markdown - Easy as 1, 2, knit.\nAI Ethics Workshop.\nHow to do analysis for others without going crazy - My mistakes in consulting.\n\n\n\n\n\n\nCommitee Members:\n\nShazia Ruybal-Pesántez (President)\nYuri Song (Vice President)\nSehrish Kanwal (Secretary)\nNikki Rubinstein (Treasurer)\nDanyang Dai (Daidai)\nAnna Quaglieri\nAlexandra Garnham\nSepideh Foroutan\nCaitlin Bourke\nGizem (Evie) Eker\nOutgoing Members: Marie Trussart, Adele Barugahare, Miriam Yeung, Shanmathi Ramasubbu, Göknur Giner\n\n\n\n2020-21\n\n\n\n\n\n\n\n\nMeetups Hosted:\n\nRecent work in cluster trials and the representation of women in statistics.\nWould you like to become a more confident and engaging speaker?.\nR Markdown - A better way of communicating with data.\nSport, Data, and R.\nResume Guru.\nHow R you? 4-year Anniversary.\nTidyTuesday.\nrstudio::global(2021) %&gt;% filter(workshops==“diversity scholars”) %&gt;% summarise().\n\n\n\n\n\n\nCommitee Members:\n\nSehrish Kanwal (President)\nMarie Trussart (Vice President)\nShazia Ruybal-Pesántez (Secretary)\nAdele Barugahare (Treasurer)\nAlexandra Garnham\nDanyang Dai (Daidai)\nMiriam Yeung\nShanmathi Ramasubbu\nYuri Song\nAnna Quaglieri\nNikki Rubinstein\nGöknur Giner\nSepideh Foroutan\nStephanie Koo\nMing Kong\n\n\n\n2019-20\n\n\n\n\n\n\n\n\nMeetups Hosted:\n\nBaby one more time - reproducibility in R and when to bring in the big guns.\nNLP with SpaCy in R.\nCluster analysis with international education data.\nIntroduction to R Workshop.\nGold star reproducibility - straightforward containerisation.\nTake a sad plot and make it better.\nIntro to Data Analysis and Graphics with R.\nR-Shiny Tricks or Treats, Maybe Both?.\nDesigning Data Science.\nChristmas Networking Party.\nTidyTuesday.\nBinovisualfields Package - Development and Publication to CRAN.\n\n\n\n\n\n\nCommitee Members:\n\nSepideh Foroutan (President)\nNikki Rubinstein (Vice President)\nMarie Trussart (Vice President)\nGöknur Giner (Secretary)\nLucy Liu (Secretary)\nAdele Barugahare (Treasurer)\nShazia Ruybal-Pesántez\nSaskia Freytag\nAlexandra Garnham\nAnna Quaglieri\nMiriam Yeung\nShanmathi Ramasubbu\nOutgoing Members: Roxane Legaie, Sooror Zadeh\n\n\n\n2018-19\n\n\n\n\n\n\n\n\nMeetups Hosted:\n\nIntroduction to R\nFollow me! Introduction to social media analysis in R\nGetting down and up with blogging with R!\nR as a tool for complex systems modelling\nHow R you? R-Ladies Melbourne second anniversary\nFrom zero to science hero in 1 week\nSemiparametric and non parametric models in R\nProducing publication-ready documents in R Markdown.\n\n\n\n\n\n\nCommitee Members:\n\nGöknur Giner\nSepideh Foroutan\nSaskia Freytag\nRoxane Legaie\nAlexandra Garnham\nAnna Quaglieri\nSooror Zadeh\nMarie Trussart\nNikki Rubinstein\nAdele Barugahare\nLucy Liu\n\n\n\n2017-18\n\n\n\n\n\n\n\n\nMeetups Hosted:\n\nTwitter Workshop\nWeb Scraping and Sports Analytics\nBuild Neural Network with R\nmixOmics Combine Large Scale Datasets\nIntroduction to R Workshop\nRandom Forest, Climate Change and Food Production\nOne Year of R-Ladies Melbourne\nIntroduction to R-Shiny\nChristmas Party\nPublic Transport Maps and Geospatial Data in R\nParallel Programming in R\nMore than words - Text analysis in R\nEverything you need to know to create your R package!\n\n\n\n\n\n\nCommitee Members:\n\nSepideh Foroutan (President)\nNikki Rubinstein (Vice President)\nGöknur Giner\nSaskia Freytag\nRoxane Legaie\nAlexandra Garnham\nAnna Quaglieri\nSooror Zadeh\nMarie Trussart\n\n\n\n2016-17\n\n\n\n\n\n\n\n\nMeetups Hosted:\n\nOur first meetup.\nR Notebooks and Interactive Graphs\nGit and GitHub Workshop\n\n\n\n\n\n\nCommitee Members:\n\nGöknur Giner\nSepideh Foroutan\nSaskia Freytag\nRoxane Legaie\nAlexandra Garnham\nAnna Quaglieri\nSooror Zadeh"
+  },
+  {
+    "objectID": "timeline.html#committee-member-profiles",
+    "href": "timeline.html#committee-member-profiles",
+    "title": "Our Legacy",
+    "section": "Committee Member Profiles",
+    "text": "Committee Member Profiles"
+  },
+  {
+    "objectID": "outputs/redu_itas.html",
+    "href": "outputs/redu_itas.html",
+    "title": "It Takes A Spark ✨",
     "section": "",
-    "text": "We are a registered non-profit organization and a local chapter of R-Ladies Global. Our aim is to promote gender diversity in the R community, both in Australia and worldwide.\nAs a diversity initiative, the mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusiasts to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.\nR-Ladies Melbourne Inc welcomes members of all R proficiency levels, whether you’re a new or aspiring R user, or an experienced R programmer interested in mentoring, networking & expert upskilling. Our community is designed to develop our members’ R skills & knowledge through social, collaborative learning & sharing."
+    "text": "R-Ladies Melbourne has been excited to present at the 2022, 2023 and 2024 It Takes a Spark Conference, organised for students and teachers to participate, learn and be inspired by current advances in Science, Technology, Engineering and Maths. Dionne and Kathleen presented this year’s workshop.\nR-Ladies Melbourne’s workshop is called “Become a disease detective - solve an outbreak!” and all our learning material is available online as a website and slides with the code to create the website and slides available on our github (website code and slides code).\n\n\n\n\n\n\n\n\n\nCaitlin (left) and Shazia (right) presenting in 2022!\n\n\n\n\n\n\n\nCaitlin presenting in 2023, with Dionne and Lauren (not shown) assisting."
   },
   {
-    "objectID": "about.html#what-we-do",
-    "href": "about.html#what-we-do",
-    "title": "About R Ladies Melbourne Inc",
-    "section": "What we do",
-    "text": "What we do\nWe host regular meet-ups, usually monthly or twice a month. We cover a range of topics from intro to advanced - for more information click here to see github repo with all our previous events. For our upcoming events make sure you check out our Meetup page. You can also view most of our event recordings at our Youtube channel."
-  },
-  {
-    "objectID": "about.html#join-our-community",
-    "href": "about.html#join-our-community",
-    "title": "About R Ladies Melbourne Inc",
-    "section": "Join our community",
-    "text": "Join our community\nFollow us and join our vibrant online community on Twitter @RLadiesMelb to stay up-to-date with our events and activities. We are always on the look out for speakers so do get in touch if you are interested!\nSee you at our next meet-up 💜"
-  },
-  {
-    "objectID": "blog_index.html",
-    "href": "blog_index.html",
-    "title": "Blog Posts",
+    "objectID": "outputs/redu_itas.html#about-the-program",
+    "href": "outputs/redu_itas.html#about-the-program",
+    "title": "It Takes A Spark ✨",
     "section": "",
-    "text": "Welcome to our website blog! Here you’ll find all the latest posts and can stay up-to-date with us!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMeetup: 20th Nov 2024: Leveraging the Power of Data in Sport\n\n\n\n\n\n\nEvent\n\n\nData Science\n\n\nAFL\n\n\n\n\n\n\n\n\n\nNov 7, 2024\n\n\nCaitlin Bourke\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to Our Website 💜\n\n\n\n\n\n\nAdmin\n\n\nCode\n\n\n\n\n\n\n\n\n\nNov 6, 2024\n\n\nDionne Argyropoulos\n\n\n\n\n\n\nNo matching items"
+    "text": "R-Ladies Melbourne has been excited to present at the 2022, 2023 and 2024 It Takes a Spark Conference, organised for students and teachers to participate, learn and be inspired by current advances in Science, Technology, Engineering and Maths. Dionne and Kathleen presented this year’s workshop.\nR-Ladies Melbourne’s workshop is called “Become a disease detective - solve an outbreak!” and all our learning material is available online as a website and slides with the code to create the website and slides available on our github (website code and slides code).\n\n\n\n\n\n\n\n\n\nCaitlin (left) and Shazia (right) presenting in 2022!\n\n\n\n\n\n\n\nCaitlin presenting in 2023, with Dionne and Lauren (not shown) assisting."
   },
   {
-    "objectID": "posts/06_11_24_welcome.html",
-    "href": "posts/06_11_24_welcome.html",
-    "title": "Welcome to Our Website 💜",
-    "section": "",
-    "text": "This is the first entry on our R Ladies Melbourne website!\nThe intention of this website is to hold a place for of our chapter’s events, links, code, tutorials and so on, with the hopes that this will be a portal for members to continue to grow their skills and learn from each other.\nLet us know via our email or github repo if there are any features you’d like to see or recommend!\nDionne on behalf of R Ladies Melbourne!\nBack to our blog home page"
-  },
-  {
-    "objectID": "posts/06_11_24_event.html#about-the-event",
-    "href": "posts/06_11_24_event.html#about-the-event",
-    "title": "Meetup: 20th Nov 2024: Leveraging the Power of Data in Sport",
-    "section": "About the Event",
-    "text": "About the Event\nR Ladies Melbourne is very excited to announce our next meetup event. We will be welcoming two data analytics experts, Elisa Koch and Lauren Boothby, who both work at the Australian Football League and will be joining us to discuss Leveraging the Power of Data in Sport.\nElisa has worked as a Data & Analytics leader in the US and Australia in industries spanning finance, FMCG, technology, and sport. Currently, she is the Head of Data and Analytics at the Australian Football League (AFL). She is passionate about leading businesses to be more data driven at all levels of the business. Elisa is a people-first leader passionate about building high-performing teams built on diverse thinking and the ability to bring our authentic selves to work. Elisa serves as an Advisory Board Member for the Institute of Analytic Professionals Australia and is on the board of Spectrum Migrant Resource Centre, a non-profit focused on enabling people with migrant and refugee backgrounds to feel at home in Australia.\nLauren is a Senior Data Analyst and joined the Data and Analytics team at the AFL in 2023 from North Melbourne where she spent over five years working in both the football department and strategy team as a data analyst. Previous to this, Lauren has experience working with the West Coast Fever Netball Team and the West Coast Eagles Football Club.\nPlease join us on Wednesday 20th November 2024 at Dius Offices Melbourne from 5.30pm. We will first have a casual networking catch-up with some light refreshments, and the presentation will start at 6pm. You will also be able to join this event online if you are not able to join us in person. Please register your attendance (both in-person and online) on Meetup by the 14th November for planning purposes.\nWe look forward to seeing you there!\n💜 Caitlin on behalf of R Ladies Melbourne\nBack to our blog home page"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to R Ladies Melbourne Inc 🐨💜",
-    "section": "",
-    "text": "R Ladies Melbourne Inc is a registered non-profit organization and a local chapter of R Ladies Global. Our aim is to promote gender diversity in the R community, both in Australia and worldwide. We welcome members of all R proficiency levels, whether you’re a new or aspiring R user or experienced in R programming and interested in mentoring, networking & expert upskilling. Our community is designed to develop our members’ R skills & knowledge through social, collaborative learning & sharing. Checkout our about us page to learn more."
-  },
-  {
-    "objectID": "index.html#r-ladies-melbourne-a-chapter-of-r-ladies-global",
-    "href": "index.html#r-ladies-melbourne-a-chapter-of-r-ladies-global",
-    "title": "Welcome to R Ladies Melbourne Inc 🐨💜",
-    "section": "",
-    "text": "R Ladies Melbourne Inc is a registered non-profit organization and a local chapter of R Ladies Global. Our aim is to promote gender diversity in the R community, both in Australia and worldwide. We welcome members of all R proficiency levels, whether you’re a new or aspiring R user or experienced in R programming and interested in mentoring, networking & expert upskilling. Our community is designed to develop our members’ R skills & knowledge through social, collaborative learning & sharing. Checkout our about us page to learn more."
-  },
-  {
-    "objectID": "index.html#sec-committee",
-    "href": "index.html#sec-committee",
-    "title": "Welcome to R Ladies Melbourne Inc 🐨💜",
-    "section": "Meet our Committee",
-    "text": "Meet our Committee\nOur leadership for 2024-25 R Ladies Melbourne includes:\n\nPresident: Dionne Argyropoulos\nVice-President: Danyang Dai (Daidai)\nSecretary: Sehrish Kanwal\nTreasurer: Kathleen Zeglinski\nCommittee members: Caitlin Bourke, Lauren Smith, Belen Prado, Cecilia Rios Teran, Felicia Bongiovanni\n\n\n\n\nBelen (top left), Daidai (top middle), Dionne (top right), Kathleen (middle left), Sehrish (centre), Lauren (middle right), Caitlin (middle bottom), Cecilia Rios Teran (not shown), Felicia Bongiovanni (not shown).\nPlease email us if you’d like to join our committee!"
-  },
-  {
-    "objectID": "index.html#meetup-events",
-    "href": "index.html#meetup-events",
-    "title": "Welcome to R Ladies Melbourne Inc 🐨💜",
-    "section": "Meetup Events",
-    "text": "Meetup Events\nWe host meet-up events covering a range of topics from introduction to advanced. We are currently recruiting committee members and speakers for our 2025 line-up so that we can have regular meetings once or twice a month! Fill out or expression of interest form if you’d like to present or speak at one of our events!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSee our github repo more information on our previous events. For our upcoming events make sure you check out our Meetup page. You can also view most of our event recordings at our Youtube channel."
+    "objectID": "outputs/redu_itas.html#r-education",
+    "href": "outputs/redu_itas.html#r-education",
+    "title": "It Takes A Spark ✨",
+    "section": "R Education",
+    "text": "R Education\nOur continued participation in this program has helped us to identify various successes and challenges that we need to overcome in order to teach R and coding skills to students and teachers who have little-to-no experience.\nWe will be discussing this in a meetup soon!"
   },
   {
     "objectID": "ourwork.html",
@@ -98,24 +56,94 @@
     "text": "This is a page with the contents of our outputs and events."
   },
   {
-    "objectID": "outputs/redu_itas.html",
-    "href": "outputs/redu_itas.html",
-    "title": "It Takes A Spark ✨",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to R-Ladies Melbourne Inc 🐨💜",
     "section": "",
-    "text": "R Ladies Melbourne has been excited to present at the 2022, 2023 and 2024 It Takes a Spark Conference, organised for students and teachers to participate, learn and be inspired by current advances in Science, Technology, Engineering and Maths. Dionne and Kathleen presented this year’s workshop.\nR Ladies Melbourne’s workshop is called “Become a disease detective - solve an outbreak!” and all our learning material is available online as a website and slides with the code to create the website and slides available on our github (website code and slides code).\n\n\n\n\n\n\n\n\n\nCaitlin (left) and Shazia (right) presenting in 2022!\n\n\n\n\n\n\n\nCaitlin presenting in 2023, with Dionne and Lauren (not shown) assisting."
+    "text": "R-Ladies Melbourne Inc is a registered non-profit organization and a local chapter of R-Ladies Global. Our aim is to promote gender diversity in the R community, both in Australia and worldwide. We welcome members of all R proficiency levels, whether you’re a new or aspiring R user or experienced in R programming and interested in mentoring, networking & expert upskilling. Our community is designed to develop our members’ R skills & knowledge through social, collaborative learning & sharing. Checkout our about us page to learn more."
   },
   {
-    "objectID": "outputs/redu_itas.html#about-the-program",
-    "href": "outputs/redu_itas.html#about-the-program",
-    "title": "It Takes A Spark ✨",
+    "objectID": "index.html#r-ladies-melbourne-a-chapter-of-r-ladies-global",
+    "href": "index.html#r-ladies-melbourne-a-chapter-of-r-ladies-global",
+    "title": "Welcome to R-Ladies Melbourne Inc 🐨💜",
     "section": "",
-    "text": "R Ladies Melbourne has been excited to present at the 2022, 2023 and 2024 It Takes a Spark Conference, organised for students and teachers to participate, learn and be inspired by current advances in Science, Technology, Engineering and Maths. Dionne and Kathleen presented this year’s workshop.\nR Ladies Melbourne’s workshop is called “Become a disease detective - solve an outbreak!” and all our learning material is available online as a website and slides with the code to create the website and slides available on our github (website code and slides code).\n\n\n\n\n\n\n\n\n\nCaitlin (left) and Shazia (right) presenting in 2022!\n\n\n\n\n\n\n\nCaitlin presenting in 2023, with Dionne and Lauren (not shown) assisting."
+    "text": "R-Ladies Melbourne Inc is a registered non-profit organization and a local chapter of R-Ladies Global. Our aim is to promote gender diversity in the R community, both in Australia and worldwide. We welcome members of all R proficiency levels, whether you’re a new or aspiring R user or experienced in R programming and interested in mentoring, networking & expert upskilling. Our community is designed to develop our members’ R skills & knowledge through social, collaborative learning & sharing. Checkout our about us page to learn more."
   },
   {
-    "objectID": "outputs/redu_itas.html#r-education",
-    "href": "outputs/redu_itas.html#r-education",
-    "title": "It Takes A Spark ✨",
-    "section": "R Education",
-    "text": "R Education\nOur continued participation in this program has helped us to identify various successes and challenges that we need to overcome in order to teach R and coding skills to students and teachers who have little-to-no experience.\nWe will be discussing this in a meetup soon!"
+    "objectID": "index.html#sec-committee",
+    "href": "index.html#sec-committee",
+    "title": "Welcome to R-Ladies Melbourne Inc 🐨💜",
+    "section": "Meet our Committee",
+    "text": "Meet our Committee\nOur leadership for 2024-25 R-Ladies Melbourne includes:\n\nPresident: Dionne Argyropoulos\nVice President: Danyang Dai (Daidai)\nSecretary: Sehrish Kanwal\nTreasurer: Kathleen Zeglinski\nCommittee members: Caitlin Bourke, Lauren Smith, Belen Prado, Cecilia Rios Teran, Felicia Bongiovanni\n\n\n\n\nBelen (top left), Daidai (top middle), Dionne (top right), Kathleen (middle left), Sehrish (centre), Lauren (middle right), Caitlin (middle bottom), Cecilia Rios Teran (not shown), Felicia Bongiovanni (not shown).\nPlease email us if you’d like to join our committee!"
+  },
+  {
+    "objectID": "index.html#meetup-events",
+    "href": "index.html#meetup-events",
+    "title": "Welcome to R-Ladies Melbourne Inc 🐨💜",
+    "section": "Meetup Events",
+    "text": "Meetup Events\nWe host meet-up events covering a range of topics from introduction to advanced. We are currently recruiting committee members and speakers for our 2025 line-up so that we can have regular meetings once or twice a month! Fill out or expression of interest form if you’d like to present or speak at one of our events!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSee our github repo more information on our previous events. For our upcoming events make sure you check out our Meetup page. You can also view most of our event recordings at our Youtube channel."
+  },
+  {
+    "objectID": "posts/06_11_24_event.html#about-the-event",
+    "href": "posts/06_11_24_event.html#about-the-event",
+    "title": "Meetup: 20th Nov 2024: Leveraging the Power of Data in Sport",
+    "section": "About the Event",
+    "text": "About the Event\nR-Ladies Melbourne is very excited to announce our next meetup event. We will be welcoming two data analytics experts, Elisa Koch and Lauren Boothby, who both work at the Australian Football League and will be joining us to discuss Leveraging the Power of Data in Sport.\nElisa has worked as a Data & Analytics leader in the US and Australia in industries spanning finance, FMCG, technology, and sport. Currently, she is the Head of Data and Analytics at the Australian Football League (AFL). She is passionate about leading businesses to be more data driven at all levels of the business. Elisa is a people-first leader passionate about building high-performing teams built on diverse thinking and the ability to bring our authentic selves to work. Elisa serves as an Advisory Board Member for the Institute of Analytic Professionals Australia and is on the board of Spectrum Migrant Resource Centre, a non-profit focused on enabling people with migrant and refugee backgrounds to feel at home in Australia.\nLauren is a Senior Data Analyst and joined the Data and Analytics team at the AFL in 2023 from North Melbourne where she spent over five years working in both the football department and strategy team as a data analyst. Previous to this, Lauren has experience working with the West Coast Fever Netball Team and the West Coast Eagles Football Club.\nPlease join us on Wednesday 20th November 2024 at Dius Offices Melbourne from 5.30pm. We will first have a casual networking catch-up with some light refreshments, and the presentation will start at 6pm. You will also be able to join this event online if you are not able to join us in person. Please register your attendance (both in-person and online) on Meetup by the 14th November for planning purposes.\nWe look forward to seeing you there!\n💜 Caitlin on behalf of R-Ladies Melbourne\nBack to our blog home page"
+  },
+  {
+    "objectID": "posts/06_11_24_welcome.html",
+    "href": "posts/06_11_24_welcome.html",
+    "title": "Welcome to Our Website 💜",
+    "section": "",
+    "text": "This is the first entry on our R-Ladies Melbourne website!\nThe intention of this website is to hold a place for of our chapter’s events, links, code, tutorials and so on, with the hopes that this will be a portal for members to continue to grow their skills and learn from each other.\nLet us know via our email or github repo if there are any features you’d like to see or recommend!\nDionne on behalf of R-Ladies Melbourne!\nBack to our blog home page"
+  },
+  {
+    "objectID": "blog_index.html",
+    "href": "blog_index.html",
+    "title": "Blog Posts",
+    "section": "",
+    "text": "Welcome to our website blog! Here you’ll find all the latest posts and can stay up-to-date with us!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMeetup: 20th Nov 2024: Leveraging the Power of Data in Sport\n\n\n\n\n\n\nEvent\n\n\nData Science\n\n\nAFL\n\n\n\n\n\n\n\n\n\nNov 7, 2024\n\n\nCaitlin Bourke\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to Our Website 💜\n\n\n\n\n\n\nAdmin\n\n\nCode\n\n\n\n\n\n\n\n\n\nNov 6, 2024\n\n\nDionne Argyropoulos\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About R-Ladies Melbourne Inc",
+    "section": "",
+    "text": "We are a registered non-profit organization and a local chapter of R-Ladies Global. Our aim is to promote gender diversity in the R community, both in Australia and worldwide.\nAs a diversity initiative, the mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusiasts to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.\nR-Ladies Melbourne Inc welcomes members of all R proficiency levels, whether you’re a new or aspiring R user, or an experienced R programmer interested in mentoring, networking & expert upskilling. Our community is designed to develop our members’ R skills & knowledge through social, collaborative learning & sharing."
+  },
+  {
+    "objectID": "about.html#who-we-are",
+    "href": "about.html#who-we-are",
+    "title": "About R-Ladies Melbourne Inc",
+    "section": "",
+    "text": "We are a registered non-profit organization and a local chapter of R-Ladies Global. Our aim is to promote gender diversity in the R community, both in Australia and worldwide.\nAs a diversity initiative, the mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusiasts to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.\nR-Ladies Melbourne Inc welcomes members of all R proficiency levels, whether you’re a new or aspiring R user, or an experienced R programmer interested in mentoring, networking & expert upskilling. Our community is designed to develop our members’ R skills & knowledge through social, collaborative learning & sharing."
+  },
+  {
+    "objectID": "about.html#what-we-do",
+    "href": "about.html#what-we-do",
+    "title": "About R-Ladies Melbourne Inc",
+    "section": "What we do",
+    "text": "What we do\nWe host regular meet-ups, usually monthly or twice a month. We cover a range of topics from intro to advanced - for more information click here to see github repo with all our previous events. For our upcoming events make sure you check out our Meetup page. You can also view most of our event recordings at our Youtube channel."
+  },
+  {
+    "objectID": "about.html#join-our-community",
+    "href": "about.html#join-our-community",
+    "title": "About R-Ladies Melbourne Inc",
+    "section": "Join our community",
+    "text": "Join our community\nFollow us and join our vibrant online community on Twitter @RLadiesMelb to stay up-to-date with our events and activities. We are always on the look out for speakers so do get in touch if you are interested!\nSee you at our next meet-up 💜"
+  },
+  {
+    "objectID": "outputs/eoy2024.html#questions",
+    "href": "outputs/eoy2024.html#questions",
+    "title": "2024 End of Year Event 🎉",
+    "section": "Questions",
+    "text": "Questions"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "RStudio Education for Beginners\nR for Data Science\nThe Epidemiologist R Handbook\nR You With Me\nR-Graph Gallery"
   }
 ]

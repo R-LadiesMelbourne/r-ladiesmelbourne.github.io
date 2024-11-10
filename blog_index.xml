@@ -5,7 +5,7 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>R Ladies Melbourne Inc</title>
+<title>R-Ladies Melbourne Inc</title>
 <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/blog_index.html</link>
 <atom:link href="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/blog_index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
@@ -29,12 +29,12 @@
 <p>Location: In Person, DiUS (Level 3, 31 Queen St, Melbourne)</p>
 </div></div><section id="about-the-event" class="level2">
 <h2 class="anchored" data-anchor-id="about-the-event">About the Event</h2>
-<p>R Ladies Melbourne is very excited to announce our next meetup event. We will be welcoming two data analytics experts, Elisa Koch and Lauren Boothby, who both work at the Australian Football League and will be joining us to discuss Leveraging the Power of Data in Sport.</p>
+<p>R-Ladies Melbourne is very excited to announce our next meetup event. We will be welcoming two data analytics experts, Elisa Koch and Lauren Boothby, who both work at the Australian Football League and will be joining us to discuss Leveraging the Power of Data in Sport.</p>
 <p>Elisa has worked as a Data &amp; Analytics leader in the US and Australia in industries spanning finance, FMCG, technology, and sport. Currently, she is the Head of Data and Analytics at the Australian Football League (AFL). She is passionate about leading businesses to be more data driven at all levels of the business. Elisa is a people-first leader passionate about building high-performing teams built on diverse thinking and the ability to bring our authentic selves to work. Elisa serves as an Advisory Board Member for the Institute of Analytic Professionals Australia and is on the board of Spectrum Migrant Resource Centre, a non-profit focused on enabling people with migrant and refugee backgrounds to feel at home in Australia.</p>
 <p>Lauren is a Senior Data Analyst and joined the Data and Analytics team at the AFL in 2023 from North Melbourne where she spent over five years working in both the football department and strategy team as a data analyst. Previous to this, Lauren has experience working with the West Coast Fever Netball Team and the West Coast Eagles Football Club.</p>
 <p>Please join us on Wednesday 20th November 2024 at Dius Offices Melbourne from 5.30pm. We will first have a casual networking catch-up with some light refreshments, and the presentation will start at 6pm. You will also be able to join this event online if you are not able to join us in person. Please register your attendance (both in-person and online) on Meetup by the 14th November for planning purposes.</p>
 <p>We look forward to seeing you there!</p>
-<p>💜 Caitlin on behalf of R Ladies Melbourne</p>
+<p>💜 Caitlin on behalf of R-Ladies Melbourne</p>
 <p><a href="../blog_index.html">Back to our blog home page</a></p>
 
 
@@ -61,10 +61,10 @@
 <p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/rladiesmelblogo.png" class="img-fluid" width="500"></p>
 </div>
 <div>
-<p>This is the first entry on our R Ladies Melbourne website!</p>
+<p>This is the first entry on our R-Ladies Melbourne website!</p>
 <p>The intention of this website is to hold a place for of our chapter’s events, links, code, tutorials and so on, with the hopes that this will be a portal for members to continue to grow their skills and learn from each other.</p>
 <p>Let us know via our <a href="rladiesmelbourne@gmail.com"><strong>email</strong></a> or <a href="https://github.com/R-LadiesMelbourne"><strong>github repo</strong></a> if there are any features you’d like to see or recommend!</p>
-<p>Dionne on behalf of R Ladies Melbourne!</p>
+<p>Dionne on behalf of R-Ladies Melbourne!</p>
 <p><a href="../blog_index.html">Back to our blog home page</a></p>
 </div>
 </div>
