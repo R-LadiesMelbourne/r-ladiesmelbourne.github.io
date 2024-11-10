@@ -1,5 +1,5 @@
 ---
-title: "About R Ladies Melbourne Inc"
+title: "About R-Ladies Melbourne Inc"
 about:
   template: broadside
   image: images/rladiesmelblogo.png

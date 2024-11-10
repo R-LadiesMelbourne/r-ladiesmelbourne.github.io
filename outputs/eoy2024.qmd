@@ -10,7 +10,7 @@ title: "2024 End of Year Event 🎉"
 
 ### Fun Facts
 
-## Questions 
+## Questions
 
 <script src="https://utteranc.es/client.js"
         repo="R-LadiesMelbourne/EOY_Event"

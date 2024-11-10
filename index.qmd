@@ -1,18 +1,18 @@
 ---
-title: "Welcome to R Ladies Melbourne Inc 🐨💜"
+title: "Welcome to R-Ladies Melbourne Inc 🐨💜"
 toc: false 
 ---
 
-## R Ladies Melbourne: A Chapter of R Ladies Global
+## R-Ladies Melbourne: A Chapter of R-Ladies Global
 
-[R Ladies Melbourne Inc]{style="color:purple"} is a registered non-profit organization and a local chapter of [**R Ladies Global**](https://rladies.org/). Our aim is to promote gender diversity in the R community, both in Australia and worldwide. We welcome members of all R proficiency levels, whether you're a new or aspiring R user or experienced in R programming and interested in mentoring, networking & expert upskilling. Our community is designed to develop our members' R skills & knowledge through social, collaborative learning & sharing. Checkout our [**about us page**](about.qmd) to learn more.
+[R-Ladies Melbourne Inc]{style="color:purple"} is a registered non-profit organization and a local chapter of [**R-Ladies Global**](https://rladies.org/). Our aim is to promote gender diversity in the R community, both in Australia and worldwide. We welcome members of all R proficiency levels, whether you're a new or aspiring R user or experienced in R programming and interested in mentoring, networking & expert upskilling. Our community is designed to develop our members' R skills & knowledge through social, collaborative learning & sharing. Checkout our [**about us page**](about.qmd) to learn more.
 
 ## Meet our Committee {#sec-committee}
 
-Our leadership for 2024-25 R Ladies Melbourne includes:
+Our leadership for 2024-25 R-Ladies Melbourne includes:
 
 -   **President**: Dionne Argyropoulos
--   **Vice-President**: Danyang Dai (Daidai)
+-   **Vice President**: Danyang Dai (Daidai)
 -   **Secretary**: Sehrish Kanwal
 -   **Treasurer**: Kathleen Zeglinski
 -   **Committee members**: Caitlin Bourke, Lauren Smith, Belen Prado, Cecilia Rios Teran, Felicia Bongiovanni

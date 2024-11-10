@@ -1,0 +1,500 @@
+---
+title: "Our Legacy"
+---
+
+## Timeline
+
+:::{.column-screen-inset-shaded}
+
+```{mermaid}
+%%{init: { 'logLevel': 'debug', 'theme': 'default', 'themeVariables': { 
+    'fontFamily': 'Helvetica, Arial, sans-serif',
+    'cScale0': '#88398A', 'cScale1': '#e1b9e2',
+    'cScaleLabel0': '#ffffff', 'cScaleLabel1': '#000000'
+} } }%%
+
+timeline
+    title History of R-Ladies Melbourne 
+
+    section Our Foundation
+    2012 : R-Ladies founded in San Francisco by Gabriela de Queiroz 💜
+    2016 : 18th October - R-Ladies Melbourne Launched 🚀
+
+    section Our Meetups
+    2017 : R Notebooks and Interactive Graphs
+         : Git and GitHub Workshop
+         : Twitter Workshop
+         : Web Scraping and Sports Analytics
+         : Build Neural Network with R
+         : mixOmics Combine Large Scale Datasets
+         : Introduction to R Workshop
+         : Random Forest, Climate Change and Food Production
+         : One Year of R-Ladies Melbourne
+         : Introduction to R-Shiny
+         : Christmas Party
+    2018 : Semiparametric and non-parametric models in R
+         : From zero to science hero in 1 week
+         : How R you? R-Ladies Melbourne second anniversary 
+         : R as a tool for complex systems modelling 
+         : Getting down and up with blogging with R! 
+         : Follow me! Introduction so social media analysis in R 
+         : Introduction to R 
+         : Everything you need to know to create your R Package 
+         : More than words - Text Analysis in R 
+         : Parallel Programming in R 
+         : Public Transport Maps and Geospatial Data in R
+    2019 : Producing publication-ready documents in R Markdown
+         : Baby one more time - reproducibility in R and when to bring in the big guns
+         : NLP with SpaCy in R
+         : Cluster analysis with international education data
+         : Introduction to R Workshop
+         : Gold star reproducibility - straightforward containerisation
+         : Take a sad plot and make it better
+         : Intro to Data Analysis and Graphics with R
+         : R-Shiny Tricks or Treats, Maybe Both?
+         : Designing Data Science
+         : Christmas Networking Party
+    2020 : TidyTuesday
+         : Binovisualfields Package - Development and Publication to CRAN
+         : Recent work in cluster trials and the representation of women in statistics
+         : Would you like to become a more confident and engaging speaker?
+         : R Markdown - A better way of communicating with data
+         : Sport, Data, and R
+         : Resume Guru
+         : How R you? 4-year Anniversary
+    2021 : TidyTuesday 
+         : Diversity Scholars Workshop
+         : Create and publish your pesronal website with Blogdown
+         : A remove glimpse into the useR!2021 conference
+         : Anomalies! You can't escape them
+         : The Art of Design - Software and Experimental Design
+    2022 : Automate your CV with R Markdown - Easy as 1, 2, knit
+         : AI Ethics Workshop
+         : How to do analysis for others without going crazy - My mistakes in consulting
+         : Building a new geom in ggplot2
+         : Data viz for mass audiences
+         : The workflow of tidy data, constructing plots and making data driven decisions
+         : Switching between space and time - Spatiotemporal analysis with cubble
+         : How I use workflowr to create reproducible analyses
+         : Choose your own adventure - Tools for Open and Reproducible Research
+    2023 : Navigating Public Health Careers Insights into Career Journeys
+         : What's New in the Tidyverse?
+         : Teaching Computers to See Scatterplots with Scagnostics
+         : It Takes a Spark 2023 - Become A Disease Detective
+    2024 : Careers in Data Science
+         : Increasing diversity in R-Ladies São Paulo
+         : It Takes a Spark 2024 - Become A Disease Detective
+         : Data in Sport Analytics
+    2025 : Upcoming Events TBD!
+```
+
+:::
+
+## Our Organising Committees
+
+### 2024-25
+
+::: {.two-column-layout}
+<div style="display: flex;">
+
+  <!-- Image Column -->
+  <div style="flex: 1; padding: 10px;">
+  ![](images/committee_24_25.jpeg){width=100%}
+  </div>
+
+  <!-- Text Column -->
+  <div style="flex: 1; padding: 10px;">
+  **Meetups Hosted**: 
+
+  * [Increasing diversity in R-Ladies São Paulo](https://github.com/R-LadiesMelbourne/02-05-24-Actions-to-increase-diversity-in-the-R-Ladies-community-Sao-Paulo). 
+  * [It Takes a Spark 2024: Become a Disease Detective](https://github.com/R-LadiesMelbourne/24-10-24-ItTakesASpark). 
+  * [Data in Sport Analytics](https://github.com/R-LadiesMelbourne/20-11-24-Leveraging-the-Power-of-Data-in-Sport/tree/main). 
+
+  </div>
+
+</div>
+:::
+
+::: {.column-margin}
+
+**Commitee Members**: 
+
+  - Dionne Argyropoulos (President)
+  - Danyang Dai (Daidai) (Vice President)
+  - Sehrish Kanwal (Secretary)
+  - Kathleen Zeglinski (Treasurer)
+  - Caitlin Bourke
+  - Lauren Smith
+  - Belen Prado
+  - Cecilia Rios Teran
+  - Felicia Bongiovanni
+  - Outgoing Members: Steph Studniberg, Jayani Lakshika 
+
+:::
+
+### 2023-24
+
+::: {.two-column-layout}
+<div style="display: flex;">
+
+  <!-- Image Column -->
+  <div style="flex: 1; padding: 10px;">
+  ![](images/committee_23_24.jpeg){width=100%}
+  </div>
+
+  <!-- Text Column -->
+  <div style="flex: 1; padding: 10px;">
+  **Meetups Hosted**: 
+  
+  * [What's New in the Tidyverse?](https://github.com/R-LadiesMelbourne/30-05-2023-Whats-New-In-The-Tidyverse). 
+  * [Teaching Computers to See Scatterplots with Scagnostics](https://github.com/R-LadiesMelbourne/08-11-23-Teaching-Computers-to-See-Scatterplots-with-Scagnostics). 
+  * [It Takes a Spark 2023: Become A Disease Detective](https://github.com/R-LadiesMelbourne/17-11-23-ItTakesASpark). 
+  * [Careers in Data Science](https://github.com/R-LadiesMelbourne/26-03-24-Careers-in-data-science-and-statistics). 
+  
+  </div>
+
+</div>
+:::
+
+::: {.column-margin}
+
+**Commitee Members**: 
+
+  - Danyang Dai (Daidai) (President)
+  - Dionne Argyropoulos (Vice President)
+  - Sehrish Kanwal (Secretary)
+  - Kathleen Zeglinski (Treasurer)
+  - Caitlin Bourke
+  - Belen Prado
+  - Cecilia Rios Teran
+  - Steph Studniberg 
+  - Jayani Lakshika 
+  - Outgoing Members: Nikki Rubinstein, Gizem (Evie) Eker, Anna Quaglieri, Yuri Song
+
+:::
+
+### 2022-23
+
+::: {.two-column-layout}
+<div style="display: flex;">
+
+  <!-- Image Column -->
+  <div style="flex: 1; padding: 10px;">
+  ![](images/committee_22_23.jpeg){width=100%}
+  </div>
+
+  <!-- Text Column -->
+  <div style="flex: 1; padding: 10px;">
+  **Meetups Hosted**: 
+  
+  * [Building a new geom in ggplot2](https://github.com/R-LadiesMelbourne/24-05-2022-Building-a-new-geom-in-ggplot2). 
+  * [Data viz for mass audiences](https://github.com/R-LadiesMelbourne/07-04-2022-Data-viz-for-mass-audiences-with-Juliette-O-Brien). 
+  * [The workflow of tidy data, constructing plots and making data driven decisions](https://github.com/R-LadiesMelbourne/01-09-2022-The-workflow-of-tidy-data-building-new-plots-and-making-data-driven-decisions). 
+  * [Switching between space and time - Spatiotemporal analysis with cubble](https://github.com/R-LadiesMelbourne/27-09-2022-Spatio-Temporal-analysis-with-cubble). 
+  * [How I use workflowr to create reproducible analyses](https://github.com/R-LadiesMelbourne/13-11-2022-How-I-use-workflowr-to-create-reproducible-analyses). 
+  * [Choose your own adventure - Tools for Open and Reproducible Research](https://github.com/R-LadiesMelbourne/30-11-22-Chose-your-own-adventure-Tools-For-Open-and-Reproducible-Research.git). 
+  * [Navigating Public Health Careers Insights into Career Journeys](https://github.com/R-LadiesMelbourne/23-02-23-Navigating-Public-Health-Careers/tree/main). 
+
+  </div>
+
+</div>
+:::
+
+::: {.column-margin}
+
+**Commitee Members**: 
+
+  - Gizem (Evie) Eker (President)
+  - Danyang Dai (Daidai) (Vice President)
+  - Sehrish Kanwal (Secretary)
+  - Nikki Rubinstein (Treasurer)
+  - Yuri Song
+  - Anna Quaglieri
+  - Caitlin Bourke
+  - Kathleen Zeglinski 
+  - Steph Studniberg
+  - Outgoing Members: Shazia Ruybal-Pesántez, Alexandra Garnham, Sepideh Foroutan
+
+:::
+
+### 2021-22
+
+::: {.two-column-layout}
+<div style="display: flex;">
+
+  <!-- Image Column -->
+  <div style="flex: 1; padding: 10px;">
+  ![](images/committee_21_22.jpeg){width=100%}
+  </div>
+
+  <!-- Text Column -->
+  <div style="flex: 1; padding: 10px;">
+  **Meetups Hosted**: 
+  
+  * [Create and publish your pesronal website with Blogdown](https://github.com/R-LadiesMelbourne/2021-05-19-publish-your-website-with-blogdown). 
+  * [A remove glimpse into the useR!2021 conference](https://github.com/R-LadiesMelbourne/2021-08-03-A-remote-glimpse-into-the-useR-2021-conference).
+  * [Anomalies! You can't escape them](https://www.youtube.com/watch?v=l9yK7EP7dcM&ab_channel=R-LadiesMelbourne). 
+  * [The Art of Design - Software and Experimental Design](https://github.com/R-LadiesMelbourne/2021-09-16-Anomalies-You-can-t-escape-them). 
+  * [Automate your CV with R Markdown - Easy as 1, 2, knit](https://github.com/R-LadiesMelbourne/04-02-2022-Automate-your-CV-using-R-Markdown). 
+  * [AI Ethics Workshop](https://github.com/R-LadiesMelbourne/2022-02-28-AI-Ethics-Workshop-Laura-Summers). 
+  * [How to do analysis for others without going crazy - My mistakes in consulting](https://github.com/R-LadiesMelbourne/07-03-2022-my-mistakes-in-consulting).
+  
+  </div>
+
+</div>
+:::
+
+::: {.column-margin}
+
+**Commitee Members**: 
+
+  - Shazia Ruybal-Pesántez (President)
+  - Yuri Song (Vice President)
+  - Sehrish Kanwal (Secretary)
+  - Nikki Rubinstein (Treasurer)
+  - Danyang Dai (Daidai)
+  - Anna Quaglieri
+  - Alexandra Garnham
+  - Sepideh Foroutan
+  - Caitlin Bourke
+  - Gizem (Evie) Eker
+  - Outgoing Members: Marie Trussart, Adele Barugahare, Miriam Yeung, Shanmathi Ramasubbu, Göknur Giner
+
+:::
+
+### 2020-21
+
+::: {.two-column-layout}
+<div style="display: flex;">
+
+  <!-- Image Column -->
+  <div style="flex: 1; padding: 10px;">
+  ![](images/committee_20_21.jpeg){width=100%}
+  </div>
+
+  <!-- Text Column -->
+  <div style="flex: 1; padding: 10px;">
+  **Meetups Hosted**: 
+  
+  * [Recent work in cluster trials and the representation of women in statistics](https://github.com/R-LadiesMelbourne/2020-06-22-Longitudinal-cluster-trial-and-women-in-statistics). 
+  * [Would you like to become a more confident and engaging speaker?](https://github.com/R-LadiesMelbourne/2020-07-29-Would-you-like-to-become-a-more-Confident-and-Engaging-Speaker-). 
+  * [R Markdown - A better way of communicating with data](https://github.com/R-LadiesMelbourne/2020-08-24-R-Markdown-A-Better-Way-of-Communicating-with-Data). 
+  * [Sport, Data, and R](https://github.com/R-LadiesMelbourne/2020-09-21-sport-data-R). 
+  * [Resume Guru](https://github.com/R-LadiesMelbourne/2020-10-13-The-Resume-Guru). 
+  * [How R you? 4-year Anniversary](https://github.com/R-LadiesMelbourne/2020-11-16_How-R-You-4years). 
+  * [TidyTuesday ](https://github.com/R-LadiesMelbourne/Links-to-Events-Repos#:~:text=2021%2D02%2D25%2DTidy%2DTuesday). 
+  * [rstudio::global(2021) %>% filter(workshops=="diversity scholars") %>% summarise()](https://github.com/R-LadiesMelbourne/2021-04-15-rstudio-global-2021-filter-workshops-diversity-scholars-summarize-). 
+  
+  </div>
+
+</div>
+:::
+
+::: {.column-margin}
+
+**Commitee Members**: 
+
+  - Sehrish Kanwal (President)
+  - Marie Trussart (Vice President)
+  - Shazia Ruybal-Pesántez (Secretary)
+  - Adele Barugahare (Treasurer)
+  - Alexandra Garnham
+  - Danyang Dai (Daidai)
+  - Miriam Yeung
+  - Shanmathi Ramasubbu
+  - Yuri Song
+  - Anna Quaglieri
+  - Nikki Rubinstein
+  - Göknur Giner
+  - Sepideh Foroutan
+  - Stephanie Koo
+  - Ming Kong
+
+:::
+
+### 2019-20
+
+::: {.two-column-layout}
+<div style="display: flex;">
+
+  <!-- Image Column -->
+  <div style="flex: 1; padding: 10px;">
+  ![](images/committee_19_20.jpeg){width=100%}
+  </div>
+
+  <!-- Text Column -->
+  <div style="flex: 1; padding: 10px;">
+  **Meetups Hosted**: 
+  
+  * [Baby one more time - reproducibility in R and when to bring in the big guns](https://mrslaviniag.github.io/xaringan_presentations/rladies_presentation_22_May_2019.html#1). 
+  * [NLP with SpaCy in R](https://github.com/R-LadiesMelbourne/2019-06-18-NLP-with-SpaCy-in-R). 
+  * [Cluster analysis with international education data](https://github.com/R-LadiesMelbourne/2019-07-15-Cluster-analysis-with-international-education-data). 
+  * [Introduction to R Workshop](https://github.com/R-LadiesMelbourne/2019-08-17_Introduction-to-R-workshop). 
+  * [Gold star reproducibility - straightforward containerisation](https://github.com/R-LadiesMelbourne/2019-09-17-Gold-star-reproducibility-containerisation). 
+  * [Take a sad plot and make it better](https://github.com/R-LadiesMelbourne/2019-09-26-Take-a-sad-plot-and-make-it-better). 
+  * [Intro to Data Analysis and Graphics with R](https://github.com/R-LadiesMelbourne/2019-10-11-Intro-to-Data-Analysis-and-Graphics-with-R). 
+  * [R-Shiny Tricks or Treats, Maybe Both?](https://github.com/R-LadiesMelbourne/2019-10-28-R-Shiny-Tricks-or-Treats-Maybe-Both-). 
+  * [Designing Data Science](https://github.com/R-LadiesMelbourne/2019-11-26-Hadley-Wickham). 
+  * [Christmas Networking Party](https://github.com/R-LadiesMelbourne/2019-12-17-Christmas-party). 
+  * [TidyTuesday](https://github.com/R-LadiesMelbourne/2020-02-27-Tidy-Tuesday). 
+  * [Binovisualfields Package - Development and Publication to CRAN](https://github.com/R-LadiesMelbourne/2020-05-12-Binovisualfields-Package-Development-and-Publication-to-CRAN). 
+  
+  </div>
+
+</div>
+:::
+
+::: {.column-margin}
+
+**Commitee Members**: 
+
+  - Sepideh Foroutan (President)
+  - Nikki Rubinstein (Vice President)
+  - Marie Trussart (Vice President)
+  - Göknur Giner (Secretary)
+  - Lucy Liu (Secretary)
+  - Adele Barugahare (Treasurer)
+  - Shazia Ruybal-Pesántez
+  - Saskia Freytag
+  - Alexandra Garnham
+  - Anna Quaglieri
+  - Miriam Yeung
+  - Shanmathi Ramasubbu
+  - Outgoing Members: Roxane Legaie, Sooror Zadeh
+
+:::
+
+### 2018-19
+
+::: {.two-column-layout}
+<div style="display: flex;">
+
+  <!-- Image Column -->
+  <div style="flex: 1; padding: 10px;">
+  ![](images/committee_18_19.jpeg){width=100%}
+  </div>
+
+  <!-- Text Column -->
+  <div style="flex: 1; padding: 10px;">
+  **Meetups Hosted**: 
+  
+  * [Introduction to R ](https://github.com/R-LadiesMelbourne/2018-06-16_Introduction-to-R-workshop)
+  * [Follow me! Introduction to social media analysis in R](https://github.com/R-LadiesMelbourne/Follow-Me-Introduction-to-social-media-analysis-in-R)
+  * [Getting down and up with blogging with R!](https://github.com/R-LadiesMelbourne/2018-08-28-Getting-down-and-up-with-blogging-with-R)
+  * [R as a tool for complex systems modelling](https://github.com/R-LadiesMelbourne/2018-09-19-R-as-a-tool-for-complex-systems-modelling)
+  * [How R you? R-Ladies Melbourne second anniversary ](https://github.com/R-LadiesMelbourne/2018-10-16_How-R-You)
+  * [From zero to science hero in 1 week](https://github.com/R-LadiesMelbourne/2018-11-14_From-zero-to-data-science-hero-in-1-week)
+  * [Semiparametric and non parametric models in R](https://github.com/R-LadiesMelbourne/2018-12-06-Semiparametric-and-non-parametric-models-in-R)
+  * [Producing publication-ready documents in R Markdown](https://github.com/R-LadiesMelbourne/2019-02-27-publications-ready-documents-with-Rmarkdown). 
+
+  </div>
+
+</div>
+:::
+
+::: {.column-margin}
+
+**Commitee Members**: 
+
+  - Göknur Giner
+  - Sepideh Foroutan
+  - Saskia Freytag
+  - Roxane Legaie
+  - Alexandra Garnham
+  - Anna Quaglieri
+  - Sooror Zadeh
+  - Marie Trussart
+  - Nikki Rubinstein
+  - Adele Barugahare
+  - Lucy Liu
+
+:::
+
+### 2017-18
+
+::: {.two-column-layout}
+<div style="display: flex;">
+
+  <!-- Image Column -->
+  <div style="flex: 1; padding: 10px;">
+  ![](images/committee_17_18.jpeg){width=100%}
+  </div>
+
+  <!-- Text Column -->
+  <div style="flex: 1; padding: 10px;">
+  **Meetups Hosted**: 
+  
+  * [Twitter Workshop](https://github.com/R-LadiesMelbourne/2017-05-22-Twitter-Workshop)
+  * [Web Scraping and Sports Analytics](https://github.com/R-LadiesMelbourne/2017-06-15-Web-ScrapingAndSportsAnalytics)
+  * [Build Neural Network with R](https://github.com/R-LadiesMelbourne/2017-07-17-BuildNeuralNetwork)
+  * [mixOmics Combine Large Scale Datasets](https://github.com/R-LadiesMelbourne/2017-08-22-combine-large-scale-dataset-workshop)
+  * [Introduction to R Workshop](https://github.com/R-LadiesMelbourne/2017-09-23-Introduction_to_R_workshop)
+  * [Random Forest, Climate Change and Food Production](https://github.com/R-LadiesMelbourne/2017-10-25-ClimateChange_and_RandomForest)
+  * [One Year of R-Ladies Melbourne](https://github.com/R-LadiesMelbourne/2017-10-25_OneYearOfRLadiesMelbourne)
+  * [Introduction to R-Shiny](https://github.com/R-LadiesMelbourne/2017-11-23-Introduction-To-RShiny)
+  * [Christmas Party](https://github.com/R-LadiesMelbourne/2017-12-14_Christmas-Party)
+  * [Public Transport Maps and Geospatial Data in R](https://github.com/R-LadiesMelbourne/2018-02-12_PublicTransportMaps_and_GeospatialDataInR)
+  * [Parallel Programming in R](https://github.com/R-LadiesMelbourne/2018-03-15_Parallelprogramming_in_R)
+  * [More than words - Text analysis in R](https://github.com/R-LadiesMelbourne/2018-04-17_Text_Aanalysis_in_R)
+  * [Everything you need to know to create your R package!](https://github.com/earowang/rladies-pkg)
+  
+  </div>
+
+</div>
+:::
+
+::: {.column-margin}
+
+**Commitee Members**: 
+
+  - Sepideh Foroutan (President)
+  - Nikki Rubinstein (Vice President)
+  - Göknur Giner
+  - Saskia Freytag
+  - Roxane Legaie
+  - Alexandra Garnham
+  - Anna Quaglieri
+  - Sooror Zadeh
+  - Marie Trussart
+
+:::
+
+### 2016-17
+
+::: {.two-column-layout}
+<div style="display: flex;">
+
+  <!-- Image Column -->
+  <div style="flex: 1; padding: 10px;">
+  ![](images/committee_16_17.jpeg){width=100%}
+  </div>
+
+  <!-- Text Column -->
+  <div style="flex: 1; padding: 10px;">
+  **Meetups Hosted**: 
+  
+  * [Our first meetup](https://github.com/R-LadiesMelbourne/2016-10-18-Launch-Meetup). 
+  * [R Notebooks and Interactive Graphs](https://github.com/R-LadiesMelbourne/2017-02-20-RNotebooksAheatmapInteractiveGraphics)
+  * [Git and GitHub Workshop](https://github.com/R-LadiesMelbourne/2017-04-05-Git-Workshop)
+
+  </div>
+
+</div>
+:::
+
+::: {.column-margin}
+
+**Commitee Members**: 
+
+  - Göknur Giner
+  - Sepideh Foroutan
+  - Saskia Freytag
+  - Roxane Legaie
+  - Alexandra Garnham
+  - Anna Quaglieri
+  - Sooror Zadeh
+
+:::
+
+## Committee Member Profiles 
+

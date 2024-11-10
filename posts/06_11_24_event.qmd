@@ -19,7 +19,7 @@ Location: In Person, DiUS (Level 3, 31 Queen St, Melbourne)
 
 ## About the Event
 
-R Ladies Melbourne is very excited to announce our next meetup event. We will be welcoming two data analytics experts, Elisa Koch and Lauren Boothby, who both work at the Australian Football League and will be joining us to discuss Leveraging the Power of Data in Sport.
+R-Ladies Melbourne is very excited to announce our next meetup event. We will be welcoming two data analytics experts, Elisa Koch and Lauren Boothby, who both work at the Australian Football League and will be joining us to discuss Leveraging the Power of Data in Sport.
 
 Elisa has worked as a Data & Analytics leader in the US and Australia in industries spanning finance, FMCG, technology, and sport. Currently, she is the Head of Data and Analytics at the Australian Football League (AFL). She is passionate about leading businesses to be more data driven at all levels of the business. Elisa is a people-first leader passionate about building high-performing teams built on diverse thinking and the ability to bring our authentic selves to work. Elisa serves as an Advisory Board Member for the Institute of Analytic Professionals Australia and is on the board of Spectrum Migrant Resource Centre, a non-profit focused on enabling people with migrant and refugee backgrounds to feel at home in Australia.
 
@@ -29,6 +29,6 @@ Please join us on Wednesday 20th November 2024 at Dius Offices Melbourne from 5.
 
 We look forward to seeing you there!
 
-💜 Caitlin on behalf of R Ladies Melbourne
+💜 Caitlin on behalf of R-Ladies Melbourne
 
 [Back to our blog home page](../blog_index.qmd)

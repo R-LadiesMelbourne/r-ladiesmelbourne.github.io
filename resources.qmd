@@ -11,4 +11,3 @@ title: "Resources"
 [R You With Me](https://rladiessydney.org/courses/ryouwithme/)
 
 [R-Graph Gallery](https://r-graph-gallery.com/)
-
