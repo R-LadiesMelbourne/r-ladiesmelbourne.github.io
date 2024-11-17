@@ -9,12 +9,12 @@ title: "Our Legacy"
 ```{mermaid}
 %%{init: { 'logLevel': 'debug', 'theme': 'default', 'themeVariables': { 
     'fontFamily': 'Helvetica, Arial, sans-serif',
-    'cScale0': '#88398A', 'cScale1': '#e1b9e2',
-    'cScaleLabel0': '#ffffff', 'cScaleLabel1': '#000000'
+    'cScale0': '#88398A', 'cScale1': '#e1b9e2','cScale2': '#88398A','cScale3': '#e1b9e2',
+    'cScaleLabel0': '#ffffff', 'cScaleLabel1': '#000000', 'cScaleLabel2': '#ffffff', 'cScaleLabel3': '#000000'
 } } }%%
 
 timeline
-    title History of R-Ladies Melbourne 
+    title History of R-Ladies Melbourne Inc. 
 
     section Our Foundation
     2012 : R-Ladies founded in San Francisco by Gabriela de Queiroz 💜
@@ -43,6 +43,11 @@ timeline
          : More than words - Text Analysis in R 
          : Parallel Programming in R 
          : Public Transport Maps and Geospatial Data in R
+         
+    section Milestone
+    2019 : R-Ladies Melbourne became R-Ladies Melbourne Inc. on 28th March 2019 🎉
+    
+    section Our Meetups .
     2019 : Producing publication-ready documents in R Markdown
          : Baby one more time - reproducibility in R and when to bring in the big guns
          : NLP with SpaCy in R
@@ -496,5 +501,128 @@ timeline
 
 :::
 
+
+:::{.column-page}
+
 ## Committee Member Profiles 
 
+R-Ladies Melbourne Organising Committee and Friends past and present in alphabetical order. 
+
+<details open>
+<summary>Dionne ARGYROPOULOS</summary>
+
+:::: {.columns}
+
+::: {.column width="30%" .centre-align}
+![](images/committee_profiles/Argyropoulos_Dionne.png){.circular-image}
+  
+  **Current Position**: Research Officer at WEHI
+  \
+  <i class="bi bi-twitter-x"></i> [Twitter/X](https://x.com/dionneargy)
+  \
+  <i class="bi bi-github"></i> [Github](https://github.com/dionnecargy)
+  \
+  <i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/dionneargy/)
+  \
+  <i class="bi bi-envelope-fill"></i> [Email](argyropoulos.d@wehi.edu.au)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+  **What do you use R for?** I use R for data processing, modelling, analysis, visualisation, reports and generating websites. 
+  
+  **Favourite R packages**: tidyverse, poppr
+  
+  **Biography**: Dionne is a molecular epidemiologist and population geneticist currently positioned at WEHI (Walter and Eliza Hall Institute). Dionne's avid interest in genetics, evolution and coding led her to apply these approaches to studies of infectious diseases, such as *Plasmodium falciparum* malaria in her Masters of Science and PhD, to *P. vivax* malaria and various microbes in her current first post-doc position. The research topics of interest include drug or antimicrobial resistance, spatiotemporal trends, epidemiological statistics, statistical modelling and machine learning techniques, data wrangling and visualisation. Her work has involved international collaborations in West Africa and North America, as well as supervision and support of students, with various opportunities for knowledge exchange and capacity-building in coding and genetic epidemiology. Being an active member of the R-Ladies Melbourne community, and the current President, has led to the development of practical content (workshops and the website) and has motivated her to learn and develop new techniques. 
+:::
+
+::::
+
+</details>
+
+<details open>
+<summary>Sehrish KANWAL</summary>
+
+:::: {.columns}
+::: {.column width="30%" .centre-align}
+  ![](images/committee_profiles/Kanwal_Sehrish.png){.circular-image}
+  
+  **Current Position**: Senior Bioinformatician
+  \
+  <i class="bi bi-twitter-x"></i> [Twitter/X](https://x.com/dr_sehrish_k)
+  \
+  <i class="bi bi-envelope-fill"></i> [Email](kanwals@unimelb.edu.au) 
+:::
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+::: {.column width="60%"}
+  **What do you use R for?** Data analysis, reporting, visualisation 
+  
+  **Favourite R packages**: ggplot
+  
+  **Biography**: Dr. Sehrish Kanwal is a senior bioinformatician at the University of Melbourne Centre for
+Cancer Research, specialising in cancer genomics and clinical data analysis. Dr. Kanwal's research interests primarily revolve around cancer discovery, prognosis, and treatment, with a focus on leveraging computational biology and genomic and transcriptomic data analysis in clinical settings.
+
+Beyond her scientific work, she is a passionate advocate for gender equity and empowering women in STEM fields. Dr. Kanwal has been a driving force behind R-Ladies Melbourne, promoting inclusivity, support, and mentorship within the R community. She is a dedicated mentor and a teacher, who believes in empowering and supporting students and junior researchers. Her commitment to open science, reproducibility, and advancing bioinformatics research led to her innovative project proposal being selected for the prestigious rOpenSci Champions Program in 2024. Furthermore, Dr. Kanwal has been instrumental in curriculum development and maintenance, ensuring that bioinformatics education aligns with the latest advancements in the field. Her engagement with international organisations, such as the Carpentries, highlights her commitment to providing expert education advice and promoting knowledge exchange.
+
+Overall, Dr. Sehrish Kanwal's multidimensional contributions encompass research excellence, leadership in bioinformatics analysis, teaching and training, and mentoring future professionals. Her work holds significant potential for advancing cancer research, improving clinical outcomes, and fostering the growth of bioinformatics education and expertise. 
+:::
+::::
+
+</details>
+
+<details open>
+<summary>Lucy LIU</summary>
+
+:::: {.columns}
+::: {.column width="30%" .centre-align}
+  ![](images/committee_profiles/Liu_Lucy.jpeg){.circular-image}
+  
+  **Current Position**: Software Engineer at Quansight Labs
+  \
+  <i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/lucy-l-285468aa/)
+:::
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+::: {.column width="60%"}
+  **What do you use R for?** I mostly work in Python these days but I do use R to check how various statistical functions are implemented, in particular in my work on scikit-learn. R is a statistical programming language and I think it's still a gold standard for implementation of statistical algorithms.
+  
+  **Favourite R packages**: edgeR
+  
+  **Biography**: I'm currently a software engineer working on open source scientific software. I got my start doing some bioinformatics during my research Masters and have really enjoyed developing software to help scientists!
+:::
+::::
+
+</details open>
+
+<details open>
+<summary>Lauren SMITH</summary>
+
+:::: {.columns}
+::: {.column width="30%" .centre-align}
+  ![](images/committee_profiles/Smith_Lauren.png){.circular-image}
+  
+  **Current Position**: Senior Research Officer
+  \
+  <i class="bi bi-github"></i> [Github](https://github.com/lauren-smith-r)
+  \
+  <i class="bi bi-envelope-fill"></i> [Email](smith.la@wehi.edu.au)
+:::
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+::: {.column width="60%"}
+  **What do you use R for?** Statistical modelling, mathematical modelling, machine learning, data processing
+  
+  **Favourite R packages**: Anything tidy modelling!
+  
+  **Biography**: Lauren is a Senior Postdoctoral Research Officer in the Mueller Lab, in the Population Health and Immunity Division at the Walter and Eliza Hall Institute. Lauren currently works on projects relating to the control of infectious diseases in the Asia-Pacific region, including the development of diagnostic tools to identify individuals recently infected with *Plasmodium vivax*. In her previous research, she has addressed questions related to the management of animal populations and infectious diseases, including assessing the effectiveness of free-roaming dog population management, rabies control strategies, African swine fever in domestic pigs, and cetacean ecology and conservation. She uses R for all the above, from data cleaning to ecological and infectious disease modelling!
+:::
+::::
+
+</details>

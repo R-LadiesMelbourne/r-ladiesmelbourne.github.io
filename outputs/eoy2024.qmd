@@ -4,14 +4,50 @@ title: "2024 End of Year Event 🎉"
 
 ## Mentors
 
-### Bios
+<details open>
 
-### "Ask Me About"
+<summary>Kate Saunders</summary>
 
-### Fun Facts
+:::::: columns
+::: {.column width="30%"}
+![](images/EOY_2024_Saunders_K.jpg){.circular-image}
+
+**Current Position**: Lecturer at Monash
+\
+**Contact me**: <i class="bi bi-envelope-fill"></i> [Email](kate.saunders@monash.edu)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+**Biography**: Kate Saunders is a lecturer in the Department of Econometrics and Business Statistics at Monash University. Her primary focus is on statistical modelling of climate extremes; and understanding how the probability of extreme events might be influenced by natural variability and climate change. Other interests include; statistical post-processing of meteorological forecasts, quality control of meteorological data and how to estimate the risk posed by compound weather events. Kate’s research improves our understanding of the probability of extreme weather and climate events, and helps us to make informed decisions about natural disaster risk.
+
+**Ask me about**:
+
+1.  As me about silly things I've done in R.
+2.  Ask me about learning to code for the first time.
+3.  Ask me about my love of weather data.
+4.  Ask me about natural hazards data visualisation.
+
+**Fun Facts**:
+
+-   I had a dog and she is the absolute cutest.
+-   I love to play basketball.
+-   I recently bought a Nintendo Switch and would love game recommendations.
+:::
+::::::
+
+</details>
 
 ## Questions
 
+::: callout-note
+Please feel free to ask a question below by signing into your [**GitHub**](https://github.com/)!
+:::
+
+```{=html}
 <script src="https://utteranc.es/client.js"
         repo="R-LadiesMelbourne/EOY_Event"
         issue-term="pathname"
@@ -19,3 +55,4 @@ title: "2024 End of Year Event 🎉"
         crossorigin="anonymous"
         async>
 </script>
+```
