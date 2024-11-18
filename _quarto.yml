@@ -4,6 +4,8 @@ project:
 website:
   title: "R-Ladies Melbourne Inc"
   favicon: images/favicon.png
+  google-analytics: "G-CB5M3V95HB"
+  cookie-consent: true
   navbar: 
     background: "#88398A"
     search: true 
