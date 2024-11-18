@@ -12,8 +12,7 @@ title: "2024 End of Year Event 🎉"
 ::: {.column width="30%"}
 ![](images/EOY_2024_Saunders_K.jpg){.circular-image}
 
-**Current Position**: Lecturer at Monash
-\
+**Current Position**: Lecturer at Monash\
 **Contact me**: <i class="bi bi-envelope-fill"></i> [Email](kate.saunders@monash.edu)
 :::
 
@@ -36,6 +35,97 @@ title: "2024 End of Year Event 🎉"
 -   I had a dog and she is the absolute cutest.
 -   I love to play basketball.
 -   I recently bought a Nintendo Switch and would love game recommendations.
+:::
+::::::
+
+</details>
+
+<details open>
+
+<summary>Anna Quaglieri</summary>
+
+:::::: columns
+::: {.column width="30%"}
+![](images/EOY_2024_Quaglieri_A.png){.circular-image}
+
+**Current Position**: Senior Bioinformatics Data Scientist at Mass Dynamics\
+**Contact me**: <i class="bi bi-github"></i> [Github](https://github.com/annaquaglieri16) <i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/anna-quaglieri-692501108/)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+**Biography**: Dr. Anna Quaglieri is a Senior Bioinformatics Data Scientist at Mass Dynamics working to make mass spectrometry based proteomics more accessible to the broader community of scientists. She has a background in mathematical statistics and over 10 years of experience utilising statistics and software to makes sense of various types of ‘omics data including population genetics, genomics, epigenetics and proteomics in both academia and industry.Anna is a passionate advocate of the bioinformatics open source software community having co-organised the R-Ladies Melbourne group for over 6 years and currently covering the role of chair for the Bioconductor Code of Conduct committee.
+
+:::
+::::::
+
+</details>
+
+<details open>
+
+<summary>Victoria Plows</summary>
+
+:::::: columns
+::: {.column width="30%"}
+![](images/EOY_2024_Plows_V.jpeg){.circular-image}
+
+**Current Position**: Senior Software Engineering Consultant at DiUS\
+**Contact me**: <i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/victoria-plows/)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+**Biography**: Victoria (Vic) is a Senior Software Engineer at a Tech Consultancy. Following a successful career as an academic in the social sciences, working in the UK and Australia, Vic was ready for a new challenge and chose a change of direction retraining as a software developer at a bootcamp in Scotland. Upon returning to Australia in 2019, she joined a Tech Consultancy as an Associate Consultant. A full-stack developer, she has worked on client projects across a variety of industries and at different stages along their digital transformation. Vic loves joining new teams, learning new ways of working, and picking up new technologies. Now a Senior Consultant, Vic enjoys coaching and helping others to progress. She is particularly interested in supporting people who have made a career change into tech, and to give back to the community that supported her on her journey.
+
+:::
+::::::
+
+</details>
+
+<details open>
+
+<summary>Jovana Maksimovic</summary>
+
+:::::: columns
+::: {.column width="30%"}
+
+**Current Position**: Senior Research Officer at Peter Mac
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+
+
+:::
+::::::
+
+</details>
+
+<details open>
+
+<summary>Kirsty McCann</summary>
+
+:::::: columns
+::: {.column width="30%"}
+
+**Current Position**: Research Fellow at Deakin University\
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+
 :::
 ::::::
 
