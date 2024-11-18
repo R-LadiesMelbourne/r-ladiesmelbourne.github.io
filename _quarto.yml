@@ -12,8 +12,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About 
+      - text: About Us
+        menu: 
+          - href: about.qmd
+            text: About 
+          - href: timeline.qmd
+            text: Our Legacy
+          - href: https://forms.gle/kprRhBu5kXPaJPkk7
+            text: Expression of Interest
       - href: blog_index.qmd
         text: Blog
       - href: https://github.com/R-LadiesMelbourne/Links-to-Events-Repos
@@ -26,8 +32,6 @@ website:
             text: It Takes a Spark
           - href: outputs/eoy2024.qmd
             text: 2024 End of Year Event
-      - href: timeline.qmd
-        text: Our Legacy
       - href: videos.qmd
         text: Our Videos
       - href: resources.qmd
