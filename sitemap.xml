@@ -1,43 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/timeline.html</loc>
-    <lastmod>2024-11-10T05:18:39.087Z</lastmod>
+    <loc>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/videos.html</loc>
+    <lastmod>2024-11-18T10:20:53.240Z</lastmod>
   </url>
   <url>
-    <loc>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/outputs/redu_itas.html</loc>
-    <lastmod>2024-11-10T05:19:21.533Z</lastmod>
+    <loc>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/resources.html</loc>
+    <lastmod>2024-11-10T05:19:48.057Z</lastmod>
   </url>
   <url>
-    <loc>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/ourwork.html</loc>
-    <lastmod>2024-11-07T03:26:32.788Z</lastmod>
-  </url>
-  <url>
-    <loc>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/index.html</loc>
-    <lastmod>2024-11-10T05:18:48.227Z</lastmod>
-  </url>
-  <url>
-    <loc>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_11_24_event.html</loc>
-    <lastmod>2024-11-10T05:19:29.431Z</lastmod>
-  </url>
-  <url>
-    <loc>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_11_24_welcome.html</loc>
-    <lastmod>2024-11-10T05:19:37.112Z</lastmod>
-  </url>
-  <url>
-    <loc>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/blog_index.html</loc>
-    <lastmod>2024-11-07T03:26:32.769Z</lastmod>
+    <loc>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/outputs/eoy2024.html</loc>
+    <lastmod>2024-11-17T22:24:36.231Z</lastmod>
   </url>
   <url>
     <loc>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/about.html</loc>
     <lastmod>2024-11-10T05:20:02.034Z</lastmod>
   </url>
   <url>
-    <loc>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/outputs/eoy2024.html</loc>
-    <lastmod>2024-11-10T05:19:11.599Z</lastmod>
+    <loc>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/blog_index.html</loc>
+    <lastmod>2024-11-07T03:26:32.769Z</lastmod>
   </url>
   <url>
-    <loc>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/resources.html</loc>
-    <lastmod>2024-11-10T05:19:48.057Z</lastmod>
+    <loc>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_11_24_welcome.html</loc>
+    <lastmod>2024-11-10T05:19:37.112Z</lastmod>
+  </url>
+  <url>
+    <loc>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_11_24_event.html</loc>
+    <lastmod>2024-11-10T05:19:29.431Z</lastmod>
+  </url>
+  <url>
+    <loc>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/index.html</loc>
+    <lastmod>2024-11-18T10:45:48.024Z</lastmod>
+  </url>
+  <url>
+    <loc>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/ourwork.html</loc>
+    <lastmod>2024-11-07T03:26:32.788Z</lastmod>
+  </url>
+  <url>
+    <loc>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/outputs/redu_itas.html</loc>
+    <lastmod>2024-11-10T05:19:21.533Z</lastmod>
+  </url>
+  <url>
+    <loc>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/timeline.html</loc>
+    <lastmod>2024-11-18T03:52:05.063Z</lastmod>
   </url>
 </urlset>

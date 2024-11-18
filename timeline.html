@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./images/favicon.png" rel="icon" type="image/png">
+<script src="site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,6 +71,33 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-CB5M3V95HB"></script>
+
+<script type="text/plain" cookie-consent="tracking">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-CB5M3V95HB', { 'anonymize_ip': true});
+</script>
+
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({
+  "notice_banner_type":"simple",
+  "consent_type":"implied",
+  "palette":"light",
+  "language":"en",
+  "page_load_consent_levels":["strictly-necessary","functionality","tracking","targeting"],
+  "notice_banner_reject_button_hide":false,
+  "preferences_center_close_button_hide":false,
+  "website_name":""
+  ,
+"language":"en"
+  });
+});
+</script> 
+  
 <script src="site_libs/quarto-diagram/mermaid.min.js"></script>
 <script src="site_libs/quarto-diagram/mermaid-init.js"></script>
 <link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
@@ -99,10 +128,25 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about-us" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">About Us</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-about-us">    
+        <li>
+    <a class="dropdown-item" href="./about.html">
+ <span class="dropdown-text">About</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./timeline.html">
+ <span class="dropdown-text">Our Legacy</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://forms.gle/kprRhBu5kXPaJPkk7">
+ <span class="dropdown-text">Expression of Interest</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./blog_index.html"> 
 <span class="menu-text">Blog</span></a>
@@ -131,8 +175,8 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" href="./timeline.html" aria-current="page"> 
-<span class="menu-text">Our Legacy</span></a>
+    <a class="nav-link" href="./videos.html"> 
+<span class="menu-text">Our Videos</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./resources.html"> 
@@ -224,12 +268,12 @@ ul.task-list li input[type="checkbox"] {
 <div>
 <pre class="mermaid mermaid-js">%%{init: { 'logLevel': 'debug', 'theme': 'default', 'themeVariables': { 
     'fontFamily': 'Helvetica, Arial, sans-serif',
-    'cScale0': '#88398A', 'cScale1': '#e1b9e2',
-    'cScaleLabel0': '#ffffff', 'cScaleLabel1': '#000000'
+    'cScale0': '#88398A', 'cScale1': '#e1b9e2','cScale2': '#88398A','cScale3': '#e1b9e2',
+    'cScaleLabel0': '#ffffff', 'cScaleLabel1': '#000000', 'cScaleLabel2': '#ffffff', 'cScaleLabel3': '#000000'
 } } }%%
 
 timeline
-    title History of R-Ladies Melbourne 
+    title History of R-Ladies Melbourne Inc. 
 
     section Our Foundation
     2012 : R-Ladies founded in San Francisco by Gabriela de Queiroz 💜
@@ -258,6 +302,11 @@ timeline
          : More than words - Text Analysis in R 
          : Parallel Programming in R 
          : Public Transport Maps and Geospatial Data in R
+         
+    section Milestone
+    2019 : R-Ladies Melbourne became R-Ladies Melbourne Inc. on 28th March 2019 🎉
+    
+    section Our Meetups .
     2019 : Producing publication-ready documents in R Markdown
          : Baby one more time - reproducibility in R and when to bring in the big guns
          : NLP with SpaCy in R
@@ -317,7 +366,7 @@ timeline
 <div style="display: flex;">
 <!-- Image Column -->
 <div style="flex: 1; padding: 10px;">
-<img src="images/committee_24_25.jpeg" class="img-fluid" style="width:100.0%">
+<p><img src="images/committee_24_25.jpeg" class="img-fluid" style="width:100.0%"></p>
 </div>
 <!-- Text Column -->
 <div style="flex: 1; padding: 10px;">
@@ -352,7 +401,7 @@ timeline
 <div style="display: flex;">
 <!-- Image Column -->
 <div style="flex: 1; padding: 10px;">
-<img src="images/committee_23_24.jpeg" class="img-fluid" style="width:100.0%">
+<p><img src="images/committee_23_24.jpeg" class="img-fluid" style="width:100.0%"></p>
 </div>
 <!-- Text Column -->
 <div style="flex: 1; padding: 10px;">
@@ -388,7 +437,7 @@ timeline
 <div style="display: flex;">
 <!-- Image Column -->
 <div style="flex: 1; padding: 10px;">
-<img src="images/committee_22_23.jpeg" class="img-fluid" style="width:100.0%">
+<p><img src="images/committee_22_23.jpeg" class="img-fluid" style="width:100.0%"></p>
 </div>
 <!-- Text Column -->
 <div style="flex: 1; padding: 10px;">
@@ -427,7 +476,7 @@ timeline
 <div style="display: flex;">
 <!-- Image Column -->
 <div style="flex: 1; padding: 10px;">
-<img src="images/committee_21_22.jpeg" class="img-fluid" style="width:100.0%">
+<p><img src="images/committee_21_22.jpeg" class="img-fluid" style="width:100.0%"></p>
 </div>
 <!-- Text Column -->
 <div style="flex: 1; padding: 10px;">
@@ -467,7 +516,7 @@ timeline
 <div style="display: flex;">
 <!-- Image Column -->
 <div style="flex: 1; padding: 10px;">
-<img src="images/committee_20_21.jpeg" class="img-fluid" style="width:100.0%">
+<p><img src="images/committee_20_21.jpeg" class="img-fluid" style="width:100.0%"></p>
 </div>
 <!-- Text Column -->
 <div style="flex: 1; padding: 10px;">
@@ -512,7 +561,7 @@ timeline
 <div style="display: flex;">
 <!-- Image Column -->
 <div style="flex: 1; padding: 10px;">
-<img src="images/committee_19_20.jpeg" class="img-fluid" style="width:100.0%">
+<p><img src="images/committee_19_20.jpeg" class="img-fluid" style="width:100.0%"></p>
 </div>
 <!-- Text Column -->
 <div style="flex: 1; padding: 10px;">
@@ -559,7 +608,7 @@ timeline
 <div style="display: flex;">
 <!-- Image Column -->
 <div style="flex: 1; padding: 10px;">
-<img src="images/committee_18_19.jpeg" class="img-fluid" style="width:100.0%">
+<p><img src="images/committee_18_19.jpeg" class="img-fluid" style="width:100.0%"></p>
 </div>
 <!-- Text Column -->
 <div style="flex: 1; padding: 10px;">
@@ -600,7 +649,7 @@ timeline
 <div style="display: flex;">
 <!-- Image Column -->
 <div style="flex: 1; padding: 10px;">
-<img src="images/committee_17_18.jpeg" class="img-fluid" style="width:100.0%">
+<p><img src="images/committee_17_18.jpeg" class="img-fluid" style="width:100.0%"></p>
 </div>
 <!-- Text Column -->
 <div style="flex: 1; padding: 10px;">
@@ -644,7 +693,7 @@ timeline
 <div style="display: flex;">
 <!-- Image Column -->
 <div style="flex: 1; padding: 10px;">
-<img src="images/committee_16_17.jpeg" class="img-fluid" style="width:100.0%">
+<p><img src="images/committee_16_17.jpeg" class="img-fluid" style="width:100.0%"></p>
 </div>
 <!-- Text Column -->
 <div style="flex: 1; padding: 10px;">
@@ -671,11 +720,111 @@ timeline
 </ul>
 </div></div></section>
 </section>
-<section id="committee-member-profiles" class="level2">
+<section id="committee-member-profiles" class="level2 column-page">
 <h2 class="anchored" data-anchor-id="committee-member-profiles">Committee Member Profiles</h2>
-
-
+<p>R-Ladies Melbourne Organising Committee and Friends past and present in alphabetical order.</p>
+<details open="">
+<summary>
+Dionne ARGYROPOULOS
+</summary>
+<div class="columns">
+<div class="column centre-align" style="width:30%;">
+<p><img src="images/committee_profiles/Argyropoulos_Dionne.png" class="circular-image img-fluid"></p>
+<p><strong>Current Position</strong>: Research Officer at WEHI<br>
+<span style="display:inline-flex; align-items:center;"> <img src="images/bluesky-brands-solid.svg" alt="Bluesky" width="15" height="15" style="fill:#666666; margin-right: 5px;"> <a href="https://bsky.app/profile/dionnecargy.bsky.social">Bluesky</a> </span><br>
+<i class="bi bi-github"></i> <a href="https://github.com/dionnecargy">Github</a><br>
+<i class="bi bi-linkedin"></i> <a href="https://www.linkedin.com/in/dionneargy/">LinkedIn</a><br>
+<i class="bi bi-envelope-fill"></i> <a href="argyropoulos.d@wehi.edu.au">Email</a></p>
+</div><div class="column" style="width:10%;">
+<!-- empty column to create gap -->
+</div><div class="column" style="width:60%;">
+<p><strong>What do you use R for?</strong> I use R for data processing, modelling, analysis, visualisation, reports and generating websites.</p>
+<p><strong>Favourite R packages</strong>: tidyverse, poppr</p>
+<p><strong>Biography</strong>: Dionne is a molecular epidemiologist and population geneticist currently positioned at WEHI (Walter and Eliza Hall Institute). Dionne’s avid interest in genetics, evolution and coding led her to apply these approaches to studies of infectious diseases, such as <em>Plasmodium falciparum</em> malaria in her Masters of Science and PhD, to <em>P. vivax</em> malaria and various microbes in her current first post-doc position. The research topics of interest include drug or antimicrobial resistance, spatiotemporal trends, epidemiological statistics, statistical modelling and machine learning techniques, data wrangling and visualisation. Her work has involved international collaborations in West Africa and North America, as well as supervision and support of students, with various opportunities for knowledge exchange and capacity-building in coding and genetic epidemiology. Being an active member of the R-Ladies Melbourne community, and the current President, has led to the development of practical content (workshops and the website) and has motivated her to learn and develop new techniques.</p>
+</div>
+</div>
+</details>
+<details open="">
+<summary>
+Sehrish KANWAL
+</summary>
+<div class="columns">
+<div class="column centre-align" style="width:30%;">
+<p><img src="images/committee_profiles/Kanwal_Sehrish.png" class="circular-image img-fluid"></p>
+<p><strong>Current Position</strong>: Senior Bioinformatician<br>
+<i class="bi bi-twitter-x"></i> <a href="https://x.com/dr_sehrish_k">Twitter/X</a><br>
+<i class="bi bi-envelope-fill"></i> <a href="kanwals@unimelb.edu.au">Email</a></p>
+</div><div class="column" style="width:10%;">
+<!-- empty column to create gap -->
+</div><div class="column" style="width:60%;">
+<p><strong>What do you use R for?</strong> Data analysis, reporting, visualisation</p>
+<p><strong>Favourite R packages</strong>: ggplot</p>
+<p><strong>Biography</strong>: Dr.&nbsp;Sehrish Kanwal is a senior bioinformatician at the University of Melbourne Centre for Cancer Research, specialising in cancer genomics and clinical data analysis. Dr.&nbsp;Kanwal’s research interests primarily revolve around cancer discovery, prognosis, and treatment, with a focus on leveraging computational biology and genomic and transcriptomic data analysis in clinical settings.</p>
+<p>Beyond her scientific work, she is a passionate advocate for gender equity and empowering women in STEM fields. Dr.&nbsp;Kanwal has been a driving force behind R-Ladies Melbourne, promoting inclusivity, support, and mentorship within the R community. She is a dedicated mentor and a teacher, who believes in empowering and supporting students and junior researchers. Her commitment to open science, reproducibility, and advancing bioinformatics research led to her innovative project proposal being selected for the prestigious rOpenSci Champions Program in 2024. Furthermore, Dr.&nbsp;Kanwal has been instrumental in curriculum development and maintenance, ensuring that bioinformatics education aligns with the latest advancements in the field. Her engagement with international organisations, such as the Carpentries, highlights her commitment to providing expert education advice and promoting knowledge exchange.</p>
+<p>Overall, Dr.&nbsp;Sehrish Kanwal’s multidimensional contributions encompass research excellence, leadership in bioinformatics analysis, teaching and training, and mentoring future professionals. Her work holds significant potential for advancing cancer research, improving clinical outcomes, and fostering the growth of bioinformatics education and expertise.</p>
+</div>
+</div>
+</details>
+<details open="">
+<summary>
+Lucy LIU
+</summary>
+<div class="columns">
+<div class="column centre-align" style="width:30%;">
+<p><img src="images/committee_profiles/Liu_Lucy.jpeg" class="circular-image img-fluid"></p>
+<p><strong>Current Position</strong>: Software Engineer at Quansight Labs<br>
+<i class="bi bi-linkedin"></i> <a href="https://www.linkedin.com/in/lucy-l-285468aa/">LinkedIn</a></p>
+</div><div class="column" style="width:10%;">
+<!-- empty column to create gap -->
+</div><div class="column" style="width:60%;">
+<p><strong>What do you use R for?</strong> I mostly work in Python these days but I do use R to check how various statistical functions are implemented, in particular in my work on scikit-learn. R is a statistical programming language and I think it’s still a gold standard for implementation of statistical algorithms.</p>
+<p><strong>Favourite R packages</strong>: edgeR</p>
+<p><strong>Biography</strong>: I’m currently a software engineer working on open source scientific software. I got my start doing some bioinformatics during my research Masters and have really enjoyed developing software to help scientists!</p>
+</div>
+</div>
+</details>
+<details open="">
+<summary>
+Lauren SMITH
+</summary>
+<div class="columns">
+<div class="column centre-align" style="width:30%;">
+<p><img src="images/committee_profiles/Smith_Lauren.png" class="circular-image img-fluid"></p>
+<p><strong>Current Position</strong>: Senior Research Officer<br>
+<i class="bi bi-github"></i> <a href="https://github.com/lauren-smith-r">Github</a><br>
+<i class="bi bi-envelope-fill"></i> <a href="smith.la@wehi.edu.au">Email</a></p>
+</div><div class="column" style="width:10%;">
+<!-- empty column to create gap -->
+</div><div class="column" style="width:60%;">
+<p><strong>What do you use R for?</strong> Statistical modelling, mathematical modelling, machine learning, data processing</p>
+<p><strong>Favourite R packages</strong>: Anything tidy modelling!</p>
+<p><strong>Biography</strong>: Lauren is a Senior Postdoctoral Research Officer in the Mueller Lab, in the Population Health and Immunity Division at the Walter and Eliza Hall Institute. Lauren currently works on projects relating to the control of infectious diseases in the Asia-Pacific region, including the development of diagnostic tools to identify individuals recently infected with <em>Plasmodium vivax</em>. In her previous research, she has addressed questions related to the management of animal populations and infectious diseases, including assessing the effectiveness of free-roaming dog population management, rabies control strategies, African swine fever in domestic pigs, and cetacean ecology and conservation. She uses R for all the above, from data cleaning to ecological and infectious disease modelling!</p>
+</div>
+</div>
+</details>
+<details open="">
+<summary>
+Anna QUAGLIERI
+</summary>
+<div class="columns">
+<div class="column centre-align" style="width:30%;">
+<p><img src="images/committee_profiles/Quaglieri_Anna.png" class="circular-image img-fluid"></p>
+<p><strong>Current Position</strong>: Senior Bioinformatics Data Scientist<br>
+<i class="bi bi-github"></i> <a href="https://github.com/annaquaglieri16">Github</a><br>
+<i class="bi bi-linkedin"></i> <a href="https://www.linkedin.com/in/anna-quaglieri-692501108/">LinkedIn</a></p>
+</div><div class="column" style="width:10%;">
+<!-- empty column to create gap -->
+</div><div class="column" style="width:60%;">
+<p><strong>What do you use R for?</strong> Building R packages and methods for the Mass Dynamics platform and analysing data for our clients.</p>
+<p><strong>Favourite R packages</strong>: Hard to answer! But limma is definitely at the top</p>
+<p><strong>Biography</strong>: Dr.&nbsp;Anna Quaglieri is a Senior Bioinformatics Data Scientist at Mass Dynamics working to make mass spectrometry based proteomics more accessible to the broader community of scientists. She has a background in mathematical statistics and over 10 years of experience utilising statistics and software to makes sense of various types of ’omics data including population genetics, genomics, epigenetics and proteomics in both academia and industry.</p>
+<p>Anna is a passionate advocate of the bioinformatics open source software community having co-organised the R-Ladies Melbourne group for over 6 years and currently covering the role of chair for the Bioconductor Code of Conduct committee.</p>
+</div>
+</div>
+</details>
 </section>
+
+
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -1249,8 +1398,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <p>Copyright 2024, R-Ladies Melbourne</p>
 </div>   
     <div class="nav-footer-center">
-      &nbsp;
-    </div>
+
+<div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">

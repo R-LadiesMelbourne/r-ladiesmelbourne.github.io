@@ -28,3 +28,40 @@ h3 {
 h4 {
   color: purple;
 }
+
+.circular-image {
+  width: 300px; /* Adjust size as needed */
+  height: 300px; /* Ensure width and height are equal */
+  object-fit: cover; /* To ensure the image fits within the circular frame */
+  border-radius: 50%; /* Creates the circular effect */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Adds a subtle shadow */
+}
+
+summary {
+  font-size: 1.25em;       /* Adjust font size */
+  font-weight: bold;       /* Make text bold */
+  cursor: pointer;         /* Set cursor to pointer */
+  margin-bottom: 5px;      /* Add margin below */
+  color: #88398A!important; /* Force text color to blue */
+}
+
+summary:hover {
+  color: #b756b9;          /* Change text color on hover (e.g., tomato red) */
+}
+
+summary::marker {
+  color: #88398A;          /* Change the color of the disclosure arrow/marker */
+}
+
+details {
+  margin-bottom: 10px;     /* Add spacing between collapsible sections */
+}
+
+.centre-align {
+  text-align: center;
+}
+
+.centre-align img {
+  display: block;
+  margin: 0 auto;
+}
