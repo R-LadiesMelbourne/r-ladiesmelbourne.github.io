@@ -28,6 +28,8 @@ website:
             text: 2024 End of Year Event
       - href: timeline.qmd
         text: Our Legacy
+      - href: videos.qmd
+        text: Our Videos
       - href: resources.qmd
         text: Resources
     tools:
