@@ -4,16 +4,18 @@ title: "2024 End of Year Event 🎉"
 
 ## Mentors
 
+
 <details open>
 
-<summary>Kate Saunders</summary>
+<summary>Jovana Maksimovic</summary>
 
 :::::: columns
 ::: {.column width="30%"}
-![](images/EOY_2024_Saunders_K.jpg){.circular-image}
 
-**Current Position**: Lecturer at Monash\
-**Contact me**: <i class="bi bi-envelope-fill"></i> [Email](kate.saunders@monash.edu)
+![](images/EOY_2024_Maksimovic_J.jpeg){.circular-image}
+
+**Current Position**: Senior Research Associate at Peter MacCallum Cancer Centre
+**Contact me**: <i class="bi bi-envelope-fill"></i> [Email](jovana.maksimovic@petermac.org)
 :::
 
 ::: {.column width="10%"}
@@ -21,20 +23,98 @@ title: "2024 End of Year Event 🎉"
 :::
 
 ::: {.column width="60%"}
-**Biography**: Kate Saunders is a lecturer in the Department of Econometrics and Business Statistics at Monash University. Her primary focus is on statistical modelling of climate extremes; and understanding how the probability of extreme events might be influenced by natural variability and climate change. Other interests include; statistical post-processing of meteorological forecasts, quality control of meteorological data and how to estimate the risk posed by compound weather events. Kate’s research improves our understanding of the probability of extreme weather and climate events, and helps us to make informed decisions about natural disaster risk.
+
+**Biography**: Dr. Jovana Maksimovic is a Senior Research Associate in bioinformatics and computational biology in the Oshlack Lab at the Peter MacCallum Cancer Centre. Her work has primarily focused on epigenetics and transcriptomics data analysis and methods development projects, with a particular influence in the field of methylation array analysis. More recently, she has begun working on approaches for methylation sequencing analysis with a particular focus on cancer. Jovana currently holds an NHMRC EL2 Investigator Fellowship and is leading the computational analysis for the development of a globally-accessible cell “atlas” of the healthy paediatric airway, which is funded by a Chan Zuckerberg Initiative Paediatric Cell Atlas Network Grant. She is also funded by a Peter MacCallum Foundation Grant to pilot an approach for detecting known cancer fusion transcripts in single cells by adapting a novel single-cell technology. 
 
 **Ask me about**:
 
-1.  As me about silly things I've done in R.
-2.  Ask me about learning to code for the first time.
-3.  Ask me about my love of weather data.
-4.  Ask me about natural hazards data visualisation.
+1.  What is the best programming language to learn? 
+2.  How can I balance my work and home life?
 
 **Fun Facts**:
 
--   I had a dog and she is the absolute cutest.
--   I love to play basketball.
--   I recently bought a Nintendo Switch and would love game recommendations.
+- I am a cat person. 
+- My favourite movie is Aliens. 
+- I have a 7 year old son. 
+- I have a black belt in taekwondo. 
+- I know how to catch and milk wallabies. 
+- I have hand raised wallaby joeys at my home. 
+- I have played almost all the Tomb Raider games. 
+:::
+::::::
+
+</details>
+
+<details open>
+
+<summary>Kirsty McCann</summary>
+
+:::::: columns
+::: {.column width="30%"}
+
+![](images/EOY_2024_McCann_K.jpeg){.circular-image}
+
+**Current Position**: Associate Research Fellow, Genomic Epidemiology\
+**Contact me**: <i class="bi bi-envelope-fill"></i> [Email](kirsty.mccann@deakin.edu.au)
+ 
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+
+**Biography**: Dr McCann completed her PhD in 2020 at La Trobe University which focussed on using genomics to understand the relationships of filarial nematodes, assemble a genome and develop an animal model to study a filarial disease. Throughout her Honours and PhD, she gained experience in field work, molecular biology and bioinformatics. Dr McCann has always been fascinated with the interplay between host, vector, and parasites, with this interest she applied for a job at Deakin University in malaria to use population genomics to understand how drug resistance has affected parasite population structure and lots more. Dr McCann is very involved in using bioinformatics to answer various research questions, with a strong passion for R programming and dedication to optimising pipelines and workflows.
+
+**Ask me about**:
+
+1. Happy to answer questions about anything.
+2. The path from PhD to PostDoc
+3. How I learned R programming
+4. Tips and tricks about getting confident with R and bioinformatics, and helpful courses online. 
+
+**Fun Facts**:
+
+- I have two golden retrievers (Loki and Rylie). 
+- I have a passion for dog training, hiking and outdoor adventures.
+
+:::
+::::::
+
+</details>
+
+<details open>
+
+<summary>Victoria Plows</summary>
+
+:::::: columns
+::: {.column width="30%"}
+![](images/EOY_2024_Plows_V.jpeg){.circular-image}
+
+**Current Position**: Software Engineering Senior Consultant at DiUS\
+**Contact me**: <i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/victoria-plows/)
+
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+**Biography**: Victoria (Vic) is a Senior Software Engineer at a Tech Consultancy. Following a successful career as an academic in the social sciences, working in the UK and Australia, Vic was ready for a new challenge and chose a change of direction retraining as a software developer at a bootcamp in Scotland. Upon returning to Australia in 2019, she joined a Tech Consultancy as an Associate Consultant. A full-stack developer, she has worked on client projects across a variety of industries and at different stages along their digital transformation. Vic loves joining new teams, learning new ways of working, and picking up new technologies. Now a Senior Consultant, Vic enjoys coaching and helping others to progress. She is particularly interested in supporting people who have made a career change into tech, and to give back to the community that supported her on her journey.
+
+**Ask me about**:
+
+1. Working as a consultant in the tech industry
+2. Making a career change into technology
+
+**Fun Facts**:
+
+- Interviewed once by Waleed Aly on ABC RN Drive radio program
+- Love English Staffy dogs, think rescue dogs are the best breed!
+- Big fan of musical theatre - seen "&Juliet" multiple times in 3 different countries
+
 :::
 ::::::
 
@@ -59,29 +139,13 @@ title: "2024 End of Year Event 🎉"
 ::: {.column width="60%"}
 **Biography**: Dr. Anna Quaglieri is a Senior Bioinformatics Data Scientist at Mass Dynamics working to make mass spectrometry based proteomics more accessible to the broader community of scientists. She has a background in mathematical statistics and over 10 years of experience utilising statistics and software to makes sense of various types of ‘omics data including population genetics, genomics, epigenetics and proteomics in both academia and industry.Anna is a passionate advocate of the bioinformatics open source software community having co-organised the R-Ladies Melbourne group for over 6 years and currently covering the role of chair for the Bioconductor Code of Conduct committee.
 
-:::
-::::::
+**Ask me about**:
 
-</details>
+1. Academia to Industry transition
+2. Statistics & bioinformatics
+3. Public speaking    
 
-<details open>
-
-<summary>Victoria Plows</summary>
-
-:::::: columns
-::: {.column width="30%"}
-![](images/EOY_2024_Plows_V.jpeg){.circular-image}
-
-**Current Position**: Senior Software Engineering Consultant at DiUS\
-**Contact me**: <i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/victoria-plows/)
-:::
-
-::: {.column width="10%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="60%"}
-**Biography**: Victoria (Vic) is a Senior Software Engineer at a Tech Consultancy. Following a successful career as an academic in the social sciences, working in the UK and Australia, Vic was ready for a new challenge and chose a change of direction retraining as a software developer at a bootcamp in Scotland. Upon returning to Australia in 2019, she joined a Tech Consultancy as an Associate Consultant. A full-stack developer, she has worked on client projects across a variety of industries and at different stages along their digital transformation. Vic loves joining new teams, learning new ways of working, and picking up new technologies. Now a Senior Consultant, Vic enjoys coaching and helping others to progress. She is particularly interested in supporting people who have made a career change into tech, and to give back to the community that supported her on her journey.
+**Fun Facts**: I'm training to become a Pilates instructor :) 
 
 :::
 ::::::
@@ -90,12 +154,14 @@ title: "2024 End of Year Event 🎉"
 
 <details open>
 
-<summary>Jovana Maksimovic</summary>
+<summary>Kate Saunders</summary>
 
 :::::: columns
 ::: {.column width="30%"}
+![](images/EOY_2024_Saunders_K.jpg){.circular-image}
 
-**Current Position**: Senior Research Officer at Peter Mac
+**Current Position**: Lecturer at Monash University\
+**Contact me**: <i class="bi bi-envelope-fill"></i> [Email](kate.saunders@monash.edu)
 :::
 
 ::: {.column width="10%"}
@@ -103,29 +169,20 @@ title: "2024 End of Year Event 🎉"
 :::
 
 ::: {.column width="60%"}
+**Biography**: Kate Saunders is a lecturer in the Department of Econometrics and Business Statistics at Monash University. Her primary focus is on statistical modelling of climate extremes; and understanding how the probability of extreme events might be influenced by natural variability and climate change. Other interests include; statistical post-processing of meteorological forecasts, quality control of meteorological data and how to estimate the risk posed by compound weather events. Kate’s research improves our understanding of the probability of extreme weather and climate events, and helps us to make informed decisions about natural disaster risk.
 
+**Ask me about**:
 
-:::
-::::::
+1.  As me about silly things I've done in R.
+2.  Ask me about learning to code for the first time.
+3.  Ask me about my love of weather data.
+4.  Ask me about natural hazards data visualisation.
 
-</details>
+**Fun Facts**:
 
-<details open>
-
-<summary>Kirsty McCann</summary>
-
-:::::: columns
-::: {.column width="30%"}
-
-**Current Position**: Research Fellow at Deakin University\
-:::
-
-::: {.column width="10%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="60%"}
-
+-   I had a dog and she is the absolute cutest.
+-   I love to play basketball.
+-   I recently bought a Nintendo Switch and would love game recommendations.
 :::
 ::::::
 
