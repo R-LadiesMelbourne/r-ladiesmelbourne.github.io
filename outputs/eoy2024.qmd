@@ -12,7 +12,7 @@ title: "2024 End of Year Event 🎉"
 :::::: columns
 ::: {.column width="30%"}
 
-![](images/EOY_2024_Maksimovic_J.jpeg){.circular-image}
+![](images/EOY_2024_Maksimovic_J.png){.circular-image}
 
 **Current Position**: Senior Research Associate at Peter MacCallum Cancer Centre
 **Contact me**: <i class="bi bi-envelope-fill"></i> [Email](jovana.maksimovic@petermac.org)
@@ -52,7 +52,7 @@ title: "2024 End of Year Event 🎉"
 :::::: columns
 ::: {.column width="30%"}
 
-![](images/EOY_2024_McCann_K.jpeg){.circular-image}
+![](images/EOY_2024_McCann_K.png){.circular-image}
 
 **Current Position**: Associate Research Fellow, Genomic Epidemiology\
 **Contact me**: <i class="bi bi-envelope-fill"></i> [Email](kirsty.mccann@deakin.edu.au)
