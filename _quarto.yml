@@ -37,6 +37,8 @@ website:
       - href: resources.qmd
         text: Resources
     tools:
+      - icon: bluesky
+        href: https://bsky.app/profile/rladiesmelb.bsky.social
       - icon: twitter-x
         href: https://twitter.com/RLadiesMelb
       - icon: fab fa-meetup
