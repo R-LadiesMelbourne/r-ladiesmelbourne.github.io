@@ -5,7 +5,7 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>R-Ladies Melbourne Inc</title>
+<title>R-Ladies Melbourne Inc.</title>
 <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/blog_index.html</link>
 <atom:link href="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/blog_index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
