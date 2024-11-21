@@ -1,5 +1,5 @@
 ---
-title: "About R-Ladies Melbourne Inc"
+title: "About R-Ladies Melbourne Inc."
 about:
   template: broadside
   image: images/rladiesmelblogo.png
@@ -10,7 +10,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/R-LadiesMelbourne
-    - text: <img src="images/meetup.svg" alt="Meetup" width="20" height="20" style="fill:#666666; position:relative; top:-2px;"> Meetup
+    - text: "{{< iconify fa6-brands bluesky >}} Bluesky"
+      href: https://bsky.app/profile/rladiesmelb.bsky.social
+    - text: "{{< iconify fa6-brands meetup >}} Meetup"
       href: https://www.meetup.com/rladies-melbourne/
     - icon: youtube
       text: YouTube
@@ -20,7 +22,7 @@ about:
       href: rladiesmelbourne@gmail.com
     - icon: slack
       text: R-Ladies Melbourne Slack
-      href: https://join.slack.com/t/r-ladiesmelbourne/shared_invite/zt-2l871qpk6-4EbxzUm2M5ow8vpXDZMspg 
+      href: https://join.slack.com/t/r-ladiesmelbourne/shared_invite/zt-2v1aery5t-AV4eiBvUhLengyyqDSlndQ
 toc: false 
 ---
 

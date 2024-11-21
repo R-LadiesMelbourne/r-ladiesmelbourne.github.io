@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "R-Ladies Melbourne Inc"
+  title: "R-Ladies Melbourne Inc."
   favicon: images/favicon.png
   google-analytics: "G-CB5M3V95HB"
   cookie-consent: true
@@ -36,17 +36,19 @@ website:
         text: Our Videos
       - href: resources.qmd
         text: Resources
-    tools:
+    right:
+      - text: "{{< iconify fa6-brands bluesky >}}"
+        href: https://bsky.app/profile/rladiesmelb.bsky.social
       - icon: twitter-x
         href: https://twitter.com/RLadiesMelb
-      - icon: fab fa-meetup
+      - text: "{{< iconify fa6-brands meetup >}}"
         href: https://www.meetup.com/rladies-melbourne/
       - icon: youtube
         href: https://www.youtube.com/channel/UClC5yNEjMoE3MmbK-mrV8Ow 
       - icon: envelope-fill
         href: rladiesmelbourne@gmail.com
       - icon: slack
-        href: https://join.slack.com/t/r-ladiesmelbourne/shared_invite/zt-2l871qpk6-4EbxzUm2M5ow8vpXDZMspg 
+        href: https://join.slack.com/t/r-ladiesmelbourne/shared_invite/zt-2v1aery5t-AV4eiBvUhLengyyqDSlndQ
       - icon: github
         href: https://github.com/R-LadiesMelbourne
         menu:
