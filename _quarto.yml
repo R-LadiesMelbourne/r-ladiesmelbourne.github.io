@@ -63,7 +63,9 @@ website:
     right: 
       - icon: twitter-x
         href: https://twitter.com/RLadiesMelb
-      - icon: fab fa-meetup
+      - text: "{{< iconify fa6-brands bluesky >}}"
+        href: https://bsky.app/profile/rladiesmelb.bsky.social
+      - text: "{{< iconify fa6-brands meetup >}}"
         href: https://www.meetup.com/rladies-melbourne/
       - icon: youtube
         href: https://www.youtube.com/channel/UClC5yNEjMoE3MmbK-mrV8Ow 
