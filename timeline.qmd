@@ -544,6 +544,36 @@ Overall, Dr. Sehrish Kanwal's multidimensional contributions encompass research 
 
 <details open>
 
+<summary>Roxane LEGAIE</summary>
+
+:::::: columns
+::: {.column .centre-align width="30%"}
+![](images/committee_profiles/Legaie_Roxane.jpg){.circular-image}
+
+**Current Position**: Clinical Bioinformatics Team Leader at the Peter MacCallum Cancer Centre\
+<i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/roxane-legaie/)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+**What do you use R for?** I don't code much anymore but some of our application use R for Copy Number Variation calling and visualisation from cancer genomics data. 
+
+**Biography**: Roxane leads the Clinical Bioinformatics team for the Pathology Department at the Peter MacCallum Cancer Centre in Melbourne. Her work is at the cutting edge of cancer genomics, implementing translational informatics solutions required for the analysis of next generation sequencing (NGS) data into clinical practice, to accelerate the diagnosis of cancer patients and their access to clinical trials. 
+
+Her passion for personalised medicine drives her commitment to ensure best practices are used throughout development, validation and release of clinical bioinformatics pipelines.
+
+Roxane completed a Master of Science ("Informatics and Bioinformatics") in France in 2007 and has worked in various institutions across Europe and Australia since – both in academia, industry and health care. She was one of the co-founders of R-Ladies Melbourne back in 2016.
+
+:::
+::::::
+
+</details>
+
+<details open>
+
 <summary>Lucy LIU</summary>
 
 :::::: columns
@@ -622,6 +652,34 @@ Overall, Dr. Sehrish Kanwal's multidimensional contributions encompass research 
 **Biography**: Dr. Anna Quaglieri is a Senior Bioinformatics Data Scientist at Mass Dynamics working to make mass spectrometry based proteomics more accessible to the broader community of scientists. She has a background in mathematical statistics and over 10 years of experience utilising statistics and software to makes sense of various types of ‘omics data including population genetics, genomics, epigenetics and proteomics in both academia and industry.
 
 Anna is a passionate advocate of the bioinformatics open source software community having co-organised the R-Ladies Melbourne group for over 6 years and currently covering the role of chair for the Bioconductor Code of Conduct committee.
+:::
+::::::
+
+</details>
+
+<details open>
+
+<summary>Kathleen ZEGLINSKI</summary>
+
+:::::: columns
+::: {.column .centre-align width="30%"}
+![](images/committee_profiles/Zeglinski_Kathleen.png){.circular-image}
+
+**Current Position**: PhD Student at WEHI\
+<i class="bi bi-github"></i> [Github](https://github.com/kzeglinski)\
+<i class="bi bi-envelope-fill"></i> [Email](zeglinski.k@wehi.edu.au)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+**What do you use R for?** Bioinformatics, data visualisation and cleaning. 
+
+**Favourite R packages**: ggplot2
+
+**Biography**: Kathleen is a final-year PhD student in the Ritchie Lab at WEHI. Her work focuses on the application of sequencing and bioinformatics to the development of biopharmaceuticals, including gene therapies and antibodies. 
 :::
 ::::::
 
