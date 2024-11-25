@@ -10,7 +10,37 @@
 <atom:link href="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/blog_index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.32</generator>
-<lastBuildDate>Wed, 06 Nov 2024 13:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 24 Nov 2024 13:00:00 GMT</lastBuildDate>
+<item>
+  <title>Meetup: 05th Dec 2024: End of Year Networking</title>
+  <dc:creator>Dionne Argyropoulos</dc:creator>
+  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/25_11_25_event_EOY.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/RLadiesMelb_051224_Flyer.png" class="img-fluid"></p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>Sign up on our <a href="https://www.meetup.com/rladies-melbourne/events/304646177/?eventOrigin=group_upcoming_events"><strong>meetup page</strong></a>.</p>
+<p>Time: Thu, December 05, 2024</p>
+<p>5:30 PM to 7:30 PM AEDT</p>
+<p>Location: In Person, The Clyde (385 Cardigan St, Carlton)</p>
+</div></div><p>Please join us on Thursday 05th December 2024 on the rooftop at The Clyde Hotel in Carlton from 5.30pm. This is a networking catch-up with some light refreshments and will only be in-person. Please register your attendance on Meetup by the 1st December for planning purposes.</p>
+<p>We have five outstanding mentors that coming to share the different journeys that brought them to their current roles in areas ranging from public health, genomics, bioinformatics, programming and software engineering!</p>
+<p>Read more about each of these mentors on our <a href="../outputs/eoy2024.html">dedicated page</a>! Here you can find a biography, questions to ask and fun facts about each mentor! You can also leave any questions on our page by signing into your GitHub account.</p>
+<p>We look forward to seeing you there!</p>
+<p>R Ladies Melbourne 💜</p>
+
+
+
+ ]]></description>
+  <category>Event</category>
+  <category>Networking</category>
+  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/25_11_25_event_EOY.html</guid>
+  <pubDate>Sun, 24 Nov 2024 13:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Meetup: 20th Nov 2024: Leveraging the Power of Data in Sport</title>
   <dc:creator>Caitlin Bourke</dc:creator>
