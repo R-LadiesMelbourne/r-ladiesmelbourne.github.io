@@ -502,7 +502,7 @@ R-Ladies Melbourne Organising Committee and Friends past and present in alphabet
 ::: {.column width="60%"}
 **What do you use R for?** I use R for data processing, modelling, analysis, visualisation, reports and generating websites.
 
-**Favourite R packages**: tidyverse, poppr
+**Favourite R packages**: [tidyverse](https://www.tidyverse.org/), [poppr](https://grunwaldlab.github.io/poppr/)
 
 **Biography**: Dionne is a molecular epidemiologist and population geneticist currently positioned at WEHI (Walter and Eliza Hall Institute). Dionne's avid interest in genetics, evolution and coding led her to apply these approaches to studies of infectious diseases, such as *Plasmodium falciparum* malaria in her Masters of Science and PhD, to *P. vivax* malaria and various microbes in her current first post-doc position. The research topics of interest include drug or antimicrobial resistance, spatiotemporal trends, epidemiological statistics, statistical modelling and machine learning techniques, data wrangling and visualisation. Her work has involved international collaborations in West Africa and North America, as well as supervision and support of students, with various opportunities for knowledge exchange and capacity-building in coding and genetic epidemiology. Being an active member of the R-Ladies Melbourne community, and the current President, has led to the development of practical content (workshops and the website) and has motivated her to learn and develop new techniques.
 :::
@@ -530,7 +530,7 @@ R-Ladies Melbourne Organising Committee and Friends past and present in alphabet
 ::: {.column width="60%"}
 **What do you use R for?** Data analysis, reporting, visualisation
 
-**Favourite R packages**: ggplot
+**Favourite R packages**: [ggplot](https://ggplot2.tidyverse.org/reference/ggplot.html)
 
 **Biography**: Dr. Sehrish Kanwal is a senior bioinformatician at the University of Melbourne Centre for Cancer Research, specialising in cancer genomics and clinical data analysis. Dr. Kanwal's research interests primarily revolve around cancer discovery, prognosis, and treatment, with a focus on leveraging computational biology and genomic and transcriptomic data analysis in clinical settings.
 
@@ -591,7 +591,7 @@ Roxane completed a Master of Science ("Informatics and Bioinformatics") in Franc
 ::: {.column width="60%"}
 **What do you use R for?** I mostly work in Python these days but I do use R to check how various statistical functions are implemented, in particular in my work on scikit-learn. R is a statistical programming language and I think it's still a gold standard for implementation of statistical algorithms.
 
-**Favourite R packages**: edgeR
+**Favourite R packages**: [edgeR](https://bioconductor.org/packages/release/bioc/html/edgeR.html)
 
 **Biography**: I'm currently a software engineer working on open source scientific software. I got my start doing some bioinformatics during my research Masters and have really enjoyed developing software to help scientists!
 :::
@@ -619,7 +619,7 @@ Roxane completed a Master of Science ("Informatics and Bioinformatics") in Franc
 ::: {.column width="60%"}
 **What do you use R for?** Statistical modelling, mathematical modelling, machine learning, data processing
 
-**Favourite R packages**: Anything tidy modelling!
+**Favourite R packages**: Anything [tidy modelling](https://www.tmwr.org/)!
 
 **Biography**: Lauren is a Senior Postdoctoral Research Officer in the Mueller Lab, in the Population Health and Immunity Division at the Walter and Eliza Hall Institute. Lauren currently works on projects relating to the control of infectious diseases in the Asia-Pacific region, including the development of diagnostic tools to identify individuals recently infected with *Plasmodium vivax*. In her previous research, she has addressed questions related to the management of animal populations and infectious diseases, including assessing the effectiveness of free-roaming dog population management, rabies control strategies, African swine fever in domestic pigs, and cetacean ecology and conservation. She uses R for all the above, from data cleaning to ecological and infectious disease modelling!
 :::
@@ -647,11 +647,40 @@ Roxane completed a Master of Science ("Informatics and Bioinformatics") in Franc
 ::: {.column width="60%"}
 **What do you use R for?** Building R packages and methods for the Mass Dynamics platform and analysing data for our clients. 
 
-**Favourite R packages**: Hard to answer! But limma is definitely at the top 
+**Favourite R packages**: Hard to answer! But [limma](https://bioconductor.org/packages/release/bioc/html/limma.html) is definitely at the top 
 
 **Biography**: Dr. Anna Quaglieri is a Senior Bioinformatics Data Scientist at Mass Dynamics working to make mass spectrometry based proteomics more accessible to the broader community of scientists. She has a background in mathematical statistics and over 10 years of experience utilising statistics and software to makes sense of various types of ‘omics data including population genetics, genomics, epigenetics and proteomics in both academia and industry.
 
 Anna is a passionate advocate of the bioinformatics open source software community having co-organised the R-Ladies Melbourne group for over 6 years and currently covering the role of chair for the Bioconductor Code of Conduct committee.
+:::
+::::::
+
+</details>
+
+<details open>
+
+<summary>Marie TRUSSART</summary>
+
+:::::: columns
+::: {.column .centre-align width="30%"}
+![](images/committee_profiles/Trussart_Marie.jpeg){.circular-image}
+
+**Current Position**: Senior Post-doctoral Researcher\
+<i class="bi bi-linkedin"></i> [LinkedIn](www.linkedin.com/in/marie-trussart-52321567)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+**What do you use R for?** Data analysis, Computational biology, Statistics. 
+
+**Favourite R packages**: [CytofRUV](https://github.com/mtrussart/CytofRUV)
+
+**Biography**: I am a senior post-doctoral researcher in the Bioinformatics department at the Walter and Eliza Hall Institute of Medical Research in Melbourne. I analyze clinical data from cancer patients receiving different drugs and develop computational methods to better predict an adapted treatment for each patient. 
+
+I am particularly concerned by the low rate of female participation in STEM and STEM careers. I have participated through different organizations such as the RLadies as a vice-president, WISPP to organize development workshops and events to empower women scientists for successful leadership among STEM professions. I am also really enthusiastic about career coaching and founded Kintsugi Coaching to address the barriers and enablers behind the participation and leadership of women in science.
 :::
 ::::::
 
@@ -677,7 +706,7 @@ Anna is a passionate advocate of the bioinformatics open source software communi
 ::: {.column width="60%"}
 **What do you use R for?** Bioinformatics, data visualisation and cleaning. 
 
-**Favourite R packages**: ggplot2
+**Favourite R packages**: [ggplot2](https://ggplot2.tidyverse.org/reference/ggplot.html)
 
 **Biography**: Kathleen is a final-year PhD student in the Ritchie Lab at WEHI. Her work focuses on the application of sequencing and bioinformatics to the development of biopharmaceuticals, including gene therapies and antibodies. 
 :::

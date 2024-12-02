@@ -61,10 +61,10 @@ website:
   page-footer: 
     left: "Copyright 2024, R-Ladies Melbourne"
     right: 
-      - icon: twitter-x
-        href: https://twitter.com/RLadiesMelb
       - text: "{{< iconify fa6-brands bluesky >}}"
         href: https://bsky.app/profile/rladiesmelb.bsky.social
+      - icon: twitter-x
+        href: https://twitter.com/RLadiesMelb
       - text: "{{< iconify fa6-brands meetup >}}"
         href: https://www.meetup.com/rladies-melbourne/
       - icon: youtube
