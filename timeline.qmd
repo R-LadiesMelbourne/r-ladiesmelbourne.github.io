@@ -118,7 +118,7 @@ timeline
 ::::::
 
 ::: column-margin
-**Commitee Members**:
+**Committee Members**:
 
 -   Dionne Argyropoulos (President)
 -   Danyang Dai (Daidai) (Vice President)
@@ -156,7 +156,7 @@ timeline
 ::::::
 
 ::: column-margin
-**Commitee Members**:
+**Committee Members**:
 
 -   Danyang Dai (Daidai) (President)
 -   Dionne Argyropoulos (Vice President)
@@ -197,7 +197,7 @@ timeline
 ::::::
 
 ::: column-margin
-**Commitee Members**:
+**Committee Members**:
 
 -   Gizem (Evie) Eker (President)
 -   Danyang Dai (Daidai) (Vice President)
@@ -238,7 +238,7 @@ timeline
 ::::::
 
 ::: column-margin
-**Commitee Members**:
+**Committee Members**:
 
 -   Shazia Ruybal-Pesántez (President)
 -   Yuri Song (Vice President)
@@ -281,7 +281,7 @@ timeline
 ::::::
 
 ::: column-margin
-**Commitee Members**:
+**Committee Members**:
 
 -   Sehrish Kanwal (President)
 -   Marie Trussart (Vice President)
@@ -332,7 +332,7 @@ timeline
 ::::::
 
 ::: column-margin
-**Commitee Members**:
+**Committee Members**:
 
 -   Sepideh Foroutan (President)
 -   Nikki Rubinstein (Vice President)
@@ -377,7 +377,7 @@ timeline
 ::::::
 
 ::: column-margin
-**Commitee Members**:
+**Committee Members**:
 
 -   Göknur Giner
 -   Sepideh Foroutan
@@ -425,7 +425,7 @@ timeline
 ::::::
 
 ::: column-margin
-**Commitee Members**:
+**Committee Members**:
 
 -   Sepideh Foroutan (President)
 -   Nikki Rubinstein (Vice President)
@@ -461,7 +461,7 @@ timeline
 ::::::
 
 ::: column-margin
-**Commitee Members**:
+**Committee Members**:
 
 -   Göknur Giner
 -   Sepideh Foroutan
@@ -476,6 +476,33 @@ timeline
 ## Committee Member Profiles
 
 R-Ladies Melbourne Organising Committee and Friends past and present in alphabetical order.
+
+<details open>
+
+<summary>Mansi AGGARWAL</summary>
+
+:::::: columns
+::: {.column .centre-align width="30%"}
+![](images/committee_profiles/){.circular-image}
+
+**Current Position**: Product Bioinformatician at Mass Dynamics\
+<i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/mansiaggarwal2504/)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+**What do you use R for?** Bioinformatics, data visualisation, data processing
+
+**Favourite R packages**: [dplyr](https://dplyr.tidyverse.org/), [ggplot](https://ggplot2.tidyverse.org/reference/ggplot.html)
+
+**Biography**: With over five years of experience in data science roles across diverse sectors, Mansi is now focused on leveraging her expertise at the intersection of healthcare and technology, particularly in bioinformatics. She is passionate about improving healthcare outcomes through data-driven solutions. Currently, she works as a product-focused bioinformatician at Mass Dynamics, developing innovative solutions to simplify proteomics workflows and data interpretation.
+:::
+::::::
+
+</details>
 
 <details open>
 
@@ -505,6 +532,32 @@ R-Ladies Melbourne Organising Committee and Friends past and present in alphabet
 **Favourite R packages**: [tidyverse](https://www.tidyverse.org/), [poppr](https://grunwaldlab.github.io/poppr/)
 
 **Biography**: Dionne is a molecular epidemiologist and population geneticist currently positioned at WEHI (Walter and Eliza Hall Institute). Dionne's avid interest in genetics, evolution and coding led her to apply these approaches to studies of infectious diseases, such as *Plasmodium falciparum* malaria in her Masters of Science and PhD, to *P. vivax* malaria and various microbes in her current first post-doc position. The research topics of interest include drug or antimicrobial resistance, spatiotemporal trends, epidemiological statistics, statistical modelling and machine learning techniques, data wrangling and visualisation. Her work has involved international collaborations in West Africa and North America, as well as supervision and support of students, with various opportunities for knowledge exchange and capacity-building in coding and genetic epidemiology. Being an active member of the R-Ladies Melbourne community, and the current President, has led to the development of practical content (workshops and the website) and has motivated her to learn and develop new techniques.
+:::
+::::::
+
+</details>
+
+<details open>
+
+<summary>Caitlin BOURKE</summary>
+
+:::::: columns
+::: {.column .centre-align width="30%"}
+![](images/committee_profiles/Bourke_Caitlin.png){.circular-image}
+
+**Current Position**: Post-doctoral Researcher
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+**What do you use R for?** Bioinformatics, data analysis, data visualisation, reporting.
+
+**Favourite R packages**: [tidyverse](https://www.tidyverse.org/)
+
+**Biography**: Caitlin is a post-doctoral researcher working in malaria research, currently based in Madagascar. Her work has spanned transcriptomics, genomics, immunology, and epidemiology.  
 :::
 ::::::
 
