@@ -89,6 +89,7 @@ timeline
          : Increasing diversity in R-Ladies São Paulo
          : It Takes a Spark 2024 - Become A Disease Detective
          : Data in Sport Analytics
+         : End-of-Year Networking Event 
     2025 : Upcoming Events TBD!
 ```
 :::
@@ -113,6 +114,7 @@ timeline
 -   [Increasing diversity in R-Ladies São Paulo](https://github.com/R-LadiesMelbourne/02-05-24-Actions-to-increase-diversity-in-the-R-Ladies-community-Sao-Paulo).
 -   [It Takes a Spark 2024: Become a Disease Detective](https://github.com/R-LadiesMelbourne/24-10-24-ItTakesASpark).
 -   [Data in Sport Analytics](https://github.com/R-LadiesMelbourne/20-11-24-Leveraging-the-Power-of-Data-in-Sport/tree/main).
+-   [End of Year Networking Event](https://www.meetup.com/rladies-melbourne/events/304646177/?eventOrigin=group_past_events)
 :::
 :::::
 ::::::
