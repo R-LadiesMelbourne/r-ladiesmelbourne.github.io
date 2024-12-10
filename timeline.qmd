@@ -483,7 +483,7 @@ R-Ladies Melbourne Organising Committee and Friends past and present in alphabet
 
 :::::: columns
 ::: {.column .centre-align width="30%"}
-![](images/committee_profiles/){.circular-image}
+![](images/committee_profiles/Aggarwal_Mansi.jpg){.circular-image}
 
 **Current Position**: Product Bioinformatician at Mass Dynamics\
 <i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/mansiaggarwal2504/)
@@ -543,7 +543,7 @@ R-Ladies Melbourne Organising Committee and Friends past and present in alphabet
 
 :::::: columns
 ::: {.column .centre-align width="30%"}
-![](images/committee_profiles/Bourke_Caitlin.png){.circular-image}
+![](images/committee_profiles/Bourke_Caitlin.jpeg){.circular-image}
 
 **Current Position**: Post-doctoral Researcher
 :::
@@ -562,6 +562,41 @@ R-Ladies Melbourne Organising Committee and Friends past and present in alphabet
 ::::::
 
 </details>
+
+
+<details open>
+
+<summary>Danyang (Daidai) DAI</summary>
+
+:::::: columns
+::: {.column .centre-align width="30%"}
+![](images/committee_profiles/Dai_Danyang.png){.circular-image}
+
+**Current Position**: PhD Student at Queensland Digital Health Centre, The University of Queensland \
+<span style="display:inline-flex; align-items:center;">
+  <img src="images/bluesky-brands-solid.svg" alt="Bluesky" width="15" height="15" style="fill:#666666; margin-right: 5px;">
+  <a href="https://bsky.app/profile/danyang.dai.bsky.social">Bluesky</a>
+</span>\
+<i class="bi bi-github"></i> [Github](https://github.com/DanyangDai)\
+<i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/danyang-dai-7529b4152/)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+**What do you use R for?** Data wrangling, analysis, visualisation. Generating reproduceable report, Shiny app and website development. 
+
+**Favourite R packages**: [tidyverse](https://www.tidyverse.org/), [rmarkdown](https://rmarkdown.rstudio.com/)
+
+**Biography**: Danyang Dai (Daidai) is a third-year PhD candidate at the Queensland Digital Health Centre (QDHeC) at The University of Queensland. Her research focuses on advancing population health outcomes in the post-COVID-19 era. With a strong academic background in Econometrics and Biostatistics, Daidai is also a passionate advocate for the R programming language. She has actively contributed to the academic and professional communities through her involvement with organizations such as R-Ladies Melbourne and by creating educational resources for R programming.
+
+:::
+::::::
+
+</details>
+
 
 <details open>
 
