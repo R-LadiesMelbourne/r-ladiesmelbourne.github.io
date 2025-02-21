@@ -10,7 +10,47 @@
 <atom:link href="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/blog_index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.32</generator>
-<lastBuildDate>Sun, 24 Nov 2024 13:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 21 Feb 2025 14:00:00 GMT</lastBuildDate>
+<item>
+  <title>Meetup: 26th Feb 2025: Inspiring the Next Generation: R-Ladies Melb at “It Takes A Spark” Conference</title>
+  <dc:creator>Dionne Argyropoulos</dc:creator>
+  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/22_02_25_event_redu.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/RLadiesMelb_260225_Flyer.png" class="img-fluid"></p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>Sign up on our <a href="https://www.meetup.com/rladies-melbourne/events/306093929/?eventOrigin=group_upcoming_events"><strong>meetup page</strong></a>.</p>
+<p>Time: Wed, February 26, 2025</p>
+<p>5:30 PM to 6:30 PM AEDT</p>
+<p>Location: Online (Zoom Link Provided on Meetup)</p>
+</div></div><section id="welcome-to-our-first-event-for-2025" class="level2">
+<h2 class="anchored" data-anchor-id="welcome-to-our-first-event-for-2025">Welcome to our first event for 2025!</h2>
+<section id="about-the-event" class="level3">
+<h3 class="anchored" data-anchor-id="about-the-event">About the Event:</h3>
+<p>How do we spark curiosity in coding, data science, and epidemiology among high school students? For the last several years, R-Ladies Melbourne has been running an engaging and interactive 80-minute workshop at the It Takes A Spark STEM Education Conference, introducing students to R, data visualisation, the power of clear science communication and concepts in epidemiology.</p>
+<p>In this talk, Dionne will share insights from our experience delivering this workshop—how we designed it, the challenges we navigated, and the impact we’ve seen. We’ll also discuss key lessons learned, how we’ve adapted our approach, and our vision for the future of inspiring young minds in STEM.</p>
+<p>Whether you’re an educator, mentor, or simply passionate about making STEM more accessible, join us to explore how we can continue to empower the next generation of data scientists and communicators.</p>
+<p>See you there, R-Ladies Melbourne 💜</p>
+</section>
+<section id="about-the-speaker" class="level3">
+<h3 class="anchored" data-anchor-id="about-the-speaker">About the Speaker:</h3>
+<p>Dionne is a molecular epidemiologist and population geneticist currently positioned at WEHI (Walter and Eliza Hall Institute). Dionne’s avid interest in genetics, evolution and coding led her to apply these approaches to studies of infectious diseases, such as Plasmodium falciparum malaria in her Masters of Science and PhD, to P. vivax malaria and various microbes in her current first post-doc position. The research topics of interest include drug or antimicrobial resistance, spatiotemporal trends, epidemiological statistics, statistical modelling and machine learning techniques, data wrangling and visualisation. Her work has involved international collaborations in West Africa, North America and Southeast Asia, as well as supervision and support of students, with various opportunities for knowledge exchange and capacity-building in coding and genetic epidemiology. Being an active member of the R-Ladies Melbourne community, and the current President, has led to the development of practical content (workshops and the website) and has motivated her to learn and develop new techniques.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>Event</category>
+  <category>Education</category>
+  <category>R-Ladies Melbourne</category>
+  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/22_02_25_event_redu.html</guid>
+  <pubDate>Fri, 21 Feb 2025 14:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Meetup: 05th Dec 2024: End of Year Networking</title>
   <dc:creator>Dionne Argyropoulos</dc:creator>
@@ -39,7 +79,7 @@
   <category>Event</category>
   <category>Networking</category>
   <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/25_11_25_event_EOY.html</guid>
-  <pubDate>Sun, 24 Nov 2024 13:00:00 GMT</pubDate>
+  <pubDate>Sun, 24 Nov 2024 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Meetup: 20th Nov 2024: Leveraging the Power of Data in Sport</title>
@@ -75,7 +115,7 @@
   <category>Data Science</category>
   <category>AFL</category>
   <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_11_24_event.html</guid>
-  <pubDate>Wed, 06 Nov 2024 13:00:00 GMT</pubDate>
+  <pubDate>Wed, 06 Nov 2024 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Welcome to Our Website 💜</title>
@@ -105,7 +145,7 @@
   <category>Admin</category>
   <category>Code</category>
   <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_11_24_welcome.html</guid>
-  <pubDate>Tue, 05 Nov 2024 13:00:00 GMT</pubDate>
+  <pubDate>Tue, 05 Nov 2024 14:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
