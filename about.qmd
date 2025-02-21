@@ -4,9 +4,6 @@ about:
   template: broadside
   image: images/rladiesmelblogo.png
   links:
-    - icon: twitter-x
-      text: Twitter
-      href: https://twitter.com/RLadiesMelb
     - icon: github
       text: Github
       href: https://github.com/R-LadiesMelbourne

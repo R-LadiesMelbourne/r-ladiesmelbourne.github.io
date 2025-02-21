@@ -90,7 +90,7 @@ timeline
          : It Takes a Spark 2024 - Become A Disease Detective
          : Data in Sport Analytics
          : End-of-Year Networking Event 
-    2025 : Upcoming Events TBD!
+    2025 : Inspiring the Next Generation: R-Ladies Melb at “It Takes A Spark” Conference
 ```
 :::
 
@@ -115,6 +115,7 @@ timeline
 -   [It Takes a Spark 2024: Become a Disease Detective](https://github.com/R-LadiesMelbourne/24-10-24-ItTakesASpark).
 -   [Data in Sport Analytics](https://github.com/R-LadiesMelbourne/20-11-24-Leveraging-the-Power-of-Data-in-Sport/tree/main).
 -   [End of Year Networking Event](https://www.meetup.com/rladies-melbourne/events/304646177/?eventOrigin=group_past_events)
+-   [Inspiring the Next Generation: R-Ladies Melb at “It Takes A Spark” Conference](https://github.com/R-LadiesMelbourne/26-2-25-Inspiring-the-Next-Generation)
 :::
 :::::
 ::::::
@@ -131,6 +132,10 @@ timeline
 -   Belen Prado
 -   Cecilia Rios Teran
 -   Felicia Bongiovanni
+-   Harriet Mason (2025)
+-   Kirsty McCann (2025)
+-   Mansi Aggarwal (2025)
+-   Megan Soria (2025)
 -   Outgoing Members: Steph Studniberg, Jayani Lakshika
 :::
 
@@ -474,7 +479,7 @@ timeline
 -   Sooror Zadeh
 :::
 
-::::::::::::::::::: column-page
+::::::::::::::::::::::::::::::::::::::::::::::: column-page
 ## Committee Member Profiles
 
 R-Ladies Melbourne Organising Committee and Friends past and present in alphabetical order.
@@ -515,10 +520,7 @@ R-Ladies Melbourne Organising Committee and Friends past and present in alphabet
 ![](images/committee_profiles/Argyropoulos_Dionne.png){.circular-image}
 
 **Current Position**: Research Officer at WEHI\
-<span style="display:inline-flex; align-items:center;">
-  <img src="images/bluesky-brands-solid.svg" alt="Bluesky" width="15" height="15" style="fill:#666666; margin-right: 5px;">
-  <a href="https://bsky.app/profile/dionnecargy.bsky.social">Bluesky</a>
-</span>\
+[ <img src="images/bluesky-brands-solid.svg" alt="Bluesky" width="15" height="15" style="fill:#666666; margin-right: 5px;"/> <a href="https://bsky.app/profile/dionnecargy.bsky.social">Bluesky</a> ]{style="display:inline-flex; align-items:center;"}\
 <i class="bi bi-github"></i> [Github](https://github.com/dionnecargy)\
 <i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/dionneargy/)\
 <i class="bi bi-envelope-fill"></i> [Email](argyropoulos.d@wehi.edu.au)
@@ -559,12 +561,11 @@ R-Ladies Melbourne Organising Committee and Friends past and present in alphabet
 
 **Favourite R packages**: [tidyverse](https://www.tidyverse.org/)
 
-**Biography**: Caitlin is a post-doctoral researcher working in malaria research, currently based in Madagascar. Her work has spanned transcriptomics, genomics, immunology, and epidemiology.  
+**Biography**: Caitlin is a post-doctoral researcher working in malaria research, currently based in Madagascar. Her work has spanned transcriptomics, genomics, immunology, and epidemiology.
 :::
 ::::::
 
 </details>
-
 
 <details open>
 
@@ -574,11 +575,8 @@ R-Ladies Melbourne Organising Committee and Friends past and present in alphabet
 ::: {.column .centre-align width="30%"}
 ![](images/committee_profiles/Dai_Danyang.png){.circular-image}
 
-**Current Position**: PhD Student at Queensland Digital Health Centre, The University of Queensland \
-<span style="display:inline-flex; align-items:center;">
-  <img src="images/bluesky-brands-solid.svg" alt="Bluesky" width="15" height="15" style="fill:#666666; margin-right: 5px;">
-  <a href="https://bsky.app/profile/danyang.dai.bsky.social">Bluesky</a>
-</span>\
+**Current Position**: PhD Student at Queensland Digital Health Centre, The University of Queensland\
+[ <img src="images/bluesky-brands-solid.svg" alt="Bluesky" width="15" height="15" style="fill:#666666; margin-right: 5px;"/> <a href="https://bsky.app/profile/danyang.dai.bsky.social">Bluesky</a> ]{style="display:inline-flex; align-items:center;"}\
 <i class="bi bi-github"></i> [Github](https://github.com/DanyangDai)\
 <i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/danyang-dai-7529b4152/)
 :::
@@ -588,17 +586,44 @@ R-Ladies Melbourne Organising Committee and Friends past and present in alphabet
 :::
 
 ::: {.column width="60%"}
-**What do you use R for?** Data wrangling, analysis, visualisation. Generating reproduceable report, Shiny app and website development. 
+**What do you use R for?** Data wrangling, analysis, visualisation. Generating reproduceable report, Shiny app and website development.
 
 **Favourite R packages**: [tidyverse](https://www.tidyverse.org/), [rmarkdown](https://rmarkdown.rstudio.com/)
 
 **Biography**: Danyang Dai (Daidai) is a third-year PhD candidate at the Queensland Digital Health Centre (QDHeC) at The University of Queensland. Her research focuses on advancing population health outcomes in the post-COVID-19 era. With a strong academic background in Econometrics and Biostatistics, Daidai is also a passionate advocate for the R programming language. She has actively contributed to the academic and professional communities through her involvement with organizations such as R-Ladies Melbourne and by creating educational resources for R programming.
-
 :::
 ::::::
 
 </details>
 
+<details open>
+
+<summary>Saskia FREYTAG</summary>
+
+:::::: columns
+::: {.column .centre-align width="30%"}
+![](images/committee_profiles/Freytag_Saskia.png){.circular-image}
+
+**Current Position**: Lab Head \
+[ <img src="images/bluesky-brands-solid.svg" alt="Bluesky" width="15" height="15" style="fill:#666666; margin-right: 5px;"/> <a href="https://bsky.app/profile/saskiafreytag.bsky.social">Bluesky</a> ]{style="display:inline-flex; align-items:center;"}\
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+**What do you use R for?** Bioinformatics.
+
+**Favourite R packages**: [ggplot](https://ggplot2.tidyverse.org/reference/ggplot.html)
+
+**Biography**: Saskia Freytag is a laboratory head in the Personalised Oncology Division at Walter and Eliza Hall Institute for Medical Research. Together with Dr Sarah Best and Dr Jim Whittle, Saskia co-leads the Brain Cancer Research Laboratory within the Brain Cancer Centre, where she leads the Bioinformatics arm. Her group uses cutting-edge single cell and spatial omics technologies to improve surgical methods, understand resistance mechanisms, and identify novel treatment strategies.
+
+Saskia has a PhD in Statistical Genetics from Georg-August University in Göttingen (Germany), followed by postdoctoral positions at WEHI and the Harry Perkins Institute of Medical Research in Perth. Saskia was one of the original founding members of R Ladies Melbourne.
+:::
+::::::
+
+</details>
 
 <details open>
 
@@ -649,14 +674,13 @@ Overall, Dr. Sehrish Kanwal's multidimensional contributions encompass research 
 :::
 
 ::: {.column width="60%"}
-**What do you use R for?** I don't code much anymore but some of our application use R for Copy Number Variation calling and visualisation from cancer genomics data. 
+**What do you use R for?** I don't code much anymore but some of our application use R for Copy Number Variation calling and visualisation from cancer genomics data.
 
-**Biography**: Roxane leads the Clinical Bioinformatics team for the Pathology Department at the Peter MacCallum Cancer Centre in Melbourne. Her work is at the cutting edge of cancer genomics, implementing translational informatics solutions required for the analysis of next generation sequencing (NGS) data into clinical practice, to accelerate the diagnosis of cancer patients and their access to clinical trials. 
+**Biography**: Roxane leads the Clinical Bioinformatics team for the Pathology Department at the Peter MacCallum Cancer Centre in Melbourne. Her work is at the cutting edge of cancer genomics, implementing translational informatics solutions required for the analysis of next generation sequencing (NGS) data into clinical practice, to accelerate the diagnosis of cancer patients and their access to clinical trials.
 
 Her passion for personalised medicine drives her commitment to ensure best practices are used throughout development, validation and release of clinical bioinformatics pipelines.
 
 Roxane completed a Master of Science ("Informatics and Bioinformatics") in France in 2007 and has worked in various institutions across Europe and Australia since – both in academia, industry and health care. She was one of the co-founders of R-Ladies Melbourne back in 2016.
-
 :::
 ::::::
 
@@ -688,6 +712,38 @@ Roxane completed a Master of Science ("Informatics and Bioinformatics") in Franc
 ::::::
 
 </details open>
+
+
+<details open>
+
+<summary>Shazia RUYBAL-PESÁNTEZ</summary>
+
+:::::: columns
+::: {.column .centre-align width="30%"}
+![](images/committee_profiles/Ruybal_Shazia.jpg){.circular-image}
+
+**Current Position**: Research Associate in Malaria Genomic Epidemiology, Imperial College London\
+[ <img src="images/bluesky-brands-solid.svg" alt="Bluesky" width="15" height="15" style="fill:#666666; margin-right: 5px;"/> <a href="https://bsky.app/profile/drshaziaruybal.bsky.social">Bluesky</a> ]{style="display:inline-flex; align-items:center;"}\
+<i class="bi bi-github"></i> [Github](https://www.github.com/shaziaruybal)\
+<i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/shazia-ruybal-pesantez/)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+**What do you use R for?** Pretty much everything! From data cleaning to modeling, to R packages and shiny apps, to websites! 
+
+**Favourite R packages**: [rmarkdown](https://rmarkdown.rstudio.com/index.html), [tidyverse](https://www.tidyverse.org/), [gt](https://gt.rstudio.com/)
+
+**Biography**: Dr Shazia Ruybal-Pesántez is a genomic epidemiologist specializing in pathogen genomic epidemiology and its applications in malaria surveillance. Her research integrates population genetics, bioinformatics, and epidemiology to design analytical and statistical methods that enhance our understanding of malaria transmission dynamics. She is particularly interested in leveraging genomic data to optimize malaria surveillance strategies in response to emerging challenges such as increased localized outbreaks, drug resistance, and climate change. Through her work she aims to bridge the gap between data generation, analysis and real-world impact. 
+
+She is also an avid R user (she is a former R-Ladies Melbourne president!) and is passionate about open science, training and capacity-building, and the development of accessible digital tools. She is also a consultant and instructor for Applied Epi, where she teaches applied epidemiologists and public health professionals to apply epidemiological methods using R. 
+:::
+::::::
+
+</details>
 
 <details open>
 
@@ -735,9 +791,9 @@ Roxane completed a Master of Science ("Informatics and Bioinformatics") in Franc
 :::
 
 ::: {.column width="60%"}
-**What do you use R for?** Building R packages and methods for the Mass Dynamics platform and analysing data for our clients. 
+**What do you use R for?** Building R packages and methods for the Mass Dynamics platform and analysing data for our clients.
 
-**Favourite R packages**: Hard to answer! But [limma](https://bioconductor.org/packages/release/bioc/html/limma.html) is definitely at the top 
+**Favourite R packages**: Hard to answer! But [limma](https://bioconductor.org/packages/release/bioc/html/limma.html) is definitely at the top
 
 **Biography**: Dr. Anna Quaglieri is a Senior Bioinformatics Data Scientist at Mass Dynamics working to make mass spectrometry based proteomics more accessible to the broader community of scientists. She has a background in mathematical statistics and over 10 years of experience utilising statistics and software to makes sense of various types of ‘omics data including population genetics, genomics, epigenetics and proteomics in both academia and industry.
 
@@ -764,11 +820,11 @@ Anna is a passionate advocate of the bioinformatics open source software communi
 :::
 
 ::: {.column width="60%"}
-**What do you use R for?** Data analysis, Computational biology, Statistics. 
+**What do you use R for?** Data analysis, Computational biology, Statistics.
 
 **Favourite R packages**: [CytofRUV](https://github.com/mtrussart/CytofRUV)
 
-**Biography**: I am a senior post-doctoral researcher in the Bioinformatics department at the Walter and Eliza Hall Institute of Medical Research in Melbourne. I analyze clinical data from cancer patients receiving different drugs and develop computational methods to better predict an adapted treatment for each patient. 
+**Biography**: I am a senior post-doctoral researcher in the Bioinformatics department at the Walter and Eliza Hall Institute of Medical Research in Melbourne. I analyze clinical data from cancer patients receiving different drugs and develop computational methods to better predict an adapted treatment for each patient.
 
 I am particularly concerned by the low rate of female participation in STEM and STEM careers. I have participated through different organizations such as the RLadies as a vice-president, WISPP to organize development workshops and events to empower women scientists for successful leadership among STEM professions. I am also really enthusiastic about career coaching and founded Kintsugi Coaching to address the barriers and enablers behind the participation and leadership of women in science.
 :::
@@ -794,14 +850,13 @@ I am particularly concerned by the low rate of female participation in STEM and 
 :::
 
 ::: {.column width="60%"}
-**What do you use R for?** Bioinformatics, data visualisation and cleaning. 
+**What do you use R for?** Bioinformatics, data visualisation and cleaning.
 
 **Favourite R packages**: [ggplot2](https://ggplot2.tidyverse.org/reference/ggplot.html)
 
-**Biography**: Kathleen is a final-year PhD student in the Ritchie Lab at WEHI. Her work focuses on the application of sequencing and bioinformatics to the development of biopharmaceuticals, including gene therapies and antibodies. 
+**Biography**: Kathleen is a final-year PhD student in the Ritchie Lab at WEHI. Her work focuses on the application of sequencing and bioinformatics to the development of biopharmaceuticals, including gene therapies and antibodies.
 :::
 ::::::
 
 </details>
-
-:::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::
