@@ -90,7 +90,8 @@ timeline
          : It Takes a Spark 2024 - Become A Disease Detective
          : Data in Sport Analytics
          : End-of-Year Networking Event 
-    2025 : Inspiring the Next Generation: R-Ladies Melb at “It Takes A Spark” Conference
+    2025 : Inspiring the Next Generation- R-Ladies Melb at "It Takes A Spark" Conference
+         : PGEforge-towards an open analysis ecosystem for malaria genomic epidemiology
 ```
 :::
 
@@ -116,6 +117,7 @@ timeline
 -   [Data in Sport Analytics](https://github.com/R-LadiesMelbourne/20-11-24-Leveraging-the-Power-of-Data-in-Sport/tree/main).
 -   [End of Year Networking Event](https://www.meetup.com/rladies-melbourne/events/304646177/?eventOrigin=group_past_events)
 -   [Inspiring the Next Generation: R-Ladies Melb at “It Takes A Spark” Conference](https://github.com/R-LadiesMelbourne/26-2-25-Inspiring-the-Next-Generation)
+-   [PGEforge: towards an open analysis ecosystem for malaria genomic epidemiology](https://github.com/shaziaruybal/pgeforge_rladiesmelb)
 :::
 :::::
 ::::::
