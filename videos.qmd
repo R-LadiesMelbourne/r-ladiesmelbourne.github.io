@@ -3,294 +3,244 @@ title: "Our Video Archive"
 toc: false 
 ---
 
-## Actions to increase diversity in the R-Ladies community - São Paolo 
+## Actions to increase diversity in the R-Ladies community - São Paolo
 
-{{<video https://youtu.be/W-bmjKeQX4M?si=VSH7iUFD4vneDudF >}}
+{{\<video https://youtu.be/W-bmjKeQX4M?si=VSH7iUFD4vneDudF \>}}
 
 ::: column-margin
-
 Our 02-05-2024 [meetup](https://www.meetup.com/rladies-melbourne/events/300561897/?eventOrigin=group_events_list) with international speaker **Beatriz Milz** from R-Ladies São Paulo chapter in Brazil. She shared stories from R-Ladies São Paulo and their journey to increase diversity in their community.
-
 :::
 
 This presentation aims to share the diversity issues in the R-Ladies São Paulo community and the actions being taken to increase diversity. The idea is to present some important concepts, such as intersectionality, and discuss the importance of understanding the local context. Also, I drew some reflections that can be useful for thinking about what actions we can take in different R-Ladies chapters to seek to improve diversity.
 
 ## Switching between space and time: Spatio-temporal analysis with cubble
 
-{{<video https://youtu.be/6Ka021fABxk?si=852jpeLwXfp0cRwK >}}
+{{\<video https://youtu.be/6Ka021fABxk?si=852jpeLwXfp0cRwK \>}}
 
 ::: column-margin
-
-Our 27-09-2022 [meetup](https://www.meetup.com/rladies-melbourne/events/288516788/?eventOrigin=group_events_list) with **Sherry Zhang**, a PhD student in the Department of Econometrics and Business Statistics at Monash University. This is a hands-on session to work with some Australian weather station data. So get your R set up ready! You can find the slides [here](https://sherryzhang-rladiesmelb2022.netlify.app/#/title-slide) and can clone the repository from [github](https://github.com/huizezhang-sherry/RLadiesMelb2022). 
-
+Our 27-09-2022 [meetup](https://www.meetup.com/rladies-melbourne/events/288516788/?eventOrigin=group_events_list) with **Sherry Zhang**, a PhD student in the Department of Econometrics and Business Statistics at Monash University. This is a hands-on session to work with some Australian weather station data. So get your R set up ready! You can find the slides [here](https://sherryzhang-rladiesmelb2022.netlify.app/#/title-slide) and can clone the repository from [github](https://github.com/huizezhang-sherry/RLadiesMelb2022).
 :::
 
 Australia weather data have a spatial component given by the station coordinates and a temporal component that provides daily measures of precipitation, and maximum/ minimum temperature. We will use the package `sf` to work on the spatial side to generate some maps (bonus point if) and the package `tsibble` to conduct some exploratory data analysis on the temporal side. One way to communicate space and time information together is through a glyph map where temporal coordinates are transformed into space. We will create the glyph map with the ggplot geom: `geom_glyph()`. Lastly, we will experiment with a new data structure, cubble, to arrange spatio-temporal data.
 
 ## The workflow of tidy data, constructing plots and making data-driven decisions
 
-{{<video https://youtu.be/3wPfPdokaXQ?si=qlNizT8ACOMsxlF1 >}}
+{{\<video https://youtu.be/3wPfPdokaXQ?si=qlNizT8ACOMsxlF1 \>}}
 
 ::: column-margin
-
 Our 01-09-22 [meetup](https://www.meetup.com/rladies-melbourne/events/287978684/?eventOrigin=group_events_list) with **Di Cook**, a Professor in Econometrics and Business Statistics at Monash University! She primarily works on data visualisation, and has been using R for almost 30 years! Her research is in the area of data visualisation, especially the visualisation of high-dimensional data using tours with low-dimensional projections, and projection pursuit. A current focus is on bridging the gap between exploratory graphics and statistical inference.
-
 :::
 
 Technology plays an important role in data visualisation for evaluating effectiveness and for public consumption. Di utilises technology such as virtual environments, Amazon’s Mechanical Turk, and eye-tracking in her work, and makes an effort to share her work with open source software. Di is a Fellow of the American Statistical Association, elected member of the International Statistical Institute, past-editor of the Journal of Computational and Graphical Statistics, elected Member of the R Foundation, and current editor of the R Journal.
 
-
 ## Building a new geom in ggplot2
 
-{{<video https://youtu.be/ZMHJdW6a20I?si=Ito4aH0G6qdZTeqR >}}
+{{\<video https://youtu.be/ZMHJdW6a20I?si=Ito4aH0G6qdZTeqR \>}}
 
 ::: column-margin
-
-Our 24-05-2022 [meetup](https://www.meetup.com/rladies-melbourne/events/285876172/?eventOrigin=group_events_list) with **Sayani Gupta**, a statistician who recently completed her PhD from the Department of Econometrics and Business Statistics, Monash University on the visualisation and analysis of probability distributions of large temporal data. 
-
+Our 24-05-2022 [meetup](https://www.meetup.com/rladies-melbourne/events/285876172/?eventOrigin=group_events_list) with **Sayani Gupta**, a statistician who recently completed her PhD from the Department of Econometrics and Business Statistics, Monash University on the visualisation and analysis of probability distributions of large temporal data.
 :::
 
-In this talk, Sayani will walk you through how to build new plotting symbols that are not implemented in ggplot2 yet. This enables users to customise and integrate new graphical elements with existing ggplot2 visualisations, resulting in a broad range of informative graphics. The idea is to illustrate it with a few examples, but mainly demonstrate it through the recently developed R package gghdr. The package provides a framework for visualising Highest Density Regions (HDR) using the ggplot2 graphics syntax. The method of summarizing a distribution using HDR is useful for plotting multimodal distributions, but unlike box plots, density plots, or violin plots, there is no way to draw HDRs in a ggplot2 framework. We will see how gghdr extends the functionality of ggplot2 by calling new stat_* and geom_* functions, where the stat_* functions are inherited from the R package hdrcde and the geom_* functions are built to produce the new plotting symbols.
+In this talk, Sayani will walk you through how to build new plotting symbols that are not implemented in ggplot2 yet. This enables users to customise and integrate new graphical elements with existing ggplot2 visualisations, resulting in a broad range of informative graphics. The idea is to illustrate it with a few examples, but mainly demonstrate it through the recently developed R package gghdr. The package provides a framework for visualising Highest Density Regions (HDR) using the ggplot2 graphics syntax. The method of summarizing a distribution using HDR is useful for plotting multimodal distributions, but unlike box plots, density plots, or violin plots, there is no way to draw HDRs in a ggplot2 framework. We will see how gghdr extends the functionality of ggplot2 by calling new stat\_\* and geom\_\* functions, where the stat\_\* functions are inherited from the R package hdrcde and the geom\_\* functions are built to produce the new plotting symbols.
 
 ## Data vis for mass audiences
 
-{{<video https://youtu.be/Es-lEV7elZE?si=u62oFL5e123oXpJd >}}
+{{\<video https://youtu.be/Es-lEV7elZE?si=u62oFL5e123oXpJd \>}}
 
 ::: column-margin
-
-Our 07-04-2022 [meetup](https://www.meetup.com/rladies-melbourne/events/284983663/?eventOrigin=group_events_list) with **Juliette O'Brien**, a digital and data journalist. She is the creator of covid19data.com.au, Australia's first website tracking the COVID-19 pandemic, which has been used by more than 3 million Australians, as well as many news media, business and government organisations. The site was a finalist in the Walkley journalism awards 2020 for innovation. 
-
+Our 07-04-2022 [meetup](https://www.meetup.com/rladies-melbourne/events/284983663/?eventOrigin=group_events_list) with **Juliette O'Brien**, a digital and data journalist. She is the creator of covid19data.com.au, Australia's first website tracking the COVID-19 pandemic, which has been used by more than 3 million Australians, as well as many news media, business and government organisations. The site was a finalist in the Walkley journalism awards 2020 for innovation.
 :::
 
 The Covid-19 pandemic has been a data-driven story at its core. It has presented many new challenges, opportunities, and insights about effective data visualisation. Juliette will talk about her experiences and lessons from running covid19data.com.au – Australia’s first Covid tracker (used by more than 3 million Australians, as well as many news media, business and government organisations). Her talk will address questions like: How to design data viz for a mass audience? What level of data literacy should we aim for? Have audience expectations changed after the pandemic? And how can you get your work picked up by news media?
 
 ## How to do analysis for others without going crazy: My mistakes in consulting and collaborating
 
-{{<video https://youtu.be/9XRxKcYlBLU?si=fDGLpaFhnZGnijCS >}}
+{{\<video https://youtu.be/9XRxKcYlBLU?si=fDGLpaFhnZGnijCS \>}}
 
 ::: column-margin
-
 Our 07-03-2022 [meetup](https://www.meetup.com/rladies-melbourne/events/284263831/?eventOrigin=group_events_list) with **Taya Collyer**, a biostatistician and public health researcher. Taya holds degrees in Economics, Biomedical science and Biostatistics, and a PhD from the university of Edinburgh, Scotland. Taya's statistical training centred around the design, conduct and analysis of very large Randomised Controlled Trials, and she began her career at the ASPREE Trial, one of Australia's largest ever RCTs of community-dwelling participants.
-
 :::
 
 There is plenty of advice for 'statistical consultants' about how to improve practice and engament with clients. But not all of us are 'consultants', and there are a broad range of challenges (and power dynamics) which can accompany being the analysis person on a collaborative project. In this talk Taya will summarise the key lessons she has taken from nearly a decade of doing analysis for others, highlighting practical ways to make life easy for yourself and to maximise the benefit to your own career trajectory.
 
 ## AI Ethics Workshop
 
-{{<video https://youtu.be/j2cH7JWIUcI?si=zo5GWkXB5h0irWx2 >}}
+{{\<video https://youtu.be/j2cH7JWIUcI?si=zo5GWkXB5h0irWx2 \>}}
 
 ::: column-margin
-
-Our 28-02-2022 [meetup](https://www.meetup.com/rladies-melbourne/events/283783747/?eventOrigin=group_events_list) with **Laura Summers**, , a local expert in AI ethics. Laura is a multi-disciplinary designer researching technology ethics and building tools to promote fair machine learning.She's the founder of debias.ai, the human behind Ethics Litmus Tests, fairXiv, and the Melbourne Fair ML reading group. 
-
+Our 28-02-2022 [meetup](https://www.meetup.com/rladies-melbourne/events/283783747/?eventOrigin=group_events_list) with **Laura Summers**, , a local expert in AI ethics. Laura is a multi-disciplinary designer researching technology ethics and building tools to promote fair machine learning.She's the founder of debias.ai, the human behind Ethics Litmus Tests, fairXiv, and the Melbourne Fair ML reading group.
 :::
 
 Laura will kick us off with a quick survey of the state of the field, including jobs to do, thinking tools, tech tools, and ethical frameworks. We'll spend most of our time with a hands-on activity, testing and formalising our ethical intuitions and doing practical risk assessments. All levels of data literacy and machine learning knowledge are welcome, especially as (spoiler alert) most of the problems we create with automation and models are amplifying existing social inequality, rather than creating a new class of problem.
 
-## Automate your CV using Rmarkdown. Easy as 1, 2, `knit`! 
+## Automate your CV using Rmarkdown. Easy as 1, 2, `knit`!
 
-{{<video https://youtu.be/Fc1RwRskk08?si=1qq6P1QGJEetLJY2 >}}
+{{\<video https://youtu.be/Fc1RwRskk08?si=1qq6P1QGJEetLJY2 \>}}
 
 ::: column-margin
-
 Our 04-02-2022 [meetup](https://www.meetup.com/rladies-melbourne/events/283353273/?eventOrigin=group_events_list) with **Shazia Ruybal-Pesántez**, the R-Ladies Melbourne President at the time and Postdoctoral Research Scientist at WEHI and Burnet Institute.
-
 :::
 
 With R Markdown, you can quickly turn your CV into a beautiful, automated document that is easy to produce, maintain and update to suit your specific needs. With this automated approach, the only thing you really have to worry about and devote your time to is writing the content. In this talk, Shazia will take you through the R packages “datadrivencv”, “pagedown” and “vitae” that can be used with R Markdown to create and automate your CV. The aim is to guide you through how to save your data in a readable format for these packages, how to set up your R Markdown document, and how to render the output in different formats, all so that you can automate your pipeline to quickly and easily update your CV! This talk should give you sufficient information and materials that you can customize and either follow along during the talk or create your CV on your own after the talk.
 
-## The Art of Design: Software & Experimental Design 
+## The Art of Design: Software & Experimental Design
 
-{{<video https://youtu.be/8caV0KvmNNw?si=CCZQ_sS_JipllmG4 >}}
+{{\<video https://youtu.be/8caV0KvmNNw?si=CCZQ_sS_JipllmG4 \>}}
 
 ::: column-margin
-
-Our 26-10-2021 [meetup](https://www.meetup.com/rladies-melbourne/events/281111749/?eventOrigin=group_events_list) with **Emi Tanaka**, a lecturer in statistics at Monash University whose primary interest is to develop impactful statistical methods and tools that can readily be used by practitioners. 
-
+Our 26-10-2021 [meetup](https://www.meetup.com/rladies-melbourne/events/281111749/?eventOrigin=group_events_list) with **Emi Tanaka**, a lecturer in statistics at Monash University whose primary interest is to develop impactful statistical methods and tools that can readily be used by practitioners.
 :::
 
 Analysing data is unimaginable without a statistical software. Anyone who requires statistical computing on a regular basis would frequently interact with a statistical software and therefore the interface design can have a radical effect on the masses. In this talk, She will dive into a range of programming paradigms with relation to the interface design of software. She will then discuss in-depth about a novel computational framework, called the "grammar of experimental design", and its implementation as the edibble R-package.
 
-## Anomalies! You Can't Escape them! 
+## Anomalies! You Can't Escape them!
 
-{{<video https://youtu.be/l9yK7EP7dcM?si=pXI0-9cPaQW2qfAA >}}
+{{\<video https://youtu.be/l9yK7EP7dcM?si=pXI0-9cPaQW2qfAA \>}}
 
 ::: column-margin
-
 Our 16-09-2021 [meetup](https://www.meetup.com/rladies-melbourne/events/280500747/?eventOrigin=group_events_list) with **Sevvandi Kandanaarachchi**, an applied mathematician at RMIT Mathematics working in data science and analytics. She uses statistics, mathematics and machine learning for her research. Her main research interest is anomaly and event detection.
-
 :::
 
 Why are anomalies important? Because they tell us a different story from the norm. An anomaly or an event might signify a failing heart rate of a patient, a fraudulent credit card activity, or an early indication of a tsunami. As such, it is extremely important to detect anomalies or anomalous events. In this talk, we will give an introduction to anomaly detection. Anomalies are rare events. As a result, standard accuracy measures do not apply. But then, how do we evaluate an Anomaly Detection (AD) method? If we want to compare two or more AD methods, what kind of simple tests can we do? What are the data repositories that are available for AD? We will also discuss an ensemble method for AD. Constructing an AD ensemble is challenging because the class labels are not known. We will look at an unusual ally from psychometrics – Item Response Theory – to help us in this construction.
 
 ## A remote glimpse into the useR! 2021 conference
 
-{{<video https://youtu.be/XBoWCTYUvgY?si=iixedKrRPz5f5fck >}}
+{{\<video https://youtu.be/XBoWCTYUvgY?si=iixedKrRPz5f5fck \>}}
 
 ::: column-margin
-
 Our 03-08-2021 [meetup](https://www.meetup.com/rladies-melbourne/events/279730702/?eventOrigin=group_events_list) with **Anna Quaglieri**, a Bioinformatics Data Scientist. At Mass Dynamics, Anna develops workflows for the analysis of mass spectrometry data, with the aim of helping more life scientists transform proteomics data to knowledge.
-
 :::
 
 useR! is the main annual R conference where R users, developers, or simply R lovers from any level of experience come together to share new packages and ideas. If you missed out this years useR! conference, or have never had the chance to attend, then this event will be for you! Officially, useR! 2021 was held in Zürich, but due to the ongoing pandemic it was run completely online. In this talk, Anna is going to share her conference experience and highlights that she could follow from the comfort of her Melbourne bedroom. The talk will cover a broad range of topics, from new packages for data visualization, discussions and methods to allow R in production, package testing, highlights from keynotes talks, and more!
 
-## rstudio::global(2021) %>% summarize()
+## rstudio::global(2021) %\>% summarize()
 
-{{<video https://youtu.be/_XjgnIrqN9k?si=N8DgHJXNg9TcNvqb >}}
+{{\<video https://youtu.be/\_XjgnIrqN9k?si=N8DgHJXNg9TcNvqb \>}}
 
 ::: column-margin
-
-Our 15-04-2021 [meetup](https://www.meetup.com/rladies-melbourne/events/277467397/?eventOrigin=group_events_list) with **Shazia Ruybal-Pesántez**,  a co-organizer and Secretary of R-Ladies Melbourne, Shazia is a postdoctoral scientist at the WEHI and Burnet Institute. She works on infectious diseases epidemiology, including malaria and COVID-19.
-
+Our 15-04-2021 [meetup](https://www.meetup.com/rladies-melbourne/events/277467397/?eventOrigin=group_events_list) with **Shazia Ruybal-Pesántez**, a co-organizer and Secretary of R-Ladies Melbourne, Shazia is a postdoctoral scientist at the WEHI and Burnet Institute. She works on infectious diseases epidemiology, including malaria and COVID-19.
 :::
 
 Shaiza was awarded a Diversity Scholarship to attend the conference. In her seminar, she will give a summary of the talks and workshops she attended at part of this award. These workshops were not available to the main conference audience, so be sure to attend!
 
 ## How R You? 4th Anniversary
 
-{{<video https://youtu.be/Jf0gZ9rI5to?si=PoGIltyrs4QxqfIY >}}
+{{\<video https://youtu.be/Jf0gZ9rI5to?si=PoGIltyrs4QxqfIY \>}}
 
 ::: column-margin
-
-Our 16-11-2020 [meetup](https://www.meetup.com/rladies-melbourne/events/274194870/?eventOrigin=group_events_list) to celebrate our 4th anniversary! 
-
+Our 16-11-2020 [meetup](https://www.meetup.com/rladies-melbourne/events/274194870/?eventOrigin=group_events_list) to celebrate our 4th anniversary!
 :::
 
+## The Resume Guru!
 
-## The Resume Guru! 
-
-{{<video https://youtu.be/0hz9s3_1vvw?si=Ye83oLk5RSRVBE7u >}}
+{{\<video https://youtu.be/0hz9s3_1vvw?si=Ye83oLk5RSRVBE7u \>}}
 
 ::: column-margin
-
 Our 13-10-2020 [meetup](https://www.meetup.com/rladies-melbourne/events/273448829/?eventOrigin=group_events_list) with **Tahlia Marks**, the Resume Guru! Tahlia is a recruiter with a passion for well written resumes and interview hacks.
-
 :::
 
 In her seminar Tahlia will discuss how to look for a job, information about the market, and salary expectations. She will cover how to set out a resume, what should and should not be included, as well as general dos and don'ts. Tahlia will also go over how to prepare for an interview, the typical interview layout, and what the interviewer will expect from you.
 
-## Sport, Data & R 
+## Sport, Data & R
 
-{{<video https://youtu.be/7XtuKSpr0iE?si=niL9HO6UUTGXPhs0 >}}
+{{\<video https://youtu.be/7XtuKSpr0iE?si=niL9HO6UUTGXPhs0 \>}}
 
 ::: column-margin
-
 Our 21-09-2020 [meetup](https://www.meetup.com/rladies-melbourne/events/272946565/?eventOrigin=group_events_list) with **Alice Sweeting**, a research scientist within the Institute for Health and Sport at Victoria University. She is also embedded as a sports scientist at the Western Bulldogs, a professional Australian Rules football club who play in the AFL, as part of a strategic partnership between Victoria University and the Western Bulldogs.
-
 :::
 
 For our September event Alice will take us through how R is used to analyse and visualise sport science data. Specifically, how the physical and skilled outputs of team-sport athletes can be analysed, using the tidyverse and data mining techniques, to gain insights into matches and training.
 
 ## A Better Way Of Communicating with Data
 
-{{<video https://youtu.be/0yeaK3ci8s8?si=5RNlQRi-q6V6tKpx >}}
+{{\<video https://youtu.be/0yeaK3ci8s8?si=5RNlQRi-q6V6tKpx \>}}
 
 ::: column-margin
-
 Our 24-08-2020 [meetup](https://www.meetup.com/rladies-melbourne/events/272501382/?eventOrigin=group_events_list) with **Danyang Dai**, a Master student major in Applied Econometrics at the University of Melbourne and will be finishing the study soon. Daidai has benefited so much from R markdown for all school works and research, would like to share some experience with R-Ladies!
-
 :::
 
 Struggling with copy-and-pasting your regression outputs and hypothesis results? Want to impress your manager by telling a good story with essential business insights? Learn how R markdown assists your data story telling and shines your visualisation reports !
 
 ## Become a more Confident and Engaging Speaker
 
-{{<video https://youtu.be/IqvFdGZcvpI?si=BA_GqEo38chTTeXX >}}
+{{\<video https://youtu.be/IqvFdGZcvpI?si=BA_GqEo38chTTeXX \>}}
 
 ::: column-margin
-
 Our 29-07-2020 [meetup](https://www.meetup.com/rladies-melbourne/events/271746083/?eventOrigin=group_events_list) with **Jo Evans**, a Public/Online Speaking and Presentation Coach and a TEDx Speaker Trainer. Jo's aim is to help people address their fears around speaking, develop confidence and skills in their ability to speak so they can share their message - whatever it is that matters to them.
-
 :::
 
 To support our R-ladies community Jo will share tips on how to master the art of communicating whether it's online or face to face. In this very practical online session we'll look at:
 
-a) How to calm those fears that may well be holding us back from speaking up
-b) Explore some great techniques to help us become a more engaging speaker, especially in the online environment
-c) In breakout rooms have a go at trying out some of the techniques for ourselves
+a)  How to calm those fears that may well be holding us back from speaking up
+b)  Explore some great techniques to help us become a more engaging speaker, especially in the online environment
+c)  In breakout rooms have a go at trying out some of the techniques for ourselves
 
-## Cluster Trials and the Representation of Women in Statistics 
+## Cluster Trials and the Representation of Women in Statistics
 
-{{<video https://youtu.be/lnPIVX1bO9g?si=wfGcrzpA9oOTq0sI >}}
+{{\<video https://youtu.be/lnPIVX1bO9g?si=wfGcrzpA9oOTq0sI \>}}
 
 ::: column-margin
-
 Our 22-06-2020 [meetup](https://www.meetup.com/rladies-melbourne/events/269096201/?eventOrigin=group_events_list) with **Jessica Kasza**, the vice-president of the Statistical Society of Australia.
-
 :::
 
 Although individually randomised trials are the gold standard for assessing the impact of new treatments on patient outcomes, cluster randomised trials are necessary when testing the effect of healthcare provider-level changes on patient outcomes, for example the effect of a hospital-wide cleaning program on the rates of hospital-acquired infections. Longitudinal cluster randomised trials follow clusters over time, and clusters may switch between treatment groups during these trials. Cross-overs, stepped wedges and staircases are all variants of these types of cluster randomised trials, and they are being conducted with increasing frequency. However, many of the underlying statistical aspects of these designs remain under-explored. I’ll discuss some of the work my group has been doing to increase our understanding of these trials and develop less burdensome trial designs, including our development of apps using the R shiny package. In the second part of the talk, I’ll discuss the work that is being done by the Statistical Society of Australia to prevent and respond to sexual and other forms of harassment within our community, and how we can increase the representation of women in statistics.
 
 ## The Binovisualfields Package: Development and Publication to CRAN
 
-{{<video https://youtu.be/ePfWJ4nhL2I?si=f2WhKv6rMKtzmXMM >}}
+{{\<video https://youtu.be/ePfWJ4nhL2I?si=f2WhKv6rMKtzmXMM \>}}
 
 ::: column-margin
-
 Our 12-05-2020 [meetup](https://www.meetup.com/rladies-melbourne/events/270431778/?eventOrigin=group_events_list) with **Virginia Liu**, Postdoc researcher at the Optometry and Vision Sciences Department of the University of Melbourne, a self-taught programmer and UX designer. She has a BMedSci and PhD in psychology.
-
 :::
 
-Virginia Liu  will be telling us about the development of the Binovisualfields package. This package is for simulation and visualisation of depth-dependent binocular visual fields.Visual fields are measured monocularly at a single depth in clinical practice, yet real-life activities involve predominantly binocular vision at multiple depths. A simulation and visualisation tool that computes binocular visual fields from monocular ones is useful for researchers and clinicians in the field for many purposes. However, no such tool was available. The talk will provide an overview of the development of the R package and its CRAN submission process.
+Virginia Liu will be telling us about the development of the Binovisualfields package. This package is for simulation and visualisation of depth-dependent binocular visual fields.Visual fields are measured monocularly at a single depth in clinical practice, yet real-life activities involve predominantly binocular vision at multiple depths. A simulation and visualisation tool that computes binocular visual fields from monocular ones is useful for researchers and clinicians in the field for many purposes. However, no such tool was available. The talk will provide an overview of the development of the R package and its CRAN submission process.
 
 ## Intro to Data Analysis and Graphics
 
-{{<video https://youtu.be/u6DvnTMROho?si=Aa4xuUpJJ7f2nytU >}}
+{{\<video https://youtu.be/u6DvnTMROho?si=Aa4xuUpJJ7f2nytU \>}}
 
 ::: column-margin
-
 Our 11-10-2019 [meetup](https://www.meetup.com/rladies-melbourne/events/265393227/?eventOrigin=group_events_list) with **Zhuowen (Tobey) Zhang**, a masters student in information systems at the University of Melbourne. She used to work as a business analyst intern in ICONIZ, a world’s leading blockchain accelerator. She is interested in using R to analyse data and visualise data to gain some business insights.
-
 :::
 
 In this talk, Zhuowen will introduce how to draw different graphics for different types of data and how to gain some insights from the results (basic knowledge of statistics). This presentation will teach some fundamentals of graphics with R and is aimed at people who are beginning to learn R and want to use R as a data analysis tool.
 
 ## Gold star reproducibility: Containerisation with open-source tools
 
-{{<video https://youtu.be/zk9o-sYfAuQ?si=NAINOBlOkFGt-O5v >}}
+{{\<video https://youtu.be/zk9o-sYfAuQ?si=NAINOBlOkFGt-O5v \>}}
 
 ::: column-margin
-
 Our 18-09-2019 [meetup](https://www.meetup.com/rladies-melbourne/events/264567591/?eventOrigin=group_events_list) with **Saras Windecker**, a Research Fellow in Ecological Modeling at the School of BioSciences, University of Melbourne. She is currently working on spatial risk modelling for Buruli ulcer in Victoria, and is more broadly interested in applied Bayesian hierarchical models, forecasting, and open science.
-
 :::
 
 Research using R underpins a wide array of applied decision-making. Growing recognition of irreproducibility of results produced using R raises concerns about the credibility of research and the reliability of decisions they inform. Although there are many aspects to reproducible research, one major problem is the basic lack of computational reproducibility of published work – or the ability to rerun an analysis and reproduce the same results. There are many strategies for improving computational reproducibility, such as clear code structure, functional programming, and version control. Besides these tactics, however, we often find that analyses that reproduce on one machine or in one environment do not run in another, or do not run in the future. This problem is related to changing computing environments and software versions, and can be addressed using containerisation. In this talk, I will introduce containerisation and its implementation using an open-access R package. This introduction should be accessible to those who have never heard of or used containerisation before, as well as those who already actively use services such as Docker for containerisation.
 
 ## NLP with spaCy in R
 
-{{<video https://youtu.be/teouBSocbU0?si=VEmXILAaDqmlge0k >}}
+{{\<video https://youtu.be/teouBSocbU0?si=VEmXILAaDqmlge0k \>}}
 
 ::: column-margin
-
 Our 18-06-2019 [meetup](https://www.meetup.com/rladies-melbourne/events/262055090/?eventOrigin=group_events_list) with **Ana Mamatelashvili** who is part of Eliiza's data science team. She is particularly interested in Natural Language Processing.
-
 :::
 
 There are many natural language processing libraries out there and each has it's own advantages. One of Ana's favourites is spaCy because of it's speed and user-friendliness. In this talk she will discuss how to leverage spaCy's powerful features with the spacyr package and combine them with other packages such as tidytext, quanteda and coreNLP to do natural language processing in R. She will discuss use cases for tokenisation, lemmatisation, extraction of linguistic features and named entities as well as Coreference Resolution.
 
 ## Semi-parametric and non-parametric models in R
 
-{{<video https://youtu.be/IB_2VgMl1BA?si=PQV_sqC47Jz1gLg8 >}}
+{{\<video https://youtu.be/IB_2VgMl1BA?si=PQV_sqC47Jz1gLg8 \>}}
 
 ::: column-margin
-
-Our 05-12-2018 [meetup](https://www.meetup.com/rladies-melbourne/events/256619087/?eventOrigin=group_events_list) with **Soroor Hediyeh Zadeh**. 
-
+Our 05-12-2018 [meetup](https://www.meetup.com/rladies-melbourne/events/256619087/?eventOrigin=group_events_list) with **Soroor Hediyeh Zadeh**.
 :::
 
 In the first lunch seminar, we will be covering non-parametric and semi-parametric regression models, including Generalised Additive Models (GAMs), Partial Linear Models and Single-Index models. The session will run for 45 minutes, followed by an additional 10 minutes for questions. Should you be interested to practice the material during the session, you may wish to install the ‘np’ and ‘mgcv’ CRAN packages beforehand.
 
 ## More than Words: Text Analysis in R
 
-{{<video https://youtu.be/WOVwOQ5XhTI?si=HR81v-wSloY3-OU_ >}}
+{{\<video https://youtu.be/WOVwOQ5XhTI?si=HR81v-wSloY3-OU\_ \>}}
 
 ::: column-margin
-
 Our 17-04-2018 [meetup](https://www.meetup.com/rladies-melbourne/events/248749787/?eventOrigin=group_events_list) with **Maria Prokofieva**, a senior lecturer with Victoria University's College of Business.
-
 :::
 
 Too busy to read news yourself? Want to see how social media comments can impact your politics, economics and your daily life? Challenged to manage a constant high flow of information in your business? Want to dig into digital advertising and business intelligence? Words are shallow but have deep impact. This workshop will uncover some of the secrets of automated text processing and will look at the tools available for textual analysis in R.
@@ -299,58 +249,48 @@ We will start with a general principles of text analysis, including text pre-pro
 
 ## Parallelisation in R
 
-{{<video https://youtu.be/sXEn4M6YDOA?si=_0PxISwrTYz5j1C2 >}}
+{{\<video https://youtu.be/sXEn4M6YDOA?si=\_0PxISwrTYz5j1C2 \>}}
 
 ::: column-margin
-
-Our 15-03-2018 [meetup](https://www.meetup.com/rladies-melbourne/events/248205555/?eventOrigin=group_events_list) with **Soroor Hediyeh Zadeh**, a Research Assistant (RA) in the Davis laboratory at the Bioinformatics Division at the Walter and Eliza Hall Institute of Medical Research. 
-
+Our 15-03-2018 [meetup](https://www.meetup.com/rladies-melbourne/events/248205555/?eventOrigin=group_events_list) with **Soroor Hediyeh Zadeh**, a Research Assistant (RA) in the Davis laboratory at the Bioinformatics Division at the Walter and Eliza Hall Institute of Medical Research.
 :::
 
 Have you ever wanted to apply identical procedures simultaneously to more than 2 data sets before combining them? In this tutorial we will cover base R functions that speed up computation/programming, starting with vectorisation and the "apply" function family, to more advanced parallel programming using the foreach and doParallel packages. We will also learn how to distribute a job over several cores to reduce the computation time.
 
-## Visualising Geospatial Data in R with Interactive Maps 
+## Visualising Geospatial Data in R with Interactive Maps
 
-{{<video https://youtu.be/84G6ZNTEHCo?si=qyNSz--jpTFprYH3 >}}
+{{\<video https://youtu.be/84G6ZNTEHCo?si=qyNSz--jpTFprYH3 \>}}
 
 ::: column-margin
-
 Our 12-02-2018 [meetup](https://www.meetup.com/rladies-melbourne/events/247262918/?eventOrigin=group_events_list) with **Belinda Maher** who worked at Public Transport Victoria in Operational Performance Analysis. At PTV Belinda used R to plot the location of stations, stops and timing points and the paths of public transport routes. She created dashboards containing spatial visualisations of Victorian public transport operational performance data.
-
 :::
 
 The General Transit Feed Specification (GTFS) is an open standard for publishing public transport schedules and associated geographic location and transport service path information.Public Transport Victoria (PTV) first published a GTFS version of their timetable data in 2015, which enabled Google to begin showing ‘public transit’ options for directions in Victoria within Google maps. This data is publicly available on the PTV website. This talk will cover working with GTFS spatial data to plot maps in R, using the leaflet and sp packages. Belinda will explain how to create zoomable maps of transport paths and stations, and mention some of the challenges of working with this dataset.
 
-## Random Forest, Climate Change and Food Production 
+## Random Forest, Climate Change and Food Production
 
-{{<video https://youtu.be/4rjhPGa4ef0?si=fJ7iHzqa3SNGyLd4 >}}
+{{\<video https://youtu.be/4rjhPGa4ef0?si=fJ7iHzqa3SNGyLd4 \>}}
 
 ::: column-margin
-
 Our 25-10-2017 [meetup](https://www.meetup.com/rladies-melbourne/events/244102535/?eventOrigin=group_events_list) with **Elisabeth Vogel**, a PhD student at the Australian-German Climate & Energy College at the University of Melbourne. Her research interests are centered on climate change impacts on ecological and human systems, with a particular focus on climate extreme events and agriculture.
-
 :::
 
 Climate extreme events, such as droughts or heatwaves – have a severe impact on agricultural productivity worldwide. It is important to understand how such extreme events have affected global food production in the past in order to increase the resilience of the global food system to such events in the future. In this presentation, I will talk about how random forests - a machine learning algorithm - can help to detangle the complex interactions between climate and agricultural variables. In the first part of this presentation, I will introduce the concept of random forests, how they are used for regression and classification problems and how to build random forests in R using the randomForest package. In the second part I will talk about how I applied random forests to global climate and agricultural datasets to look at how climate extreme events affected agricultural production.
 
-## mixOmics: Combine large scale data set 
+## mixOmics: Combine large scale data set
 
-::: {.panel-tabset}
+::: panel-tabset
+### Part 1
 
-### Part 1 
+{{\<video https://youtu.be/ZnIFeguzNA4?si=HJ0ee68fIVWVjlap \>}}
 
-{{<video https://youtu.be/ZnIFeguzNA4?si=HJ0ee68fIVWVjlap >}}
+### Part 2
 
-### Part 2 
-
-{{<video https://youtu.be/C8ReqvpdSI0?si=l8i6btlBbHmrFBAA >}}
-
-::: 
+{{\<video https://youtu.be/C8ReqvpdSI0?si=l8i6btlBbHmrFBAA \>}}
+:::
 
 ::: column-margin
-
 Our 22-08-2017 [meetup](https://www.meetup.com/rladies-melbourne/events/242347388/?eventOrigin=group_events_list) with **Kim-Anh Lê Cao**, a Senior Lecturer at the School of Mathematics and Statistics, and the Centre for Systems Genomics. She will be giving the main presentation of the evening.
-
 :::
 
 The advent of high throughput technologies has led to a wealth of publicly available biological data coming from different sources. Combining such large-scale data sets can lead to the discovery of important insights, provided that relevant information can be extracted in a holistic manner. During this talk, I will introduce mixOmics, an R package dedicated to the multivariate analysis of biological data sets with a specific focus on data exploration, dimension reduction and visualisation. The toolkit provides a wide range of methods to statistically integrate several data sets at once and probe relationships between heterogeneous data sets. mixOmics has been developed for ‘omics biological data (hence the name!) but the methods are applicable for other analytical problems where dimension reduction and data integration are required. I will relate my R journey through the development of the package and share tips and pitfalls to avoid when developing large R packages.
