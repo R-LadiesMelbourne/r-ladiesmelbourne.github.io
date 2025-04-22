@@ -10,7 +10,85 @@
 <atom:link href="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/blog_index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.32</generator>
-<lastBuildDate>Fri, 21 Feb 2025 14:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 26 Mar 2025 13:00:00 GMT</lastBuildDate>
+<item>
+  <title>Meetup: 03 Apr 2025: PGEforge</title>
+  <dc:creator>Dionne Argyropoulos</dc:creator>
+  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/27_03_25_event.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/RLadiesMelb_030425_Flyer.png" class="img-fluid"></p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>Sign up on our <a href="https://www.meetup.com/rladies-melbourne/events/306510844/?eventOrigin=group_past_events"><strong>meetup page</strong></a>.</p>
+<p>Time: Thurs, April 03, 2024</p>
+<p>6:00 PM to 7:00 PM AEST</p>
+<p>Location: Online (Zoom)</p>
+</div></div><section id="about-the-event" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-event">About the Event</h2>
+<p>Major advances in sequencing technologies, bioinformatics pipelines, and data analysis tools have transformed our ability to study malaria transmission and parasite evolution, providing valuable insights into malaria epidemiology from parasite genomic data. However, translating this genomic data into actionable insights for national malaria control programs remains a challenge. Many existing tools lack standardized workflows, comprehensive documentation, or interoperability, making it difficult for researchers and decision-makers to extract meaningful information.</p>
+<p>To address this, Shazia and her team developed PGEforge (https://mrc-ide.github.io/PGEforge), a centralized, open-access repository for malaria genomic data analysis including analysis workflows, software evaluations, and reproducible tutorials. The Plasmodium Genomic Epidemiology (PlasmoGenEpi) network convened 18 experts to assess existing analysis tools, define key use cases for genomic data, and establish objective criteria for software evaluation. This initiative identified 40 Plasmodium genomic analysis tools with 22 prioritized for evaluation, defined eight key use cases for genomic data, and developed user-friendly reproducible tutorials for ten tools using shared datasets—all now accessible via PGEforge. Open-access platforms like PGEforge can empower researchers to adopt standardized practices and can help bridge the gap between genomic data generation, downstream analysis, and the effective use of these tools for malaria molecular surveillance towards actionable information for control programs.</p>
+<p>In this talk, Shazia will showcase the functionalities of PGEforge, including real-world applications of genomic data use cases and analysis workflows, our approach to reproducible tutorials, and how we built this community-driven resource at a hackathon event using Quarto!</p>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">About the Speaker</h2>
+<p>Dr Shazia Ruybal-Pesántez is a genomic epidemiologist specializing in pathogen genomic epidemiology and its applications in malaria surveillance. Her research integrates population genetics, bioinformatics, and epidemiology to design analytical and statistical methods that enhance our understanding of malaria transmission dynamics. She is particularly interested in leveraging genomic data to optimize malaria surveillance strategies in response to emerging challenges such as increased localized outbreaks, drug resistance, and climate change. Through her work she aims to bridge the gap between data generation, analysis and real-world impact. She is also an avid R user (she is a former R-Ladies Melbourne president!) and is passionate about open science, training and capacity-building, and the development of accessible digital tools. She is also a consultant and instructor for Applied Epi, where she teaches applied epidemiologists and public health professionals to apply epidemiological methods using R.</p>
+<p>We look forward to seeing you there!</p>
+<p>💜 Dionne on behalf of R-Ladies Melbourne</p>
+<p><a href="../blog_index.html">Back to our blog home page</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Event</category>
+  <category>Bioinformatics</category>
+  <category>Pipeline</category>
+  <category>Workflows</category>
+  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/27_03_25_event.html</guid>
+  <pubDate>Wed, 26 Mar 2025 13:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Meetup: 06 May 2025: Cross-Chapter TidyTuesday</title>
+  <dc:creator>Dionne Argyropoulos</dc:creator>
+  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_05_25_event.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/RLadies_060525_Flyer.png" class="img-fluid"></p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>Sign up on the R-Ladies Sydney <a href="https://www.meetup.com/rladies-sydney/events/307276480/?eventOrigin=your_events"><strong>meetup page</strong></a>.</p>
+<p>Time: Tues, May 06, 2024</p>
+<p>1:00 PM to 2:00 PM AEST</p>
+<p>Location: Online (Zoom)</p>
+</div></div><section id="about-the-event" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-event">About the Event</h2>
+<p>R-Ladies Canberra, Melbourne and Sydney are thrilled to host our first ever cross-chapter TidyTuesday and we would love to have you come along!</p>
+<p>TidyTuesday is a weekly event created by the Data Science Learning Community for folks to develop new skills in a low-stakes, welcoming environment. Each week, a new dataset is released for everyone to play and explore. There is no limit to what you can do! You can produce a nice-looking table, or a story-telling graphic, perhaps even an intuitive Shiny interface – the choice is yours!</p>
+</section>
+<section id="what-to-expect" class="level2">
+<h2 class="anchored" data-anchor-id="what-to-expect">What to expect</h2>
+<p>Join a follow-along group or work independently on the same dataset for about 30 mins then come together to celebrate each other’s creations!</p>
+<p>Come join us for a fun session on coding with R and Rstudio! This event is online only. All you need is your laptop!</p>
+<p>We look forward to seeing you there!</p>
+<p>💜 Dionne on behalf of R-Ladies Melbourne</p>
+<p><a href="../blog_index.html">Back to our blog home page</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Event</category>
+  <category>TidyTuesday</category>
+  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_05_25_event.html</guid>
+  <pubDate>Fri, 21 Mar 2025 13:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Meetup: 26th Feb 2025: Inspiring the Next Generation: R-Ladies Melb at “It Takes A Spark” Conference</title>
   <dc:creator>Dionne Argyropoulos</dc:creator>
@@ -49,7 +127,7 @@
   <category>Education</category>
   <category>R-Ladies Melbourne</category>
   <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/22_02_25_event_redu.html</guid>
-  <pubDate>Fri, 21 Feb 2025 14:00:00 GMT</pubDate>
+  <pubDate>Fri, 21 Feb 2025 13:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Meetup: 05th Dec 2024: End of Year Networking</title>
@@ -79,7 +157,7 @@
   <category>Event</category>
   <category>Networking</category>
   <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/25_11_25_event_EOY.html</guid>
-  <pubDate>Sun, 24 Nov 2024 14:00:00 GMT</pubDate>
+  <pubDate>Sun, 24 Nov 2024 13:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Meetup: 20th Nov 2024: Leveraging the Power of Data in Sport</title>
@@ -115,7 +193,7 @@
   <category>Data Science</category>
   <category>AFL</category>
   <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_11_24_event.html</guid>
-  <pubDate>Wed, 06 Nov 2024 14:00:00 GMT</pubDate>
+  <pubDate>Wed, 06 Nov 2024 13:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Welcome to Our Website 💜</title>
@@ -145,7 +223,7 @@
   <category>Admin</category>
   <category>Code</category>
   <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_11_24_welcome.html</guid>
-  <pubDate>Tue, 05 Nov 2024 14:00:00 GMT</pubDate>
+  <pubDate>Tue, 05 Nov 2024 13:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
