@@ -1,0 +1,35 @@
+---
+title: "Meetup: 06 May 2025: Cross-Chapter TidyTuesday"
+author: "Dionne Argyropoulos"
+date: "2025-03-22"
+categories: [Event, TidyTuesday]
+---
+
+![](images/RLadies_060525_Flyer.png)
+
+::: column-margin
+Sign up on the R-Ladies Sydney [**meetup page**](https://www.meetup.com/rladies-sydney/events/307276480/?eventOrigin=your_events).
+
+Time: Tues, May 06, 2024
+
+1:00 PM to 2:00 PM AEST
+
+Location: Online (Zoom)
+:::
+
+## About the Event
+
+R-Ladies Canberra, Melbourne and Sydney are thrilled to host our first ever cross-chapter TidyTuesday and we would love to have you come along!
+
+TidyTuesday is a weekly event created by the Data Science Learning Community for folks to develop new skills in a low-stakes, welcoming environment. Each week, a new dataset is released for everyone to play and explore. There is no limit to what you can do! You can produce a nice-looking table, or a story-telling graphic, perhaps even an intuitive Shiny interface – the choice is yours!
+
+## What to expect
+Join a follow-along group or work independently on the same dataset for about 30 mins then come together to celebrate each other’s creations!
+
+Come join us for a fun session on coding with R and Rstudio! This event is online only. All you need is your laptop!
+
+We look forward to seeing you there!
+
+💜 Dionne on behalf of R-Ladies Melbourne
+
+[Back to our blog home page](../blog_index.qmd)

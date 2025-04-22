@@ -92,10 +92,50 @@ timeline
          : End-of-Year Networking Event 
     2025 : Inspiring the Next Generation- R-Ladies Melb at "It Takes A Spark" Conference
          : PGEforge-towards an open analysis ecosystem for malaria genomic epidemiology
+         : Cross-chapter TidyTuesday with R-Ladies
 ```
 :::
 
 ## Our Organising Committees
+
+### 2025-26
+
+:::::: two-column-layout
+::::: {style="display: flex;"}
+<!-- Image Column -->
+
+::: {style="flex: 1; padding: 10px;"}
+![](images/committee_25_26.png){width="100%"}
+:::
+
+<!-- Text Column -->
+
+::: {style="flex: 1; padding: 10px;"}
+**Meetups Hosted**:
+
+-   [Cross-chapter TidyTuesday with R-Ladies](https://www.meetup.com/rladies-sydney/events/307276480/?eventOrigin=your_events).
+
+:::
+:::::
+::::::
+
+::: column-margin
+**Committee Members**:
+
+-   Dionne Argyropoulos (President)
+-   Danyang Dai (Daidai) (Vice President)
+-   Sehrish Kanwal (Secretary)
+-   Kathleen Zeglinski (Treasurer)
+-   Caitlin Bourke
+-   Lauren Smith
+-   Belen Prado
+-   Cecilia Rios Teran
+-   Felicia Bongiovanni
+-   Harriet Mason
+-   Kirsty McCann
+-   Mansi Aggarwal
+-   Megan Soria
+:::
 
 ### 2024-25
 
