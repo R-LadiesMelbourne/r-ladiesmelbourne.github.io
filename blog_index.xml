@@ -10,45 +10,7 @@
 <atom:link href="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/blog_index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.32</generator>
-<lastBuildDate>Mon, 21 Apr 2025 14:00:00 GMT</lastBuildDate>
-<item>
-  <title>Meetup: 06 May 2025: Cross-Chapter TidyTuesday</title>
-  <dc:creator>Dionne Argyropoulos</dc:creator>
-  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_05_25_event.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/RLadies_060525_Flyer.png" class="img-fluid"></p>
-
-<div class="no-row-height column-margin column-container"><div class="">
-<p>Sign up on the R-Ladies Sydney <a href="https://www.meetup.com/rladies-sydney/events/307276480/?eventOrigin=your_events"><strong>meetup page</strong></a>.</p>
-<p>Time: Tues, May 06, 2024</p>
-<p>1:00 PM to 2:00 PM AEST</p>
-<p>Location: Online (Zoom)</p>
-</div></div><section id="about-the-event" class="level2">
-<h2 class="anchored" data-anchor-id="about-the-event">About the Event</h2>
-<p>R-Ladies Canberra, Melbourne and Sydney are thrilled to host our first ever cross-chapter TidyTuesday and we would love to have you come along!</p>
-<p>TidyTuesday is a weekly event created by the Data Science Learning Community for folks to develop new skills in a low-stakes, welcoming environment. Each week, a new dataset is released for everyone to play and explore. There is no limit to what you can do! You can produce a nice-looking table, or a story-telling graphic, perhaps even an intuitive Shiny interface – the choice is yours!</p>
-</section>
-<section id="what-to-expect" class="level2">
-<h2 class="anchored" data-anchor-id="what-to-expect">What to expect</h2>
-<p>Join a follow-along group or work independently on the same dataset for about 30 mins then come together to celebrate each other’s creations!</p>
-<p>Come join us for a fun session on coding with R and Rstudio! This event is online only. All you need is your laptop!</p>
-<p>We look forward to seeing you there!</p>
-<p>💜 Dionne on behalf of R-Ladies Melbourne</p>
-<p><a href="../blog_index.html">Back to our blog home page</a></p>
-
-
-</section>
-
- ]]></description>
-  <category>Event</category>
-  <category>TidyTuesday</category>
-  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_05_25_event.html</guid>
-  <pubDate>Mon, 21 Apr 2025 14:00:00 GMT</pubDate>
-</item>
+<lastBuildDate>Wed, 26 Mar 2025 13:00:00 GMT</lastBuildDate>
 <item>
   <title>Meetup: 03 Apr 2025: PGEforge</title>
   <dc:creator>Dionne Argyropoulos</dc:creator>
@@ -224,6 +186,44 @@
   <category>Code</category>
   <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_11_24_welcome.html</guid>
   <pubDate>Tue, 05 Nov 2024 13:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Meetup: 06 May 2025: Cross-Chapter TidyTuesday</title>
+  <dc:creator>Dionne Argyropoulos</dc:creator>
+  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_05_25_event.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/RLadies_060525_Flyer.png" class="img-fluid"></p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>Sign up on the R-Ladies Sydney <a href="https://www.meetup.com/rladies-sydney/events/307276480/?eventOrigin=your_events"><strong>meetup page</strong></a>.</p>
+<p>Time: Tues, May 06, 2024</p>
+<p>1:00 PM to 2:00 PM AEST</p>
+<p>Location: Online (Zoom)</p>
+</div></div><section id="about-the-event" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-event">About the Event</h2>
+<p>R-Ladies Canberra, Melbourne and Sydney are thrilled to host our first ever cross-chapter TidyTuesday and we would love to have you come along!</p>
+<p>TidyTuesday is a weekly event created by the Data Science Learning Community for folks to develop new skills in a low-stakes, welcoming environment. Each week, a new dataset is released for everyone to play and explore. There is no limit to what you can do! You can produce a nice-looking table, or a story-telling graphic, perhaps even an intuitive Shiny interface – the choice is yours!</p>
+</section>
+<section id="what-to-expect" class="level2">
+<h2 class="anchored" data-anchor-id="what-to-expect">What to expect</h2>
+<p>Join a follow-along group or work independently on the same dataset for about 30 mins then come together to celebrate each other’s creations!</p>
+<p>Come join us for a fun session on coding with R and Rstudio! This event is online only. All you need is your laptop!</p>
+<p>We look forward to seeing you there!</p>
+<p>💜 Dionne on behalf of R-Ladies Melbourne</p>
+<p><a href="../blog_index.html">Back to our blog home page</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Event</category>
+  <category>TidyTuesday</category>
+  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_05_25_event.html</guid>
+  <pubDate>Invalid Date</pubDate>
 </item>
 </channel>
 </rss>
