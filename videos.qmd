@@ -5,7 +5,7 @@ toc: false
 
 ## Creating simple websites with Quarto + GitHub Pages
 
-{{< videohttps://youtu.be/1RZ_TbL9quM?si=E4CFXARmH0963dnS >}}
+{{< video https://youtu.be/1RZ_TbL9quM?si=E4CFXARmH0963dnS >}}
 
 ::: column-margin
 Our 28-05-2025 [meetup](https://www.meetup.com/rladies-melbourne/events/307776181/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2) with **Kathleen Zeglinski** and **Danyang Dai** from R-Ladies Melbourne. 
@@ -15,7 +15,7 @@ Ever wanted to build your own website in minutes? In this session, we learned ho
 
 ## PGEforge: Towards an open analysis ecosystem for Plasmodium genomic epidemiology
 
-{{< videohttps://youtu.be/HgdiwgLeAME?si=uXYBY2qbxJuBZW62 >}}
+{{< video https://youtu.be/HgdiwgLeAME?si=uXYBY2qbxJuBZW62 >}}
 
 ::: column-margin
 Our 03-04-2025 [meetup](https://www.meetup.com/rladies-melbourne/events/306510844/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2) with international speaker and R-Ladies Melbourne alum **Dr Shazia Ruybal-Pesántez** from Imperial College London. 
