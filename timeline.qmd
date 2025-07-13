@@ -93,6 +93,8 @@ timeline
     2025 : Inspiring the Next Generation- R-Ladies Melb at "It Takes A Spark" Conference
          : PGEforge-towards an open analysis ecosystem for malaria genomic epidemiology
          : Cross-chapter TidyTuesday with R-Ladies
+         : Creating simple websites with Quarto + GitHub Pages
+         : Using Git for Version Control and Collaboration
 ```
 :::
 
@@ -113,7 +115,9 @@ timeline
 ::: {style="flex: 1; padding: 10px;"}
 **Meetups Hosted**:
 
--   [Cross-chapter TidyTuesday with R-Ladies](https://www.meetup.com/rladies-sydney/events/307276480/?eventOrigin=your_events).
+-  [Cross-chapter TidyTuesday with R-Ladies](https://www.meetup.com/rladies-sydney/events/307276480/?eventOrigin=your_events).
+-  [Creating simple websites with Quarto + GitHub Pages](https://github.com/R-LadiesMelbourne/28-05-25-Creating-simple-websites-with-Quarto-GitHub-Pages)
+-  [Using Git for Version Control and Collaboration](https://github.com/R-LadiesMelbourne/09-07-2025-Using-Git-for-Version-Control-and-Collaboration)
 
 :::
 :::::
