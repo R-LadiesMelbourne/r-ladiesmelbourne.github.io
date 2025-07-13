@@ -3,6 +3,30 @@ title: "Our Video Archive"
 toc: false 
 ---
 
+## Creating simple websites with Quarto + GitHub Pages
+
+{{\< https://youtu.be/1RZ_TbL9quM?si=E4CFXARmH0963dnS \>}}
+
+::: column-margin
+Our 28-05-2025 [meetup](https://www.meetup.com/rladies-melbourne/events/307776181/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2) with **Kathleen Zeglinski** and **Danyang Dai** from R-Ladies Melbourne. 
+:::
+
+Ever wanted to build your own website in minutes? In this session, we learned how to create simple, stylish websites using Quarto, and how to publish them for free with GitHub Pages! It was perfect for portfolios, blogs, or project pages — no prior experience needed. Participants walked away with the skills to create sites just like the [RLadies Melbourne website](https://r-ladiesmelbourne.github.io/) or [WEHI’s Intro to R coursebook](https://kzeglinski.github.io/new_wehi_r_course/).
+
+## PGEforge: Towards an open analysis ecosystem for Plasmodium genomic epidemiology
+
+{{\< https://youtu.be/HgdiwgLeAME?si=uXYBY2qbxJuBZW62 \>}}
+
+::: column-margin
+Our 03-04-2025 [meetup](https://www.meetup.com/rladies-melbourne/events/306510844/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2) with international speaker and R-Ladies Melbourne alum **Dr Shazia Ruybal-Pesántez** from Imperial College London. 
+:::
+
+In this talk, Shazia showcased PGEforge (https://mrc-ide.github.io/PGEforge) — a new open-access platform designed to help researchers and decision-makers make sense of malaria genomic data. 
+
+While advances in sequencing and bioinformatics have opened up new ways to study malaria, turning that data into actionable insights remains a major hurdle. That’s where PGEforge comes in: it brings together standardized analysis workflows, software evaluations, and reproducible tutorials in one place. Born out of a collaborative PlasmoGenEpi network hackathon, the platform evaluated 40 tools, prioritized 22 for deeper review, and created tutorials for 10 key tools across 8 real-world use cases — all accessible via the site.
+
+Shazia also shared how the team used Quarto to build the tutorials and highlighted how PGEforge can help bridge the gap between genomic data and effective malaria control strategies.
+
 ## Actions to increase diversity in the R-Ladies community - São Paolo
 
 {{\<video https://youtu.be/W-bmjKeQX4M?si=VSH7iUFD4vneDudF \>}}
