@@ -2,12 +2,14 @@
   {
     "listing": "/blog_index.html",
     "items": [
+      "/posts/09_07_25_event.html",
+      "/posts/28_05_25_event.html",
+      "/posts/06_05_25_event.html",
       "/posts/27_03_25_event.html",
       "/posts/22_02_25_event_redu.html",
       "/posts/25_11_25_event_EOY.html",
       "/posts/06_11_24_event.html",
-      "/posts/06_11_24_welcome.html",
-      "/posts/06_05_25_event.html"
+      "/posts/06_11_24_welcome.html"
     ]
   }
 ]

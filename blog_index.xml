@@ -10,7 +10,125 @@
 <atom:link href="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/blog_index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.32</generator>
-<lastBuildDate>Wed, 26 Mar 2025 13:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 08 Jul 2025 14:00:00 GMT</lastBuildDate>
+<item>
+  <title>Meetup: 09 Jul 2025: Using Git for Version Control and Collaboration</title>
+  <dc:creator>Dionne Argyropoulos</dc:creator>
+  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/09_07_25_event.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/RLadiesMelb_090725_Flyer.png" class="img-fluid"></p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>Sign up on the R-Ladies Melbourne [<strong>meetup page</strong>]https://www.meetup.com/rladies-melbourne/events/308624008/?utm_medium=referral&amp;utm_campaign=share-btn_savedevents_share_modal&amp;utm_source=link&amp;utm_version=v2).</p>
+<p>Time: Wed, July 09, 2024</p>
+<p>5:30 PM to 7:30 PM AEST</p>
+<p>Location: DiUS (3/31 Queen Street, Melbourne) and Online (Zoom)</p>
+</div></div><section id="about-the-event" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-event">About the Event</h2>
+<p>Do you have trouble keeping track of changes in your code? Have you ever had to collaborate on a project with others and had to send files back and forth tediously? Git will be your best friend to solve these problems and many more!</p>
+<p>This presentation will give you an introduction to Git, the basics of how to use it, and some of its very helpful applications such as collaboration and code reproducibility. The focus will be on the use of Git in conjunction with Github (yes, these are two separate things!). This will help you to effectively use one of the most powerful tools available to you and give you more confidence to code freely without fear.</p>
+<p>There’ll also be food, drinks, and plenty of time to network with fellow attendees!</p>
+</section>
+<section id="speakers-felicia-bongiovanni" class="level2">
+<h2 class="anchored" data-anchor-id="speakers-felicia-bongiovanni">Speakers: Felicia Bongiovanni</h2>
+<p>Felicia is a PhD candidate at The Walter and Eliza Hall Institute of Medical Research currently researching the immune response to several infectious diseases using mathematical modelling and code.</p>
+<p>We look forward to seeing you there!</p>
+<p>💜 Dionne on behalf of R-Ladies Melbourne</p>
+<p><a href="../blog_index.html">Back to our blog home page</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Event</category>
+  <category>Git</category>
+  <category>Github</category>
+  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/09_07_25_event.html</guid>
+  <pubDate>Tue, 08 Jul 2025 14:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Meetup: 28 May 2025: Creating simple websites with Quarto + GitHub Pages</title>
+  <dc:creator>Kathleen Zeglinski</dc:creator>
+  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/28_05_25_event.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/RLadiesMelb_280525_Flyer.png" class="img-fluid"></p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>Sign up on the R-Ladies Melbourne <a href="https://www.meetup.com/rladies-melbourne/events/307776181/?utm_medium=referral&amp;utm_campaign=share-btn_savedevents_share_modal&amp;utm_source=link&amp;utm_version=v2"><strong>meetup page</strong></a>.</p>
+<p>Time: Wed, May 28, 2024</p>
+<p>5:30 PM to 7:30 PM AEST</p>
+<p>Location: DiUS (3/31 Queen Street, Melbourne) and Online (Zoom)</p>
+</div></div><section id="about-the-event" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-event">About the Event</h2>
+<p>Want to build your own website in minutes? Join us to learn how to create a simple, stylish website using Quarto, and publish it for free with GitHub Pages! 🌐✨ Perfect for portfolios, blogs, or project pages — no experience needed. You could make something like the RLadies Melbourne website or WEHI’s intro to R coursebook!</p>
+<p>📝 Workshop details: 📅 28th of May 🕒 5:30-6:00pm (in-person networking &amp; refreshments) 🕒 6:00pm-7:30pm (hybrid workshop) 📍 DiUS 3/31 Queen St, Melbourne VIC 3000 or Online (zoom link posted on the day)</p>
+<p>🛠 Before the workshop: ✅ Install RStudio or R + Quarto CLI ✅ Create a GitHub account (if you don’t have one yet) ✅ Bring your laptop and curiosity — we’ll handle the rest!</p>
+</section>
+<section id="speakers-danyang-dai-kathleen-zeglinski" class="level2">
+<h2 class="anchored" data-anchor-id="speakers-danyang-dai-kathleen-zeglinski">Speakers: Danyang Dai &amp; Kathleen Zeglinski</h2>
+<p>Danyang Dai (Daidai) is a third-year PhD candidate at the Queensland Digital Health Centre (QDHeC) at The University of Queensland. Her research focuses on advancing population health outcomes in the post-COVID-19 era. With a strong academic background in Econometrics and Biostatistics, Daidai is also a passionate advocate for the R programming language. She has actively contributed to the academic and professional communities through her involvement with organizations such as R-Ladies Melbourne and by creating educational resources for R programming.</p>
+<p>Kathleen is a postdoc at WEHI, focusing on antibody bioinformatics and long-read sequencing. She is particularly interested in developing software pipelines to empower biologists to analyse their own data. Kathleen is also a co-convenor of the WEHI R course and passionate about R education.</p>
+<p>We look forward to seeing you there!</p>
+<p>💜 Kathleen on behalf of R-Ladies Melbourne</p>
+<p><a href="../blog_index.html">Back to our blog home page</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Event</category>
+  <category>Quarto</category>
+  <category>Workshop</category>
+  <category>GitHub Pages</category>
+  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/28_05_25_event.html</guid>
+  <pubDate>Tue, 27 May 2025 14:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Meetup: 06 May 2025: Cross-Chapter TidyTuesday</title>
+  <dc:creator>Dionne Argyropoulos</dc:creator>
+  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_05_25_event.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/RLadies_060525_Flyer.png" class="img-fluid"></p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>Sign up on the R-Ladies Sydney <a href="https://www.meetup.com/rladies-sydney/events/307276480/?eventOrigin=your_events"><strong>meetup page</strong></a>.</p>
+<p>Time: Tues, May 06, 2024</p>
+<p>1:00 PM to 2:00 PM AEST</p>
+<p>Location: Online (Zoom)</p>
+</div></div><section id="about-the-event" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-event">About the Event</h2>
+<p>R-Ladies Canberra, Melbourne and Sydney are thrilled to host our first ever cross-chapter TidyTuesday and we would love to have you come along!</p>
+<p>TidyTuesday is a weekly event created by the Data Science Learning Community for folks to develop new skills in a low-stakes, welcoming environment. Each week, a new dataset is released for everyone to play and explore. There is no limit to what you can do! You can produce a nice-looking table, or a story-telling graphic, perhaps even an intuitive Shiny interface – the choice is yours!</p>
+</section>
+<section id="what-to-expect" class="level2">
+<h2 class="anchored" data-anchor-id="what-to-expect">What to expect</h2>
+<p>Join a follow-along group or work independently on the same dataset for about 30 mins then come together to celebrate each other’s creations!</p>
+<p>Come join us for a fun session on coding with R and Rstudio! This event is online only. All you need is your laptop!</p>
+<p>We look forward to seeing you there!</p>
+<p>💜 Dionne on behalf of R-Ladies Melbourne</p>
+<p><a href="../blog_index.html">Back to our blog home page</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Event</category>
+  <category>TidyTuesday</category>
+  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_05_25_event.html</guid>
+  <pubDate>Mon, 05 May 2025 14:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Meetup: 03 Apr 2025: PGEforge</title>
   <dc:creator>Dionne Argyropoulos</dc:creator>
@@ -186,44 +304,6 @@
   <category>Code</category>
   <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_11_24_welcome.html</guid>
   <pubDate>Tue, 05 Nov 2024 13:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Meetup: 06 May 2025: Cross-Chapter TidyTuesday</title>
-  <dc:creator>Dionne Argyropoulos</dc:creator>
-  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_05_25_event.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/RLadies_060525_Flyer.png" class="img-fluid"></p>
-
-<div class="no-row-height column-margin column-container"><div class="">
-<p>Sign up on the R-Ladies Sydney <a href="https://www.meetup.com/rladies-sydney/events/307276480/?eventOrigin=your_events"><strong>meetup page</strong></a>.</p>
-<p>Time: Tues, May 06, 2024</p>
-<p>1:00 PM to 2:00 PM AEST</p>
-<p>Location: Online (Zoom)</p>
-</div></div><section id="about-the-event" class="level2">
-<h2 class="anchored" data-anchor-id="about-the-event">About the Event</h2>
-<p>R-Ladies Canberra, Melbourne and Sydney are thrilled to host our first ever cross-chapter TidyTuesday and we would love to have you come along!</p>
-<p>TidyTuesday is a weekly event created by the Data Science Learning Community for folks to develop new skills in a low-stakes, welcoming environment. Each week, a new dataset is released for everyone to play and explore. There is no limit to what you can do! You can produce a nice-looking table, or a story-telling graphic, perhaps even an intuitive Shiny interface – the choice is yours!</p>
-</section>
-<section id="what-to-expect" class="level2">
-<h2 class="anchored" data-anchor-id="what-to-expect">What to expect</h2>
-<p>Join a follow-along group or work independently on the same dataset for about 30 mins then come together to celebrate each other’s creations!</p>
-<p>Come join us for a fun session on coding with R and Rstudio! This event is online only. All you need is your laptop!</p>
-<p>We look forward to seeing you there!</p>
-<p>💜 Dionne on behalf of R-Ladies Melbourne</p>
-<p><a href="../blog_index.html">Back to our blog home page</a></p>
-
-
-</section>
-
- ]]></description>
-  <category>Event</category>
-  <category>TidyTuesday</category>
-  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_05_25_event.html</guid>
-  <pubDate>Invalid Date</pubDate>
 </item>
 </channel>
 </rss>

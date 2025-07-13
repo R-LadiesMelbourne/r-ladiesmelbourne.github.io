@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Dionne Argyropoulos">
+<meta name="dcterms.date" content="2025-07-09">
 
-<title>Blog Posts – R-Ladies Melbourne Inc.</title>
+<title>Meetup: 09 Jul 2025: Using Git for Version Control and Collaboration – R-Ladies Melbourne Inc.</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,30 +25,28 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./images/favicon.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/cookie-consent/cookie-consent.js"></script>
-<link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-2486e1f0a3ee9ee1fc393803a1361cdb.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-6561bbde787c299e21493071c8edc6ff.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-83d7507411cb1a5a59500bf5e2fbba74.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../images/favicon.png" rel="icon" type="image/png">
+<script src="../site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-2486e1f0a3ee9ee1fc393803a1361cdb.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-6561bbde787c299e21493071c8edc6ff.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-83d7507411cb1a5a59500bf5e2fbba74.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -74,35 +74,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-CB5M3V95HB"></script>
 
 <script type="text/plain" cookie-consent="tracking">
@@ -131,39 +102,10 @@ cookieconsent.run({
 </script> 
   
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles/styles.css">
-<link rel="stylesheet" href="styles/all.min.css">
-<link rel="alternate" type="application/rss+xml" title="R-Ladies Melbourne Inc." href="blog_index.xml" data-external="1"></head>
+<link rel="stylesheet" href="../styles/styles.css">
+<link rel="stylesheet" href="../styles/all.min.css">
+</head>
 
 <body class="nav-fixed">
 
@@ -172,7 +114,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">R-Ladies Melbourne Inc.</span>
     </a>
   </div>
@@ -183,7 +125,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -192,11 +134,11 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-about-us">    
         <li>
-    <a class="dropdown-item" href="./about.html">
+    <a class="dropdown-item" href="../about.html">
  <span class="dropdown-text">About</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./timeline.html">
+    <a class="dropdown-item" href="../timeline.html">
  <span class="dropdown-text">Our Legacy</span></a>
   </li>  
         <li>
@@ -206,7 +148,7 @@ window.Quarto = {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" href="./blog_index.html" aria-current="page"> 
+    <a class="nav-link" href="../blog_index.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
@@ -219,25 +161,25 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-our-work">    
         <li>
-    <a class="dropdown-item" href="./ourwork.html">
+    <a class="dropdown-item" href="../ourwork.html">
  <span class="dropdown-text">Overview</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./outputs/redu_itas.html">
+    <a class="dropdown-item" href="../outputs/redu_itas.html">
  <span class="dropdown-text">It Takes a Spark</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./outputs/eoy2024.html">
+    <a class="dropdown-item" href="../outputs/eoy2024.html">
  <span class="dropdown-text">2024 End of Year Event</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./videos.html"> 
+    <a class="nav-link" href="../videos.html"> 
 <span class="menu-text">Our Videos</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./resources.html"> 
+    <a class="nav-link" href="../resources.html"> 
 <span class="menu-text">Resources</span></a>
   </li>  
 </ul>
@@ -256,7 +198,7 @@ window.Quarto = {
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./rladiesmelbourne@gmail.com"> <i class="bi bi-envelope-fill" role="img">
+    <a class="nav-link" href="../rladiesmelbourne@gmail.com"> <i class="bi bi-envelope-fill" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -283,21 +225,45 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(8)</span></div><div class="category" data-category="QUZM">AFL <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QWRtaW4=">Admin <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QmlvaW5mb3JtYXRpY3M=">Bioinformatics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q29kZQ==">Code <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGF0YSBTY2llbmNl">Data Science <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RWR1Y2F0aW9u">Education <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RXZlbnQ=">Event <span class="quarto-category-count">(7)</span></div><div class="category" data-category="R2l0">Git <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R2l0SHViIFBhZ2Vz">GitHub Pages <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R2l0aHVi">Github <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TmV0d29ya2luZw==">Networking <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGlwZWxpbmU=">Pipeline <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UXVhcnRv">Quarto <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Ui1MYWRpZXMgTWVsYm91cm5l">R-Ladies Melbourne <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGlkeVR1ZXNkYXk=">TidyTuesday <span class="quarto-category-count">(1)</span></div><div class="category" data-category="V29ya2Zsb3dz">Workflows <span class="quarto-category-count">(1)</span></div><div class="category" data-category="V29ya3Nob3A=">Workshop <span class="quarto-category-count">(1)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#about-the-event" id="toc-about-the-event" class="nav-link active" data-scroll-target="#about-the-event">About the Event</a></li>
+  <li><a href="#speakers-felicia-bongiovanni" id="toc-speakers-felicia-bongiovanni" class="nav-link" data-scroll-target="#speakers-felicia-bongiovanni">Speakers: Felicia Bongiovanni</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Blog Posts</h1>
-</div>
+<h1 class="title">Meetup: 09 Jul 2025: Using Git for Version Control and Collaboration</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Event</div>
+    <div class="quarto-category">Git</div>
+    <div class="quarto-category">Github</div>
+  </div>
+  </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Dionne Argyropoulos </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">July 9, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -307,327 +273,30 @@ window.Quarto = {
 </header>
 
 
-<p>Welcome to our website blog! Here you’ll find all the latest posts and can stay up-to-date with us!</p>
+<p><img src="images/RLadiesMelb_090725_Flyer.png" class="img-fluid"></p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>Sign up on the R-Ladies Melbourne [<strong>meetup page</strong>]https://www.meetup.com/rladies-melbourne/events/308624008/?utm_medium=referral&amp;utm_campaign=share-btn_savedevents_share_modal&amp;utm_source=link&amp;utm_version=v2).</p>
+<p>Time: Wed, July 09, 2024</p>
+<p>5:30 PM to 7:30 PM AEST</p>
+<p>Location: DiUS (3/31 Queen Street, Melbourne) and Online (Zoom)</p>
+</div></div><section id="about-the-event" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-event">About the Event</h2>
+<p>Do you have trouble keeping track of changes in your code? Have you ever had to collaborate on a project with others and had to send files back and forth tediously? Git will be your best friend to solve these problems and many more!</p>
+<p>This presentation will give you an introduction to Git, the basics of how to use it, and some of its very helpful applications such as collaboration and code reproducibility. The focus will be on the use of Git in conjunction with Github (yes, these are two separate things!). This will help you to effectively use one of the most powerful tools available to you and give you more confidence to code freely without fear.</p>
+<p>There’ll also be food, drinks, and plenty of time to network with fellow attendees!</p>
+</section>
+<section id="speakers-felicia-bongiovanni" class="level2">
+<h2 class="anchored" data-anchor-id="speakers-felicia-bongiovanni">Speakers: Felicia Bongiovanni</h2>
+<p>Felicia is a PhD candidate at The Walter and Eliza Hall Institute of Medical Research currently researching the immune response to several infectious diseases using mathematical modelling and code.</p>
+<p>We look forward to seeing you there!</p>
+<p>💜 Dionne on behalf of R-Ladies Melbourne</p>
+<p><a href="../blog_index.html">Back to our blog home page</a></p>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="RXZlbnQsR2l0LEdpdGh1Yg==" data-listing-date-sort="1751983200000" data-listing-file-modified-sort="1752390412840" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="203">
-<div class="thumbnail">
-<p><a href="./posts/09_07_25_event.html" class="no-external"></a></p><a href="./posts/09_07_25_event.html" class="no-external">
-<p class="card-img-top"><img src="posts/images/RLadiesMelb_090725_Flyer.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./posts/09_07_25_event.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/09_07_25_event.html" class="no-external">Meetup: 09 Jul 2025: Using Git for Version Control and Collaboration</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/09_07_25_event.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('RXZlbnQ='); return false;">
-Event
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R2l0'); return false;">
-Git
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R2l0aHVi'); return false;">
-Github
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/09_07_25_event.html" class="no-external">Sign up on the R-Ladies Melbourne [<strong>meetup page</strong>]https://www.meetup.com/rladies-melbourne/events/308624008/?utm_medium=referral&amp;utm_campaign=share-btn_savedevents_share_modal&amp;u…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/09_07_25_event.html" class="no-external">
-<div class="listing-date">
-Jul 9, 2025
-</div>
-<div class="listing-author">
-Dionne Argyropoulos
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="RXZlbnQsUXVhcnRvLFdvcmtzaG9wLEdpdEh1YiBQYWdlcw==" data-listing-date-sort="1748354400000" data-listing-file-modified-sort="1752390341157" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="282">
-<div class="thumbnail">
-<p><a href="./posts/28_05_25_event.html" class="no-external"></a></p><a href="./posts/28_05_25_event.html" class="no-external">
-<p class="card-img-top"><img src="posts/images/RLadiesMelb_280525_Flyer.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./posts/28_05_25_event.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/28_05_25_event.html" class="no-external">Meetup: 28 May 2025: Creating simple websites with Quarto + GitHub Pages</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/28_05_25_event.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('RXZlbnQ='); return false;">
-Event
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('UXVhcnRv'); return false;">
-Quarto
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('V29ya3Nob3A='); return false;">
-Workshop
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R2l0SHViIFBhZ2Vz'); return false;">
-GitHub Pages
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/28_05_25_event.html" class="no-external">Sign up on the R-Ladies Melbourne <strong>meetup page</strong>.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/28_05_25_event.html" class="no-external">
-<div class="listing-date">
-May 28, 2025
-</div>
-<div class="listing-author">
-Kathleen Zeglinski
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="RXZlbnQsVGlkeVR1ZXNkYXk=" data-listing-date-sort="1746453600000" data-listing-file-modified-sort="1752390191337" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="172">
-<div class="thumbnail">
-<p><a href="./posts/06_05_25_event.html" class="no-external"></a></p><a href="./posts/06_05_25_event.html" class="no-external">
-<p class="card-img-top"><img src="posts/images/RLadies_060525_Flyer.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./posts/06_05_25_event.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/06_05_25_event.html" class="no-external">Meetup: 06 May 2025: Cross-Chapter TidyTuesday</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/06_05_25_event.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('RXZlbnQ='); return false;">
-Event
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('VGlkeVR1ZXNkYXk='); return false;">
-TidyTuesday
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/06_05_25_event.html" class="no-external">Sign up on the R-Ladies Sydney <strong>meetup page</strong>.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/06_05_25_event.html" class="no-external">
-<div class="listing-date">
-May 6, 2025
-</div>
-<div class="listing-author">
-Dionne Argyropoulos
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="RXZlbnQsQmlvaW5mb3JtYXRpY3MsUGlwZWxpbmUsV29ya2Zsb3dz" data-listing-date-sort="1742994000000" data-listing-file-modified-sort="1745292829630" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="412">
-<div class="thumbnail">
-<p><a href="./posts/27_03_25_event.html" class="no-external"></a></p><a href="./posts/27_03_25_event.html" class="no-external">
-<p class="card-img-top"><img src="posts/images/RLadiesMelb_030425_Flyer.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./posts/27_03_25_event.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/27_03_25_event.html" class="no-external">Meetup: 03 Apr 2025: PGEforge</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/27_03_25_event.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('RXZlbnQ='); return false;">
-Event
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('QmlvaW5mb3JtYXRpY3M='); return false;">
-Bioinformatics
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('UGlwZWxpbmU='); return false;">
-Pipeline
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('V29ya2Zsb3dz'); return false;">
-Workflows
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/27_03_25_event.html" class="no-external">Sign up on our <strong>meetup page</strong>.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/27_03_25_event.html" class="no-external">
-<div class="listing-date">
-Mar 27, 2025
-</div>
-<div class="listing-author">
-Dionne Argyropoulos
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="RXZlbnQsRWR1Y2F0aW9uLFItTGFkaWVzIE1lbGJvdXJuZQ==" data-listing-date-sort="1740142800000" data-listing-file-modified-sort="1740178175471" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="320">
-<div class="thumbnail">
-<p><a href="./posts/22_02_25_event_redu.html" class="no-external"></a></p><a href="./posts/22_02_25_event_redu.html" class="no-external">
-<p class="card-img-top"><img src="posts/images/RLadiesMelb_260225_Flyer.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./posts/22_02_25_event_redu.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/22_02_25_event_redu.html" class="no-external">Meetup: 26th Feb 2025: Inspiring the Next Generation: R-Ladies Melb at “It Takes A Spark” Conference</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/22_02_25_event_redu.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('RXZlbnQ='); return false;">
-Event
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('RWR1Y2F0aW9u'); return false;">
-Education
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Ui1MYWRpZXMgTWVsYm91cm5l'); return false;">
-R-Ladies Melbourne
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/22_02_25_event_redu.html" class="no-external">Sign up on our <strong>meetup page</strong>.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/22_02_25_event_redu.html" class="no-external">
-<div class="listing-date">
-Feb 22, 2025
-</div>
-<div class="listing-author">
-Dionne Argyropoulos
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="RXZlbnQsTmV0d29ya2luZw==" data-listing-date-sort="1732453200000" data-listing-file-modified-sort="1732509327775" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="148">
-<div class="thumbnail">
-<p><a href="./posts/25_11_25_event_EOY.html" class="no-external"></a></p><a href="./posts/25_11_25_event_EOY.html" class="no-external">
-<p class="card-img-top"><img src="posts/images/RLadiesMelb_051224_Flyer.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./posts/25_11_25_event_EOY.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/25_11_25_event_EOY.html" class="no-external">Meetup: 05th Dec 2024: End of Year Networking</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/25_11_25_event_EOY.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('RXZlbnQ='); return false;">
-Event
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('TmV0d29ya2luZw=='); return false;">
-Networking
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/25_11_25_event_EOY.html" class="no-external">Sign up on our <strong>meetup page</strong>.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/25_11_25_event_EOY.html" class="no-external">
-<div class="listing-date">
-Nov 25, 2024
-</div>
-<div class="listing-author">
-Dionne Argyropoulos
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-categories="RXZlbnQsRGF0YSBTY2llbmNlLEFGTA==" data-listing-date-sort="1730898000000" data-listing-file-modified-sort="1745292601641" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="334">
-<div class="thumbnail">
-<p><a href="./posts/06_11_24_event.html" class="no-external"></a></p><a href="./posts/06_11_24_event.html" class="no-external">
-<p class="card-img-top"><img src="posts/images/RLadiesMelb_201124_Flyer.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./posts/06_11_24_event.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/06_11_24_event.html" class="no-external">Meetup: 20th Nov 2024: Leveraging the Power of Data in Sport</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/06_11_24_event.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('RXZlbnQ='); return false;">
-Event
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('RGF0YSBTY2llbmNl'); return false;">
-Data Science
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('QUZM'); return false;">
-AFL
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/06_11_24_event.html" class="no-external">Sign up on our <strong>meetup page</strong>.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/06_11_24_event.html" class="no-external">
-<div class="listing-date">
-Nov 7, 2024
-</div>
-<div class="listing-author">
-Caitlin Bourke
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="7" data-categories="QWRtaW4sQ29kZQ==" data-listing-date-sort="1730811600000" data-listing-file-modified-sort="1731215977112" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="83">
-<div class="thumbnail">
-<p><a href="./posts/06_11_24_welcome.html" class="no-external"></a></p><a href="./posts/06_11_24_welcome.html" class="no-external">
-<p class="card-img-top"><img src="posts/images/rladiesmelblogo.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./posts/06_11_24_welcome.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/06_11_24_welcome.html" class="no-external">Welcome to Our Website 💜</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/06_11_24_welcome.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('QWRtaW4='); return false;">
-Admin
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Q29kZQ=='); return false;">
-Code
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/06_11_24_welcome.html" class="no-external">This is the first entry on our R-Ladies Melbourne website!</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/06_11_24_welcome.html" class="no-external">
-<div class="listing-date">
-Nov 6, 2024
-</div>
-<div class="listing-author">
-Dionne Argyropoulos
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -1220,7 +889,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="./rladiesmelbourne@gmail.com">
+    <a class="nav-link" href="../rladiesmelbourne@gmail.com">
       <i class="bi bi-envelope-fill" role="img">
 </i> 
     </a>
