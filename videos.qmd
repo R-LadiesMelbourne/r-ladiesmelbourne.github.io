@@ -3,6 +3,18 @@ title: "Our Video Archive"
 toc: false 
 ---
 
+## Using Git for Version Control and Collaboration
+
+{{< video https://youtu.be/8jLE599j738?si=0gzxI8jWx2rU90d- >}}
+
+::: column-margin
+Our 09-07-2025 [meetup](https://www.meetup.com/rladies-melbourne/events/308624008/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2) with R-Ladies Melbourne commmittee member **Felicia Bongiovanni**. 
+:::
+
+Do you ever struggle to keep track of changes in your code or find yourself tediously sending files back and forth while collaborating on a project? In this session, participants discovered how Git can solve these common problems—and many more.
+ 
+ The presentation introduced attendees to Git, covering the basics of how to use it, along with its powerful applications in collaboration and code reproducibility. A key focus was on using Git alongside GitHub (yes, they’re two different things!), helping demystify the relationship between the two. By the end of the session, participants walked away with a clearer understanding of one of the most powerful tools in coding, and more confidence to work freely and fearlessly with version control.
+
 ## Creating simple websites with Quarto + GitHub Pages
 
 {{< video https://youtu.be/1RZ_TbL9quM?si=E4CFXARmH0963dnS >}}
