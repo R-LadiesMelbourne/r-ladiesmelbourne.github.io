@@ -1,0 +1,28 @@
+---
+title: "Meetup: 05th Dec 2024: End of Year Networking"
+author: "Dionne Argyropoulos"
+date: "2024-11-25"
+categories: [Event, Networking]
+---
+
+![](images/2024_12_05_Flyer.png)
+
+::: column-margin
+Sign up on our [**meetup page**](https://www.meetup.com/rladies-melbourne/events/304646177/?eventOrigin=group_upcoming_events).
+
+Time: Thu, December 05, 2024
+
+5:30 PM to 7:30 PM AEDT
+
+Location: In Person, The Clyde (385 Cardigan St, Carlton)
+:::
+
+Please join us on Thursday 05th December 2024 on the rooftop at The Clyde Hotel in Carlton from 5.30pm. This is a networking catch-up with some light refreshments and will only be in-person. Please register your attendance on Meetup by the 1st December for planning purposes.
+
+We have five outstanding mentors that coming to share the different journeys that brought them to their current roles in areas ranging from public health, genomics, bioinformatics, programming and software engineering!
+
+Read more about each of these mentors on our [dedicated page](../outputs/eoy2024.qmd)! Here you can find a biography, questions to ask and fun facts about each mentor! You can also leave any questions on our page by signing into your GitHub account.
+
+We look forward to seeing you there!
+
+R Ladies Melbourne 💜

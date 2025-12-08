@@ -4,18 +4,15 @@ title: "2024 End of Year Event 🎉"
 
 ## Mentors
 
-
 <details open>
 
 <summary>Jovana Maksimovic</summary>
 
 :::::: columns
 ::: {.column width="30%"}
-
 ![](images/EOY_2024_Maksimovic_J.png){.circular-image}
 
-**Current Position**: Senior Research Associate at Peter MacCallum Cancer Centre
-**Contact me**: <i class="bi bi-envelope-fill"></i> [Email](jovana.maksimovic@petermac.org)
+**Current Position**: Senior Research Associate at Peter MacCallum Cancer Centre **Contact me**: <i class="bi bi-envelope-fill"></i> [Email](jovana.maksimovic@petermac.org)
 :::
 
 ::: {.column width="10%"}
@@ -23,23 +20,22 @@ title: "2024 End of Year Event 🎉"
 :::
 
 ::: {.column width="60%"}
-
-**Biography**: Dr. Jovana Maksimovic is a Senior Research Associate in bioinformatics and computational biology in the Oshlack Lab at the Peter MacCallum Cancer Centre. Her work has primarily focused on epigenetics and transcriptomics data analysis and methods development projects, with a particular influence in the field of methylation array analysis. More recently, she has begun working on approaches for methylation sequencing analysis with a particular focus on cancer. Jovana currently holds an NHMRC EL2 Investigator Fellowship and is leading the computational analysis for the development of a globally-accessible cell “atlas” of the healthy paediatric airway, which is funded by a Chan Zuckerberg Initiative Paediatric Cell Atlas Network Grant. She is also funded by a Peter MacCallum Foundation Grant to pilot an approach for detecting known cancer fusion transcripts in single cells by adapting a novel single-cell technology. 
+**Biography**: Dr. Jovana Maksimovic is a Senior Research Associate in bioinformatics and computational biology in the Oshlack Lab at the Peter MacCallum Cancer Centre. Her work has primarily focused on epigenetics and transcriptomics data analysis and methods development projects, with a particular influence in the field of methylation array analysis. More recently, she has begun working on approaches for methylation sequencing analysis with a particular focus on cancer. Jovana currently holds an NHMRC EL2 Investigator Fellowship and is leading the computational analysis for the development of a globally-accessible cell “atlas” of the healthy paediatric airway, which is funded by a Chan Zuckerberg Initiative Paediatric Cell Atlas Network Grant. She is also funded by a Peter MacCallum Foundation Grant to pilot an approach for detecting known cancer fusion transcripts in single cells by adapting a novel single-cell technology.
 
 **Ask me about**:
 
-1.  What is the best programming language to learn? 
+1.  What is the best programming language to learn?
 2.  How can I balance my work and home life?
 
 **Fun Facts**:
 
-- I am a cat person. 
-- My favourite movie is Aliens. 
-- I have a 7 year old son. 
-- I have a black belt in taekwondo. 
-- I know how to catch and milk wallabies. 
-- I have hand raised wallaby joeys at my home. 
-- I have played almost all the Tomb Raider games. 
+-   I am a cat person.
+-   My favourite movie is Aliens.
+-   I have a 7 year old son.
+-   I have a black belt in taekwondo.
+-   I know how to catch and milk wallabies.
+-   I have hand raised wallaby joeys at my home.
+-   I have played almost all the Tomb Raider games.
 :::
 ::::::
 
@@ -51,12 +47,10 @@ title: "2024 End of Year Event 🎉"
 
 :::::: columns
 ::: {.column width="30%"}
-
 ![](images/EOY_2024_McCann_K.png){.circular-image}
 
 **Current Position**: Associate Research Fellow, Genomic Epidemiology\
 **Contact me**: <i class="bi bi-envelope-fill"></i> [Email](kirsty.mccann@deakin.edu.au)
- 
 :::
 
 ::: {.column width="10%"}
@@ -64,21 +58,19 @@ title: "2024 End of Year Event 🎉"
 :::
 
 ::: {.column width="60%"}
-
 **Biography**: Dr McCann completed her PhD in 2020 at La Trobe University which focussed on using genomics to understand the relationships of filarial nematodes, assemble a genome and develop an animal model to study a filarial disease. Throughout her Honours and PhD, she gained experience in field work, molecular biology and bioinformatics. Dr McCann has always been fascinated with the interplay between host, vector, and parasites, with this interest she applied for a job at Deakin University in malaria to use population genomics to understand how drug resistance has affected parasite population structure and lots more. Dr McCann is very involved in using bioinformatics to answer various research questions, with a strong passion for R programming and dedication to optimising pipelines and workflows.
 
 **Ask me about**:
 
-1. Happy to answer questions about anything.
-2. The path from PhD to PostDoc
-3. How I learned R programming
-4. Tips and tricks about getting confident with R and bioinformatics, and helpful courses online. 
+1.  Happy to answer questions about anything.
+2.  The path from PhD to PostDoc
+3.  How I learned R programming
+4.  Tips and tricks about getting confident with R and bioinformatics, and helpful courses online.
 
 **Fun Facts**:
 
-- I have two golden retrievers (Loki and Rylie). 
-- I have a passion for dog training, hiking and outdoor adventures.
-
+-   I have two golden retrievers (Loki and Rylie).
+-   I have a passion for dog training, hiking and outdoor adventures.
 :::
 ::::::
 
@@ -94,7 +86,6 @@ title: "2024 End of Year Event 🎉"
 
 **Current Position**: Software Engineering Senior Consultant at DiUS\
 **Contact me**: <i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/victoria-plows/)
-
 :::
 
 ::: {.column width="10%"}
@@ -106,15 +97,14 @@ title: "2024 End of Year Event 🎉"
 
 **Ask me about**:
 
-1. Working as a consultant in the tech industry
-2. Making a career change into technology
+1.  Working as a consultant in the tech industry
+2.  Making a career change into technology
 
 **Fun Facts**:
 
-- Interviewed once by Waleed Aly on ABC RN Drive radio program
-- Love English Staffy dogs, think rescue dogs are the best breed!
-- Big fan of musical theatre - seen "&Juliet" multiple times in 3 different countries
-
+-   Interviewed once by Waleed Aly on ABC RN Drive radio program
+-   Love English Staffy dogs, think rescue dogs are the best breed!
+-   Big fan of musical theatre - seen "&Juliet" multiple times in 3 different countries
 :::
 ::::::
 
@@ -141,12 +131,11 @@ title: "2024 End of Year Event 🎉"
 
 **Ask me about**:
 
-1. Academia to Industry transition
-2. Statistics & bioinformatics
-3. Public speaking    
+1.  Academia to Industry transition
+2.  Statistics & bioinformatics
+3.  Public speaking
 
-**Fun Facts**: I'm training to become a Pilates instructor :) 
-
+**Fun Facts**: I'm training to become a Pilates instructor :)
 :::
 ::::::
 

@@ -1,0 +1,192 @@
+---
+title: "2025 End of Year Event 🎉"
+---
+
+## Mentors
+
+<details open>
+
+<summary>Hannah Comiskey</summary>
+
+:::::: columns
+::: {.column width="30%"}
+![](images/EOY_2025_Comiskey_H.jpg){.circular-image}
+
+**Current Position**: Research Fellow at Monash University **Contact me**: <i class="bi bi-envelope-fill"></i> [Email](hannahcomiskey68@gmail.com)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+**Biography**: I am an applied statistician specialising in the development of statistical models for time-dependent, compositional, and spatial data. My research focuses on creating models that effectively analyse these complex datasets. Previously, I developed statistical indicators using family planning and agronomic data. My expertise lies in Bayesian modelling techniques, which leverage hierarchical structures to facilitate information exchange across populations, quantify parameter uncertainty, and integrate prior knowledge into statistical frameworks. Currently, I am a Postdoctoral Research Fellow in the Department of Econometrics and Business Statistics at Monash University, Melbourne, Australia. My work here involves developing a method for approximate forecast reconciliation for bounded and non-gaussian data. I completed my PhD at Maynooth University under the supervision of Prof. Niamh Cahill, supported by the SFI Centre for Research Training in Foundations of Data Science. During this time, I also led an undergraduate statistics module at Trinity College Dublin and tutored undergraduate and postgraduate statistics courses, both online and in person. In addition to my academic experience, I have an extensive background in teaching mathematics. For eight years, I tutored second-level mathematics to Junior and Leaving Certificate students at both higher and ordinary levels. I have also earned a Professional Certificate in Teaching and Learning from Maynooth University. Before pursuing my PhD, I worked as an analyst in the Data Analytics Department at EY Dublin.
+
+**Ask me about**:
+
+1.  Compositional data
+2.  Working with Imposter Syndrome
+3.  Public speaking
+4.  Teaching
+5.  Bayesian analysis
+6.  Being an applied statistician
+
+**Fun Facts**:
+
+I love horseriding, going to the gym and reality TV. I am a Real Housewives/Below Deck junkie.
+:::
+::::::
+
+</details>
+
+<details open>
+
+<summary>Alyssa Hu</summary>
+
+:::::: columns
+::: {.column width="30%"}
+![](images/EOY_2025_Hu_A.png){.circular-image}
+
+**Current Position**: Senior Teaching Fellow at Monash University\
+**Contact me**: <i class="bi bi-envelope-fill"></i> [Email](alyssa.hu@monash.edu)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+**Biography**: Alyssa Hu is a Senior Teaching Fellow in the Department of Econometrics and Business Statistics at Monash University. Before moving to Australia, she completed dual B.Sc. degrees in Computer Science and Mathematics at the University of Maryland, College Park and a Ph.D. in Statistics at Penn State University. Her research is in statistics and data science education, with interests in computational thinking, program evaluation, and modelling student assessment performance. And yes - she uses R in her teaching and research :)
+
+**Ask me about**:
+
+1.  My recent experience on the academic job market
+2.  How I got into statistics and data science education research
+3.  Moving abroad - the career and cultural transition
+4.  Anything else you’re curious about!
+
+**Fun Facts**:
+
+-   I prefer iced beverages over hot beverages, regardless of the temperature outside.
+-   I enjoy knitting (…and using the `knitr` package).
+-   I look forward to exploring more of Melbourne and would love recommendations of things to do.
+:::
+::::::
+
+</details>
+
+<details open>
+
+<summary>Mun Hua Tan</summary>
+
+:::::: columns
+::: {.column width="30%"}
+![](images/EOY_2025_Tan_MH.jpg){.circular-image}
+
+**Current Position**: Research Officer & Bioinformatician (International Training and Research) at The University of Melbourne\
+**Contact me**: <i class="bi bi-envelope-fill"></i> [Email](munhua.tan@unimelb.edu.au)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+**Biography**: Dr Mun Hua Tan is a scientist and bioinformatician in infectious disease research at the University of Melbourne. Trained in wet-lab science in the United States, she taught herself bioinformatics and has followed a non-linear career path, shaped by curiosity and a love of learning across disciplines. She has worked in industry and genomics centres in Malaysia and Australia, gaining experience across biodiversity, ecology, and malaria. Her research focuses on understanding the diversity of malaria parasites in natural populations, studying how they change after malaria control efforts, and improving diagnostics. After more than a decade in academic research, she recently joined the Centre for Pathogen Genomics, contributing to bioinformatics training and capacity building for public health teams across the Asia-Pacific region.
+
+**Ask me about**:
+
+1.  Transitioning from wet-lab to coding & bioinformatics.
+2.  Navigating major career changes and pivots.
+3.  What life in academic research is like.
+
+**Fun Facts**:
+
+1.  I'm from Malaysia and always on the hunt for new food spots
+2.  A tropical soul in Melbourne, you will find me in my puff jacket most of the year
+3.  I'm on a mission to grow a citrus plant on my low-sunlight apartment balcony (tips welcome!)
+:::
+::::::
+
+</details>
+
+<details open>
+
+<summary>Anna Quaglieri</summary>
+
+:::::: columns
+::: {.column width="30%"}
+![](images/EOY_2025_Quaglieri_A.jpeg){.circular-image}
+
+**Current Position**: Senior Data Scientist at Mass Dynamics\
+**Contact me**: <i class="bi bi-envelope-fill"></i> [Email](anna.quaglieri16@gmail.com) <i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/anna-quaglieri-692501108/)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+**Biography**: Dr. Anna Quaglieri is a Senior Data Scientist at Mass Dynamics working to make mass spectrometry based proteomics more accessible to the broader community of scientists. She has a background in mathematical statistics and over 10 years of experience utilising statistics and software to makes sense of various types of ‘omics data including population genetics, genomics, epigenetics and proteomics in both academia and industry. Anna is passionate about building and supporting communities that champion open-source software, open science, and women in STEM, and has served on committees for R-Ladies Melbourne, Bioconductor, and the Human Proteome Organization.
+
+**Ask me about**:
+
+1.  Working for a science startup as a scientist;
+2.  How at Mass Dynamics scientist and engineers work together;
+3.  Being an expat in Melbourne’s STEM community;
+4.  What's in a data scientist day beyond coding
+
+**Fun Facts**: I can teach you Pilates and I love singing :)
+:::
+::::::
+
+</details>
+
+<details open>
+
+<summary>Belinda Phipson</summary>
+
+:::::: columns
+::: {.column width="30%"}
+![](images/EOY_2025_Phipson_B.png){.circular-image}
+
+**Current Position**: Lab head at WEHI\
+**Contact me**: <i class="bi bi-envelope-fill"></i> [Email](phipson.b@wehi.edu.au)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+**Biography**: Dr Belinda Phipson is a laboratory head in the Bioinformatics Division at WEHI. In 2013 she completed her PhD with Professor Gordon Smyth on empirical Bayes methods for analysing gene expression data. During her postdoc with Professor Alicia Oshlack, she developed methods for analysing DNA methylation arrays and single cell data, and had significant collaborations in the areas of healthy development and stem cell derived kidney organoids. In 2018 she was awarded the inaugural ABACBS early career researcher award, and has been successful in being awarded NHMRC Investigator grants in 2019 and 2023. The focus of her lab is on developing bioinformatics methods for data from cutting edge single cell assays; including transcriptomics, proteomics and spatial technologies; as well as collaborative analysis in the fields of cancer and kidney biology.
+
+**Ask me about**:
+
+I'm happy to discuss anything - writing grants and what it takes to be competitive, work-life balance, having a family, managing chronic illness (I have long covid), navigating a career in science, coding...
+
+**Fun Facts**:
+
+-   I meditate a lot to manage my stress levels
+-   I do cold dips in the ocean all year round
+-   I am passionate about helping amd supporting others in whatever way I can
+:::
+::::::
+
+</details>
+
+## Questions
+
+::: callout-note
+Please feel free to ask a question below by signing into your [**GitHub**](https://github.com/)!
+:::
+
+```{=html}
+<script src="https://utteranc.es/client.js"
+        repo="R-LadiesMelbourne/EOY_Event"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+```

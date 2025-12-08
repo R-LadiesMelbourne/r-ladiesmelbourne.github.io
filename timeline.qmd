@@ -95,6 +95,12 @@ timeline
          : Cross-chapter TidyTuesday with R-Ladies
          : Creating simple websites with Quarto + GitHub Pages
          : Using Git for Version Control and Collaboration
+         : R-Ladies Social Night
+         : Plot Twist - Bringing Your ggplot2 Visuals to Life with ggplotly
+         : It Takes a Spark 2025 - Become A Disease Detective
+         : R-Ladies & SSA Melbourne Social Night: Happy 9th Birthday R-Ladies
+         : R-Ladies at R Dev Days with Dr Heather Turner
+         : End-of-Year Networking Event 
 ```
 :::
 
@@ -115,10 +121,15 @@ timeline
 ::: {style="flex: 1; padding: 10px;"}
 **Meetups Hosted**:
 
--  [Cross-chapter TidyTuesday with R-Ladies](https://www.meetup.com/rladies-sydney/events/307276480/?eventOrigin=your_events).
--  [Creating simple websites with Quarto + GitHub Pages](https://github.com/R-LadiesMelbourne/28-05-25-Creating-simple-websites-with-Quarto-GitHub-Pages)
--  [Using Git for Version Control and Collaboration](https://github.com/R-LadiesMelbourne/09-07-2025-Using-Git-for-Version-Control-and-Collaboration)
-
+-   [Cross-chapter TidyTuesday with R-Ladies](https://www.meetup.com/rladies-sydney/events/307276480/?eventOrigin=your_events).
+-   [Creating simple websites with Quarto + GitHub Pages](https://github.com/R-LadiesMelbourne/28-05-25-Creating-simple-websites-with-Quarto-GitHub-Pages)
+-   [Using Git for Version Control and Collaboration](https://github.com/R-LadiesMelbourne/09-07-2025-Using-Git-for-Version-Control-and-Collaboration)
+-   [R-Ladies Social Night](https://www.meetup.com/rladies-melbourne/events/310287919/)
+-   [Plot Twist - Bringing Your ggplot2 Visuals to Life with ggplotly](https://www.meetup.com/rladies-melbourne/events/310808326/)
+-   [It Takes a Spark 2025 - Become A Disease Detective](https://github.com/R-LadiesMelbourne/23-10-25-It-Takes-A-Spark)
+-   [R-Ladies & SSA Melbourne Social Night: Happy 9th Birthday R-Ladies](https://www.meetup.com/rladies-melbourne/events/311337114/)
+-   [R-Ladies at R Dev Days with Dr Heather Turner](https://www.meetup.com/rladies-melbourne/events/311618693/)
+-   [End-of-Year Networking Event](https://www.meetup.com/rladies-melbourne/events/311618784/)
 :::
 :::::
 ::::::

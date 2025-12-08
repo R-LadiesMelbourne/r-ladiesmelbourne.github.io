@@ -1,0 +1,37 @@
+---
+title: "Meetup: 18 Sept 2025: Plot Twist: Bringing Your ggplot2 Visuals to Life with ggplotly"
+author: "Dionne Argyropoulos"
+date: "2025-09-18"
+categories: [Event, ggplotly, R Package]
+---
+
+![](images/2025_09_18_Flyer.png)
+
+::: column-margin
+Sign up on the R-Ladies Melbourne [**meetup page**](https://www.meetup.com/rladies-melbourne/events/310808326/).
+
+Time: Thu, Sept 18, 2025
+
+5:30 PM to 7:30 PM AEST
+
+Location: DiUS (3/31 Queen Street, Melbourne) and Online (Zoom)
+:::
+
+## About the Event
+Transform your static R plots into interactive, engaging visual stories! In this hands-on workshop, we’ll take pre-organised ggplot2 code and show you how to enhance it with ggplotly, making your data come alive for presentations, dashboards, and reports.
+
+Through practical case studies, you’ll explore a variety of visualisations, learn why certain methods are best for different data types, and see how interactive features can add depth and clarity to your insights.
+
+Whether you prefer to follow along in R with the required packages installed or explore the concepts via Google Colab and copy the code once you get home, you’ll gain actionable tips to elevate your R visualisations—no matter your platform. By the end, you’ll be ready to make your data clickable, hoverable, and truly dynamic.
+
+There’ll also be food, drinks, and plenty of time to network with fellow attendees!
+
+## Speaker: Dr Kirsty McCann
+
+Dr Kirsty McCann is an Associate Research Fellow working in malaria genomic epidemiology at Deakin University in Geelong. As a bioinformatician, Kirsty enjoys combining R coding, problem-solving, and infectious disease data analysis to answer a range of different research questions.
+
+We look forward to seeing you there!
+
+💜 Dionne on behalf of R-Ladies Melbourne
+
+[Back to our blog home page](../blog_index.qmd)

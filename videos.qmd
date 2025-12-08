@@ -3,24 +3,50 @@ title: "Our Video Archive"
 toc: false 
 ---
 
+## R-Ladies at R Dev Days with Dr Heather Turner
+
+{{< video https://www.youtube.com/watch?v=CnIoEVT6EIE >}}
+
+::: column-margin
+Our 12-11-2025 [meetup](https://www.meetup.com/rladies-melbourne/events/311618693/) with R Research Software Engineer **Dr Heather Turner**.
+:::
+
+Under Heather's research software engineering fellowship "Sustainability and EDI (Equality, Diversity, and Inclusion) in the R Project", she has led the organisation of nine "R Dev Day"s, where R users work collaboratively on contributions to base R and to infrastructure that supports such contribution. Around 150 people have participated in these events, with good representation from groups that have historically been underrepresented in the contributor community, including women and gender minorities.
+
+In this talk, Heather gives some insight into the tasks that people have worked on at R Dev Days, highlighting some examples that R-Ladies have been involved in. It's broader than you might think, including translation, dashboards, websites, the contributor guide, and CRAN utilities, as well as the code and documentation of base R. Heather explains different ways to get involved, including joining the upcoming hybrid events at [Monash University](https://pretix.eu/r-contributors/r-dev-day-oz-25/) and the [University of Auckland](https://pretix.eu/r-contributors/r-dev-day-nz-25/).
+
+## Plot Twist: Bringing Your ggplot2 Visuals to Life with ggplotly
+
+{{< video https://www.youtube.com/watch?v=QXvOezQe3OY >}}
+
+::: column-margin
+Our 18-09-2025 [meetup](https://www.meetup.com/rladies-melbourne/events/310808326/) with R-Ladies Melbourne commmittee member **Dr Kirsty McCann**.
+:::
+
+Transform your static R plots into interactive, engaging visual stories! In this hands-on workshop, we’ll take pre-organised ggplot2 code and show you how to enhance it with ggplotly, making your data come alive for presentations, dashboards, and reports.
+
+Through practical case studies, you’ll explore a variety of visualisations, learn why certain methods are best for different data types, and see how interactive features can add depth and clarity to your insights.
+
+Whether you prefer to follow along in R with the required packages installed or explore the concepts via Google Colab and copy the code once you get home, you’ll gain actionable tips to elevate your R visualisations—no matter your platform. By the end, you’ll be ready to make your data clickable, hoverable, and truly dynamic.
+
 ## Using Git for Version Control and Collaboration
 
 {{< video https://youtu.be/8jLE599j738?si=0gzxI8jWx2rU90d- >}}
 
 ::: column-margin
-Our 09-07-2025 [meetup](https://www.meetup.com/rladies-melbourne/events/308624008/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2) with R-Ladies Melbourne commmittee member **Felicia Bongiovanni**. 
+Our 09-07-2025 [meetup](https://www.meetup.com/rladies-melbourne/events/308624008/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2) with R-Ladies Melbourne commmittee member **Felicia Bongiovanni**.
 :::
 
 Do you ever struggle to keep track of changes in your code or find yourself tediously sending files back and forth while collaborating on a project? In this session, participants discovered how Git can solve these common problems—and many more.
- 
- The presentation introduced attendees to Git, covering the basics of how to use it, along with its powerful applications in collaboration and code reproducibility. A key focus was on using Git alongside GitHub (yes, they’re two different things!), helping demystify the relationship between the two. By the end of the session, participants walked away with a clearer understanding of one of the most powerful tools in coding, and more confidence to work freely and fearlessly with version control.
+
+The presentation introduced attendees to Git, covering the basics of how to use it, along with its powerful applications in collaboration and code reproducibility. A key focus was on using Git alongside GitHub (yes, they’re two different things!), helping demystify the relationship between the two. By the end of the session, participants walked away with a clearer understanding of one of the most powerful tools in coding, and more confidence to work freely and fearlessly with version control.
 
 ## Creating simple websites with Quarto + GitHub Pages
 
 {{< video https://youtu.be/1RZ_TbL9quM?si=E4CFXARmH0963dnS >}}
 
 ::: column-margin
-Our 28-05-2025 [meetup](https://www.meetup.com/rladies-melbourne/events/307776181/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2) with **Kathleen Zeglinski** and **Danyang Dai** from R-Ladies Melbourne. 
+Our 28-05-2025 [meetup](https://www.meetup.com/rladies-melbourne/events/307776181/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2) with **Kathleen Zeglinski** and **Danyang Dai** from R-Ladies Melbourne.
 :::
 
 Ever wanted to build your own website in minutes? In this session, we learned how to create simple, stylish websites using Quarto, and how to publish them for free with GitHub Pages! It was perfect for portfolios, blogs, or project pages — no prior experience needed. Participants walked away with the skills to create sites just like the [RLadies Melbourne website](https://r-ladiesmelbourne.github.io/) or [WEHI’s Intro to R coursebook](https://kzeglinski.github.io/new_wehi_r_course/).
@@ -30,10 +56,10 @@ Ever wanted to build your own website in minutes? In this session, we learned ho
 {{< video https://youtu.be/HgdiwgLeAME?si=uXYBY2qbxJuBZW62 >}}
 
 ::: column-margin
-Our 03-04-2025 [meetup](https://www.meetup.com/rladies-melbourne/events/306510844/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2) with international speaker and R-Ladies Melbourne alum **Dr Shazia Ruybal-Pesántez** from Imperial College London. 
+Our 03-04-2025 [meetup](https://www.meetup.com/rladies-melbourne/events/306510844/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2) with international speaker and R-Ladies Melbourne alum **Dr Shazia Ruybal-Pesántez** from Imperial College London.
 :::
 
-In this talk, Shazia showcased PGEforge (https://mrc-ide.github.io/PGEforge) — a new open-access platform designed to help researchers and decision-makers make sense of malaria genomic data. 
+In this talk, Shazia showcased PGEforge (https://mrc-ide.github.io/PGEforge) — a new open-access platform designed to help researchers and decision-makers make sense of malaria genomic data.
 
 While advances in sequencing and bioinformatics have opened up new ways to study malaria, turning that data into actionable insights remains a major hurdle. That’s where PGEforge comes in: it brings together standardized analysis workflows, software evaluations, and reproducible tutorials in one place. Born out of a collaborative PlasmoGenEpi network hackathon, the platform evaluated 40 tools, prioritized 22 for deeper review, and created tutorials for 10 key tools across 8 real-world use cases — all accessible via the site.
 
@@ -151,7 +177,7 @@ useR! is the main annual R conference where R users, developers, or simply R lov
 
 ## rstudio::global(2021) %\>% summarize()
 
-{{< video https://youtu.be/\_XjgnIrqN9k?si=N8DgHJXNg9TcNvqb >}}
+{{< video https://youtu.be/_XjgnIrqN9k?si=N8DgHJXNg9TcNvqb >}}
 
 ::: column-margin
 Our 15-04-2021 [meetup](https://www.meetup.com/rladies-melbourne/events/277467397/?eventOrigin=group_events_list) with **Shazia Ruybal-Pesántez**, a co-organizer and Secretary of R-Ladies Melbourne, Shazia is a postdoctoral scientist at the WEHI and Burnet Institute. She works on infectious diseases epidemiology, including malaria and COVID-19.
@@ -273,7 +299,7 @@ In the first lunch seminar, we will be covering non-parametric and semi-parametr
 
 ## More than Words: Text Analysis in R
 
-{{< video https://youtu.be/WOVwOQ5XhTI?si=HR81v-wSloY3-OU\_ >}}
+{{< video https://youtu.be/WOVwOQ5XhTI?si=HR81v-wSloY3-OU_ >}}
 
 ::: column-margin
 Our 17-04-2018 [meetup](https://www.meetup.com/rladies-melbourne/events/248749787/?eventOrigin=group_events_list) with **Maria Prokofieva**, a senior lecturer with Victoria University's College of Business.
@@ -285,7 +311,7 @@ We will start with a general principles of text analysis, including text pre-pro
 
 ## Parallelisation in R
 
-{{< video https://youtu.be/sXEn4M6YDOA?si=\_0PxISwrTYz5j1C2 >}}
+{{< video https://youtu.be/sXEn4M6YDOA?si=_0PxISwrTYz5j1C2 >}}
 
 ::: column-margin
 Our 15-03-2018 [meetup](https://www.meetup.com/rladies-melbourne/events/248205555/?eventOrigin=group_events_list) with **Soroor Hediyeh Zadeh**, a Research Assistant (RA) in the Davis laboratory at the Bioinformatics Division at the Walter and Eliza Hall Institute of Medical Research.
