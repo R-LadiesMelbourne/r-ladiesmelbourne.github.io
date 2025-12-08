@@ -10,22 +10,203 @@
 <atom:link href="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/blog_index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.7.32</generator>
-<lastBuildDate>Tue, 08 Jul 2025 14:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Nov 2025 13:00:00 GMT</lastBuildDate>
 <item>
-  <title>Meetup: 09 Jul 2025: Using Git for Version Control and Collaboration</title>
+  <title>R Dev Day in Melbourne!</title>
   <dc:creator>Dionne Argyropoulos</dc:creator>
-  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/09_07_25_event.html</link>
+  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_11_21_rdev.html</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/RLadiesMelb_090725_Flyer.png" class="img-fluid"></p>
+<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/2025_11_21_RDev.jpeg" class="img-fluid"></p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>Pao Corrales, Felicia Bongiovanni, Harriet Mason, Heather Turner, Dianne Cook, Dionne Argyropoulos, Minh Nguyen</p>
+</div></div><p>Last Friday, Dionne, Felicia, Harriet and Daidai from our committee had the chance to participate in R Dev Day organised by Dr Heather Turner, and what a fantastic experience it was! 🎉</p>
+<p>We spent the day coding alongside fellow R enthusiasts, not only in person in Melbourne, but also joining forces with amazing participants in Brisbane, Perth, and even internationally. 🌏</p>
+<p>It was inspiring to collaborate, share ideas, and contribute to the R community together. Events like this remind me how energising and supportive the open-source world can be.</p>
+<p>It was especially exciting to see such a great turnout of R-Ladies+ from R-Ladies Melbourne Inc, R-Ladies Amsterdam and R-Ladies Global!</p>
+<p>Already looking forward to the next one! 💜💻</p>
+<p>💜 Dionne on behalf of R-Ladies Melbourne</p>
+<p><a href="../blog_index.html">Back to our blog home page</a></p>
+
+
+
+ ]]></description>
+  <category>Event</category>
+  <category>R Package</category>
+  <category>R Dev Day</category>
+  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_11_21_rdev.html</guid>
+  <pubDate>Thu, 20 Nov 2025 13:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Meetup: 12 Nov 2025: R-Ladies at R Dev Days with Dr Heather Turner</title>
+  <dc:creator>Dionne Argyropoulos</dc:creator>
+  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_11_12_event.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/2025_11_12_Flyer.png" class="img-fluid"></p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>Sign up on the R-Ladies Melbourne <a href="https://www.meetup.com/rladies-melbourne/events/311618693/"><strong>meetup page</strong></a>.</p>
+<p>Time: Wed, Nov 12, 2025</p>
+<p>5:30 PM to 7:30 PM AEST</p>
+<p>Location: Monash City Campus (750 Collins Street, Docklands) and Online (Zoom)</p>
+</div></div><section id="about-the-event" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-event">About the Event</h2>
+<p>Under Heather’s research software engineering fellowship “Sustainability and EDI (Equality, Diversity, and Inclusion) in the R Project”, she has led the organisation of nine “R Dev Day”s, where R users work collaboratively on contributions to base R and to infrastructure that supports such contribution. Around 150 people have participated in these events, with good representation from groups that have historically been underrepresented in the contributor community, including women and gender minorities.</p>
+<p>In this talk, Heather will give some insight into the tasks that people have worked on at R Dev Days, highlighting some examples that R-Ladies have been involved in. It’s broader than you might think, including translation, dashboards, websites, the contributor guide, and CRAN utilities, as well as the code and documentation of base R. Heather will explain different ways to get involved, including joining the upcoming hybrid events at <a href="https://pretix.eu/r-contributors/r-dev-day-oz-25/">Monash University</a> and the <a href="https://pretix.eu/r-contributors/r-dev-day-nz-25/">University of Auckland</a>.</p>
+<p>There’ll also be food, drinks, and plenty of time to network with fellow attendees!</p>
+</section>
+<section id="speaker-dr-heather-turner" class="level2">
+<h2 class="anchored" data-anchor-id="speaker-dr-heather-turner">Speaker: Dr Heather Turner</h2>
+<p>Heather is a Research Software Engineering Fellow in the Statistics Department at the University of Warwick. In her fellowship, she is working on initiatives to improve sustainability and equality, diversity and inclusion in the R project. Heather has previously worked as a statistician for Pfizer and as a freelance statistical programming consultant. She has been an R user since 2001 and has co-authored several CRAN packages, notably the statistical modelling packages gnm, BradleyTerry2 and PlackettLuce. Heather is on the board of the R Foundation and chairs the R Contribution Working Group. She is also a leader of the Forwards taskforce for underrepresented groups and a co-organizer of R-Ladies Remote.</p>
+<p>We look forward to seeing you there!</p>
+<p>💜 Dionne on behalf of R-Ladies Melbourne</p>
+<p><a href="../blog_index.html">Back to our blog home page</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Event</category>
+  <category>R Package</category>
+  <category>R Dev Day</category>
+  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_11_12_event.html</guid>
+  <pubDate>Tue, 11 Nov 2025 13:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Meetup: 16 Oct 2025: R-Ladies &amp; SSA Melbourne Social Night: Happy 9th Birthday R-Ladies</title>
+  <dc:creator>Dionne Argyropoulos</dc:creator>
+  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_10_16_event_social.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="happy-9th-birthday-r-ladies-melbourne" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="happy-9th-birthday-r-ladies-melbourne">Happy 9th Birthday R-Ladies Melbourne 🎉</h2>
+<p>Come unwind and connect with like-minded people at a joint event with R-Ladies Melbourne and the Statistical Society of Australia!</p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>Sign up on the R-Ladies Melbourne <a href="https://www.meetup.com/rladies-melbourne/events/311337114"><strong>meetup page</strong></a>.</p>
+<p>Time: Thu, Oct 10, 2025</p>
+<p>5:30 PM to 7:30 PM AEST</p>
+<p>Location: Father’s Office (249 Lt Lonsdale St, Melbourne)</p>
+</div></div><p>Whether you’ve been to one of our events in the past or you’re just starting out, this evening will be about building community and getting to know each other better.</p>
+<p>Meet us at Father’s Office on Thursday 16th October for a casual meet up with good vibes and great company. Make sure to come on time to take advantage of the Father’s Office happy hour!</p>
+<p>We look forward to seeing you there.</p>
+<p>*Please note that food and drinks are not provided at this event and are at the attendee’s expense.</p>
+<p>💜 Dionne on behalf of R-Ladies Melbourne</p>
+<p><a href="../blog_index.html">Back to our blog home page</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Event</category>
+  <category>Social</category>
+  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_10_16_event_social.html</guid>
+  <pubDate>Wed, 15 Oct 2025 13:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Meetup: 18 Sept 2025: Plot Twist: Bringing Your ggplot2 Visuals to Life with ggplotly</title>
+  <dc:creator>Dionne Argyropoulos</dc:creator>
+  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_09_18_event.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/2025_09_18_Flyer.png" class="img-fluid"></p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>Sign up on the R-Ladies Melbourne <a href="https://www.meetup.com/rladies-melbourne/events/310808326/"><strong>meetup page</strong></a>.</p>
+<p>Time: Thu, Sept 18, 2025</p>
+<p>5:30 PM to 7:30 PM AEST</p>
+<p>Location: DiUS (3/31 Queen Street, Melbourne) and Online (Zoom)</p>
+</div></div><section id="about-the-event" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-event">About the Event</h2>
+<p>Transform your static R plots into interactive, engaging visual stories! In this hands-on workshop, we’ll take pre-organised ggplot2 code and show you how to enhance it with ggplotly, making your data come alive for presentations, dashboards, and reports.</p>
+<p>Through practical case studies, you’ll explore a variety of visualisations, learn why certain methods are best for different data types, and see how interactive features can add depth and clarity to your insights.</p>
+<p>Whether you prefer to follow along in R with the required packages installed or explore the concepts via Google Colab and copy the code once you get home, you’ll gain actionable tips to elevate your R visualisations—no matter your platform. By the end, you’ll be ready to make your data clickable, hoverable, and truly dynamic.</p>
+<p>There’ll also be food, drinks, and plenty of time to network with fellow attendees!</p>
+</section>
+<section id="speaker-dr-kirsty-mccann" class="level2">
+<h2 class="anchored" data-anchor-id="speaker-dr-kirsty-mccann">Speaker: Dr Kirsty McCann</h2>
+<p>Dr Kirsty McCann is an Associate Research Fellow working in malaria genomic epidemiology at Deakin University in Geelong. As a bioinformatician, Kirsty enjoys combining R coding, problem-solving, and infectious disease data analysis to answer a range of different research questions.</p>
+<p>We look forward to seeing you there!</p>
+<p>💜 Dionne on behalf of R-Ladies Melbourne</p>
+<p><a href="../blog_index.html">Back to our blog home page</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Event</category>
+  <category>ggplotly</category>
+  <category>R Package</category>
+  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_09_18_event.html</guid>
+  <pubDate>Wed, 17 Sep 2025 14:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Meetup: 14 Aug 2025: R-Ladies Social Night</title>
+  <dc:creator>Felicia Bongiovanni</dc:creator>
+  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_08_14_event_social.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="introducing-our-social-nights" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="introducing-our-social-nights">Introducing our Social Nights!</h2>
+<p>Come unwind and connect with like-minded people at our first R-Ladies Social Night! Whether you’ve been to one of our events in the past or you’re just starting out, this evening will be about building community and getting to know each other better.</p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>Sign up on the R-Ladies Melbourne <a href="https://www.meetup.com/rladies-melbourne/events/310287919/"><strong>meetup page</strong></a>.</p>
+<p>Time: Thu, Aug 14, 2025</p>
+<p>5:30 PM to 7:30 PM AEST</p>
+<p>Location: Father’s Office (249 Lt Lonsdale St, Melbourne)</p>
+</div></div><p>Meet us at Father’s Office on August 14 for a casual meet up with good vibes and great company. Make sure to come on time to take advantage of the Father’s Office happy hour!</p>
+<p>We look forward to seeing you there.</p>
+<p>*Please note that food and drinks are not provided at this event and are at the attendee’s expense.</p>
+<p>💜 Felicia on behalf of R-Ladies Melbourne</p>
+<p><a href="../blog_index.html">Back to our blog home page</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Event</category>
+  <category>Social</category>
+  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_08_14_event_social.html</guid>
+  <pubDate>Wed, 13 Aug 2025 14:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Meetup: 09 Jul 2025: Using Git for Version Control and Collaboration</title>
+  <dc:creator>Dionne Argyropoulos</dc:creator>
+  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_07_09_event.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/2025_07_09_Flyer.png" class="img-fluid"></p>
 
 <div class="no-row-height column-margin column-container"><div class="">
 <p>Sign up on the R-Ladies Melbourne <a href="https://www.meetup.com/rladies-melbourne/events/308624008/?utm_medium=referral&amp;utm_campaign=share-btn_savedevents_share_modal&amp;utm_source=link&amp;utm_version=v2"><strong>meetup page</strong></a>.</p>
-<p>Time: Wed, July 09, 2024</p>
+<p>Time: Wed, July 09, 2025</p>
 <p>5:30 PM to 7:30 PM AEST</p>
 <p>Location: DiUS (3/31 Queen Street, Melbourne) and Online (Zoom)</p>
 </div></div><section id="about-the-event" class="level2">
@@ -34,8 +215,8 @@
 <p>This presentation will give you an introduction to Git, the basics of how to use it, and some of its very helpful applications such as collaboration and code reproducibility. The focus will be on the use of Git in conjunction with Github (yes, these are two separate things!). This will help you to effectively use one of the most powerful tools available to you and give you more confidence to code freely without fear.</p>
 <p>There’ll also be food, drinks, and plenty of time to network with fellow attendees!</p>
 </section>
-<section id="speakers-felicia-bongiovanni" class="level2">
-<h2 class="anchored" data-anchor-id="speakers-felicia-bongiovanni">Speakers: Felicia Bongiovanni</h2>
+<section id="speaker-felicia-bongiovanni" class="level2">
+<h2 class="anchored" data-anchor-id="speaker-felicia-bongiovanni">Speaker: Felicia Bongiovanni</h2>
 <p>Felicia is a PhD candidate at The Walter and Eliza Hall Institute of Medical Research currently researching the immune response to several infectious diseases using mathematical modelling and code.</p>
 <p>We look forward to seeing you there!</p>
 <p>💜 Dionne on behalf of R-Ladies Melbourne</p>
@@ -48,20 +229,20 @@
   <category>Event</category>
   <category>Git</category>
   <category>Github</category>
-  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/09_07_25_event.html</guid>
+  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_07_09_event.html</guid>
   <pubDate>Tue, 08 Jul 2025 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Meetup: 28 May 2025: Creating simple websites with Quarto + GitHub Pages</title>
   <dc:creator>Kathleen Zeglinski</dc:creator>
-  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/28_05_25_event.html</link>
+  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_05_28_event.html</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/RLadiesMelb_280525_Flyer.png" class="img-fluid"></p>
+<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/2025_08_25_Flyer.png" class="img-fluid"></p>
 
 <div class="no-row-height column-margin column-container"><div class="">
 <p>Sign up on the R-Ladies Melbourne <a href="https://www.meetup.com/rladies-melbourne/events/307776181/?utm_medium=referral&amp;utm_campaign=share-btn_savedevents_share_modal&amp;utm_source=link&amp;utm_version=v2"><strong>meetup page</strong></a>.</p>
@@ -90,20 +271,20 @@
   <category>Quarto</category>
   <category>Workshop</category>
   <category>GitHub Pages</category>
-  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/28_05_25_event.html</guid>
+  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_05_28_event.html</guid>
   <pubDate>Tue, 27 May 2025 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Meetup: 06 May 2025: Cross-Chapter TidyTuesday</title>
   <dc:creator>Dionne Argyropoulos</dc:creator>
-  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_05_25_event.html</link>
+  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_05_06_event.html</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/RLadies_060525_Flyer.png" class="img-fluid"></p>
+<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/2025_05_06_Flyer.png" class="img-fluid"></p>
 
 <div class="no-row-height column-margin column-container"><div class="">
 <p>Sign up on the R-Ladies Sydney <a href="https://www.meetup.com/rladies-sydney/events/307276480/?eventOrigin=your_events"><strong>meetup page</strong></a>.</p>
@@ -129,20 +310,20 @@
  ]]></description>
   <category>Event</category>
   <category>TidyTuesday</category>
-  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_05_25_event.html</guid>
+  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_05_06_event.html</guid>
   <pubDate>Mon, 05 May 2025 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Meetup: 03 Apr 2025: PGEforge</title>
   <dc:creator>Dionne Argyropoulos</dc:creator>
-  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/27_03_25_event.html</link>
+  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_03_27_event.html</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/RLadiesMelb_030425_Flyer.png" class="img-fluid"></p>
+<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/2025_04_03_Flyer.png" class="img-fluid"></p>
 
 <div class="no-row-height column-margin column-container"><div class="">
 <p>Sign up on our <a href="https://www.meetup.com/rladies-melbourne/events/306510844/?eventOrigin=group_past_events"><strong>meetup page</strong></a>.</p>
@@ -170,20 +351,20 @@
   <category>Bioinformatics</category>
   <category>Pipeline</category>
   <category>Workflows</category>
-  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/27_03_25_event.html</guid>
+  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_03_27_event.html</guid>
   <pubDate>Wed, 26 Mar 2025 13:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Meetup: 26th Feb 2025: Inspiring the Next Generation: R-Ladies Melb at “It Takes A Spark” Conference</title>
   <dc:creator>Dionne Argyropoulos</dc:creator>
-  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/22_02_25_event_redu.html</link>
+  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_02_22_event_redu.html</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/RLadiesMelb_260225_Flyer.png" class="img-fluid"></p>
+<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/2025_02_26_Flyer.png" class="img-fluid"></p>
 
 <div class="no-row-height column-margin column-container"><div class="">
 <p>Sign up on our <a href="https://www.meetup.com/rladies-melbourne/events/306093929/?eventOrigin=group_upcoming_events"><strong>meetup page</strong></a>.</p>
@@ -211,20 +392,20 @@
   <category>Event</category>
   <category>Education</category>
   <category>R-Ladies Melbourne</category>
-  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/22_02_25_event_redu.html</guid>
+  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_02_22_event_redu.html</guid>
   <pubDate>Fri, 21 Feb 2025 13:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Meetup: 05th Dec 2024: End of Year Networking</title>
   <dc:creator>Dionne Argyropoulos</dc:creator>
-  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/25_11_25_event_EOY.html</link>
+  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2024_11_25_event_EOY.html</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/RLadiesMelb_051224_Flyer.png" class="img-fluid"></p>
+<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/2024_12_05_Flyer.png" class="img-fluid"></p>
 
 <div class="no-row-height column-margin column-container"><div class="">
 <p>Sign up on our <a href="https://www.meetup.com/rladies-melbourne/events/304646177/?eventOrigin=group_upcoming_events"><strong>meetup page</strong></a>.</p>
@@ -242,20 +423,20 @@
  ]]></description>
   <category>Event</category>
   <category>Networking</category>
-  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/25_11_25_event_EOY.html</guid>
+  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2024_11_25_event_EOY.html</guid>
   <pubDate>Sun, 24 Nov 2024 13:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Meetup: 20th Nov 2024: Leveraging the Power of Data in Sport</title>
   <dc:creator>Caitlin Bourke</dc:creator>
-  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_11_24_event.html</link>
+  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2024_11_06_event.html</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/RLadiesMelb_201124_Flyer.png" class="img-fluid"></p>
+<p><img src="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/images/2024_11_20_Flyer.png" class="img-fluid"></p>
 
 <div class="no-row-height column-margin column-container"><div class="">
 <p>Sign up on our <a href="https://www.meetup.com/rladies-melbourne/events/304124032/?eventOrigin=group_events_list"><strong>meetup page</strong></a>.</p>
@@ -279,13 +460,13 @@
   <category>Event</category>
   <category>Data Science</category>
   <category>AFL</category>
-  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_11_24_event.html</guid>
+  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2024_11_06_event.html</guid>
   <pubDate>Wed, 06 Nov 2024 13:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Welcome to Our Website 💜</title>
   <dc:creator>Dionne Argyropoulos</dc:creator>
-  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_11_24_welcome.html</link>
+  <link>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2024_11_06_welcome.html</link>
   <description><![CDATA[ 
 
 
@@ -310,7 +491,7 @@
  ]]></description>
   <category>Admin</category>
   <category>Code</category>
-  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/06_11_24_welcome.html</guid>
+  <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2024_11_06_welcome.html</guid>
   <pubDate>Tue, 05 Nov 2024 13:00:00 GMT</pubDate>
 </item>
 </channel>
