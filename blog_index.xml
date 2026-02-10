@@ -10,7 +10,7 @@
 <atom:link href="https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/blog_index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.7.32</generator>
-<lastBuildDate>Thu, 20 Nov 2025 13:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Nov 2025 14:00:00 GMT</lastBuildDate>
 <item>
   <title>R Dev Day in Melbourne!</title>
   <dc:creator>Dionne Argyropoulos</dc:creator>
@@ -40,7 +40,7 @@
   <category>R Package</category>
   <category>R Dev Day</category>
   <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_11_21_rdev.html</guid>
-  <pubDate>Thu, 20 Nov 2025 13:00:00 GMT</pubDate>
+  <pubDate>Thu, 20 Nov 2025 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Meetup: 12 Nov 2025: R-Ladies at R Dev Days with Dr Heather Turner</title>
@@ -80,7 +80,7 @@
   <category>R Package</category>
   <category>R Dev Day</category>
   <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_11_12_event.html</guid>
-  <pubDate>Tue, 11 Nov 2025 13:00:00 GMT</pubDate>
+  <pubDate>Tue, 11 Nov 2025 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Meetup: 16 Oct 2025: R-Ladies &amp; SSA Melbourne Social Night: Happy 9th Birthday R-Ladies</title>
@@ -115,7 +115,7 @@
   <category>Event</category>
   <category>Social</category>
   <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_10_16_event_social.html</guid>
-  <pubDate>Wed, 15 Oct 2025 13:00:00 GMT</pubDate>
+  <pubDate>Wed, 15 Oct 2025 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Meetup: 18 Sept 2025: Plot Twist: Bringing Your ggplot2 Visuals to Life with ggplotly</title>
@@ -352,7 +352,7 @@
   <category>Pipeline</category>
   <category>Workflows</category>
   <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_03_27_event.html</guid>
-  <pubDate>Wed, 26 Mar 2025 13:00:00 GMT</pubDate>
+  <pubDate>Wed, 26 Mar 2025 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Meetup: 26th Feb 2025: Inspiring the Next Generation: R-Ladies Melb at “It Takes A Spark” Conference</title>
@@ -393,7 +393,7 @@
   <category>Education</category>
   <category>R-Ladies Melbourne</category>
   <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2025_02_22_event_redu.html</guid>
-  <pubDate>Fri, 21 Feb 2025 13:00:00 GMT</pubDate>
+  <pubDate>Fri, 21 Feb 2025 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Meetup: 05th Dec 2024: End of Year Networking</title>
@@ -424,7 +424,7 @@
   <category>Event</category>
   <category>Networking</category>
   <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2024_11_25_event_EOY.html</guid>
-  <pubDate>Sun, 24 Nov 2024 13:00:00 GMT</pubDate>
+  <pubDate>Sun, 24 Nov 2024 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Meetup: 20th Nov 2024: Leveraging the Power of Data in Sport</title>
@@ -461,7 +461,7 @@
   <category>Data Science</category>
   <category>AFL</category>
   <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2024_11_06_event.html</guid>
-  <pubDate>Wed, 06 Nov 2024 13:00:00 GMT</pubDate>
+  <pubDate>Wed, 06 Nov 2024 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Welcome to Our Website 💜</title>
@@ -492,7 +492,7 @@
   <category>Admin</category>
   <category>Code</category>
   <guid>https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/posts/2024_11_06_welcome.html</guid>
-  <pubDate>Tue, 05 Nov 2024 13:00:00 GMT</pubDate>
+  <pubDate>Tue, 05 Nov 2024 14:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
