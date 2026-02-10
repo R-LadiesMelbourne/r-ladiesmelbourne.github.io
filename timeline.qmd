@@ -1,6 +1,5 @@
 ---
 title: "Our Legacy"
-toc:
 ---
 
 ## Timeline
@@ -649,6 +648,38 @@ R-Ladies Melbourne Organising Committee and Friends past and present in alphabet
 **Favourite R packages**: [tidyverse](https://www.tidyverse.org/), [rmarkdown](https://rmarkdown.rstudio.com/)
 
 **Biography**: Danyang Dai (Daidai) is a third-year PhD candidate at the Queensland Digital Health Centre (QDHeC) at The University of Queensland. Her research focuses on advancing population health outcomes in the post-COVID-19 era. With a strong academic background in Econometrics and Biostatistics, Daidai is also a passionate advocate for the R programming language. She has actively contributed to the academic and professional communities through her involvement with organizations such as R-Ladies Melbourne and by creating educational resources for R programming.
+:::
+::::::
+
+</details>
+
+<details open>
+
+<summary>Mei DU</summary>
+
+:::::: columns
+::: {.column .centre-align width="30%"}
+![](images/committee_profiles/Du_Mei.jpeg){.circular-image}
+
+**Current Position**: Research Assistant (Bioinformatics)\
+[<img src="images/bluesky-brands-solid.svg" alt="Bluesky" width="15" height="15" style="fill:#666666; margin-right: 5px;"/> <a href="https://bsky.app/profile/mei-du.bsky.social">Bluesky</a>]{style="display:inline-flex; align-items:center;"}\
+<i class="bi bi-github"></i> [Github](https://github.com/mei-du)\
+<i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/mei-du/)\
+<i class="bi bi-instagram"></i>[Instagram](https://www.instagram.com/diemspace/)\
+<i class="bi bi-twitter-x"></i> [Twitter/X](https://x.com/mei__du)\
+<i class="bi bi-envelope-fill"></i> [Email](dumeir@gmail.com)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+**What do you use R for?** Bioinformatics analysis, particularly of transcriptomics (bulk, single-cell, and spatial).
+
+**Favourite R packages**: [tidyverse](https://www.tidyverse.org/)
+
+**Biography**: Mei is a bioinformatician in Melbourne, Australia, dedicated to supporting medical research at MCRI by providing end-to-end biooinformatics analysis support.  Her scientific journey began with studying genetics, driven by the desire to dive deep into the instructions and mechanisms that shape us. She also enjoys communicating science and sharing her passion for slow fashion and sustain-able living.
 :::
 ::::::
 
