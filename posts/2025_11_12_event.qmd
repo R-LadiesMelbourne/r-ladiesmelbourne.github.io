@@ -1,0 +1,36 @@
+---
+title: "Meetup: 12 Nov 2025: R-Ladies at R Dev Days with Dr Heather Turner"
+author: "Dionne Argyropoulos"
+date: "2025-11-12"
+categories: [Event, R Package, R Dev Day]
+---
+
+![](images/2025_11_12_Flyer.png)
+
+::: column-margin
+Sign up on the R-Ladies Melbourne [**meetup page**](https://www.meetup.com/rladies-melbourne/events/311618693/).
+
+Time: Wed, Nov 12, 2025
+
+5:30 PM to 7:30 PM AEST
+
+Location: Monash City Campus (750 Collins Street, Docklands) and Online (Zoom)
+:::
+
+## About the Event
+
+Under Heather's research software engineering fellowship "Sustainability and EDI (Equality, Diversity, and Inclusion) in the R Project", she has led the organisation of nine "R Dev Day"s, where R users work collaboratively on contributions to base R and to infrastructure that supports such contribution. Around 150 people have participated in these events, with good representation from groups that have historically been underrepresented in the contributor community, including women and gender minorities.
+
+In this talk, Heather will give some insight into the tasks that people have worked on at R Dev Days, highlighting some examples that R-Ladies have been involved in. It's broader than you might think, including translation, dashboards, websites, the contributor guide, and CRAN utilities, as well as the code and documentation of base R. Heather will explain different ways to get involved, including joining the upcoming hybrid events at [Monash University](https://pretix.eu/r-contributors/r-dev-day-oz-25/) and the [University of Auckland](https://pretix.eu/r-contributors/r-dev-day-nz-25/).
+
+There’ll also be food, drinks, and plenty of time to network with fellow attendees!
+
+## Speaker: Dr Heather Turner
+
+Heather is a Research Software Engineering Fellow in the Statistics Department at the University of Warwick. In her fellowship, she is working on initiatives to improve sustainability and equality, diversity and inclusion in the R project. Heather has previously worked as a statistician for Pfizer and as a freelance statistical programming consultant. She has been an R user since 2001 and has co-authored several CRAN packages, notably the statistical modelling packages gnm, BradleyTerry2 and PlackettLuce. Heather is on the board of the R Foundation and chairs the R Contribution Working Group. She is also a leader of the Forwards taskforce for underrepresented groups and a co-organizer of R-Ladies Remote.
+
+We look forward to seeing you there!
+
+💜 Dionne on behalf of R-Ladies Melbourne
+
+[Back to our blog home page](../blog_index.qmd)

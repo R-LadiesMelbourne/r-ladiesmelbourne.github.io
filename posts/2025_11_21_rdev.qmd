@@ -1,0 +1,26 @@
+---
+title: "R Dev Day in Melbourne!"
+author: "Dionne Argyropoulos"
+date: "2025-11-21"
+categories: [Event, R Package, R Dev Day]
+---
+
+![](images/2025_11_21_RDev.jpeg)
+
+::: column-margin
+Pao Corrales, Felicia Bongiovanni, Harriet Mason, Heather Turner, Dianne Cook, Dionne Argyropoulos, Minh Nguyen
+:::
+
+Last Friday, Dionne, Felicia, Harriet and Daidai from our committee had the chance to participate in R Dev Day organised by Dr Heather Turner, and what a fantastic experience it was! 🎉
+
+We spent the day coding alongside fellow R enthusiasts, not only in person in Melbourne, but also joining forces with amazing participants in Brisbane, Perth, and even internationally. 🌏
+
+It was inspiring to collaborate, share ideas, and contribute to the R community together. Events like this remind me how energising and supportive the open-source world can be.
+
+It was especially exciting to see such a great turnout of R-Ladies+ from R-Ladies Melbourne Inc, R-Ladies Amsterdam and R-Ladies Global!
+
+Already looking forward to the next one! 💜💻
+
+💜 Dionne on behalf of R-Ladies Melbourne
+
+[Back to our blog home page](../blog_index.qmd)

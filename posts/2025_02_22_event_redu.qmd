@@ -1,0 +1,34 @@
+---
+title: "Meetup: 26th Feb 2025: Inspiring the Next Generation: R-Ladies Melb at “It Takes A Spark” Conference"
+author: "Dionne Argyropoulos"
+date: "2025-02-22"
+categories: [Event, Education, R-Ladies Melbourne]
+---
+
+![](images/2025_02_26_Flyer.png)
+
+::: column-margin
+Sign up on our [**meetup page**](https://www.meetup.com/rladies-melbourne/events/306093929/?eventOrigin=group_upcoming_events).
+
+Time: Wed, February 26, 2025
+
+5:30 PM to 6:30 PM AEDT
+
+Location: Online (Zoom Link Provided on Meetup)
+:::
+
+## Welcome to our first event for 2025!
+
+### About the Event:
+
+How do we spark curiosity in coding, data science, and epidemiology among high school students? For the last several years, R-Ladies Melbourne has been running an engaging and interactive 80-minute workshop at the It Takes A Spark STEM Education Conference, introducing students to R, data visualisation, the power of clear science communication and concepts in epidemiology.
+
+In this talk, Dionne will share insights from our experience delivering this workshop—how we designed it, the challenges we navigated, and the impact we've seen. We’ll also discuss key lessons learned, how we've adapted our approach, and our vision for the future of inspiring young minds in STEM.
+
+Whether you’re an educator, mentor, or simply passionate about making STEM more accessible, join us to explore how we can continue to empower the next generation of data scientists and communicators.
+
+See you there, R-Ladies Melbourne 💜
+
+### About the Speaker:
+
+Dionne is a molecular epidemiologist and population geneticist currently positioned at WEHI (Walter and Eliza Hall Institute). Dionne’s avid interest in genetics, evolution and coding led her to apply these approaches to studies of infectious diseases, such as Plasmodium falciparum malaria in her Masters of Science and PhD, to P. vivax malaria and various microbes in her current first post-doc position. The research topics of interest include drug or antimicrobial resistance, spatiotemporal trends, epidemiological statistics, statistical modelling and machine learning techniques, data wrangling and visualisation. Her work has involved international collaborations in West Africa, North America and Southeast Asia, as well as supervision and support of students, with various opportunities for knowledge exchange and capacity-building in coding and genetic epidemiology. Being an active member of the R-Ladies Melbourne community, and the current President, has led to the development of practical content (workshops and the website) and has motivated her to learn and develop new techniques.

@@ -1,0 +1,36 @@
+---
+title: "Meetup: 03 Apr 2025: PGEforge"
+author: "Dionne Argyropoulos"
+date: "2025-03-27"
+categories: [Event, Bioinformatics, Pipeline, Workflows]
+---
+
+![](images/2025_04_03_Flyer.png)
+
+::: column-margin
+Sign up on our [**meetup page**](https://www.meetup.com/rladies-melbourne/events/306510844/?eventOrigin=group_past_events).
+
+Time: Thurs, April 03, 2024
+
+6:00 PM to 7:00 PM AEST
+
+Location: Online (Zoom)
+:::
+
+## About the Event
+
+Major advances in sequencing technologies, bioinformatics pipelines, and data analysis tools have transformed our ability to study malaria transmission and parasite evolution, providing valuable insights into malaria epidemiology from parasite genomic data. However, translating this genomic data into actionable insights for national malaria control programs remains a challenge. Many existing tools lack standardized workflows, comprehensive documentation, or interoperability, making it difficult for researchers and decision-makers to extract meaningful information.
+
+To address this, Shazia and her team developed PGEforge (https://mrc-ide.github.io/PGEforge), a centralized, open-access repository for malaria genomic data analysis including analysis workflows, software evaluations, and reproducible tutorials. The Plasmodium Genomic Epidemiology (PlasmoGenEpi) network convened 18 experts to assess existing analysis tools, define key use cases for genomic data, and establish objective criteria for software evaluation. This initiative identified 40 Plasmodium genomic analysis tools with 22 prioritized for evaluation, defined eight key use cases for genomic data, and developed user-friendly reproducible tutorials for ten tools using shared datasets—all now accessible via PGEforge. Open-access platforms like PGEforge can empower researchers to adopt standardized practices and can help bridge the gap between genomic data generation, downstream analysis, and the effective use of these tools for malaria molecular surveillance towards actionable information for control programs.
+
+In this talk, Shazia will showcase the functionalities of PGEforge, including real-world applications of genomic data use cases and analysis workflows, our approach to reproducible tutorials, and how we built this community-driven resource at a hackathon event using Quarto!
+
+## About the Speaker
+
+Dr Shazia Ruybal-Pesántez is a genomic epidemiologist specializing in pathogen genomic epidemiology and its applications in malaria surveillance. Her research integrates population genetics, bioinformatics, and epidemiology to design analytical and statistical methods that enhance our understanding of malaria transmission dynamics. She is particularly interested in leveraging genomic data to optimize malaria surveillance strategies in response to emerging challenges such as increased localized outbreaks, drug resistance, and climate change. Through her work she aims to bridge the gap between data generation, analysis and real-world impact. She is also an avid R user (she is a former R-Ladies Melbourne president!) and is passionate about open science, training and capacity-building, and the development of accessible digital tools. She is also a consultant and instructor for Applied Epi, where she teaches applied epidemiologists and public health professionals to apply epidemiological methods using R.
+
+We look forward to seeing you there!
+
+💜 Dionne on behalf of R-Ladies Melbourne
+
+[Back to our blog home page](../blog_index.qmd)

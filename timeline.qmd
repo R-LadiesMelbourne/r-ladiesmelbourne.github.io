@@ -90,11 +90,67 @@ timeline
          : It Takes a Spark 2024 - Become A Disease Detective
          : Data in Sport Analytics
          : End-of-Year Networking Event 
-    2025 : Inspiring the Next Generation: R-Ladies Melb at “It Takes A Spark” Conference
+    2025 : Inspiring the Next Generation- R-Ladies Melb at "It Takes A Spark" Conference
+         : PGEforge-towards an open analysis ecosystem for malaria genomic epidemiology
+         : Cross-chapter TidyTuesday with R-Ladies
+         : Creating simple websites with Quarto + GitHub Pages
+         : Using Git for Version Control and Collaboration
+         : R-Ladies Social Night
+         : Plot Twist - Bringing Your ggplot2 Visuals to Life with ggplotly
+         : It Takes a Spark 2025 - Become A Disease Detective
+         : R-Ladies & SSA Melbourne Social Night: Happy 9th Birthday R-Ladies
+         : R-Ladies at R Dev Days with Dr Heather Turner
+         : End-of-Year Networking Event 
 ```
 :::
 
 ## Our Organising Committees
+
+### 2025-26
+
+:::::: two-column-layout
+::::: {style="display: flex;"}
+<!-- Image Column -->
+
+::: {style="flex: 1; padding: 10px;"}
+![](images/committee_25_26.png){width="100%"}
+:::
+
+<!-- Text Column -->
+
+::: {style="flex: 1; padding: 10px;"}
+**Meetups Hosted**:
+
+-   [Cross-chapter TidyTuesday with R-Ladies](https://www.meetup.com/rladies-sydney/events/307276480/?eventOrigin=your_events).
+-   [Creating simple websites with Quarto + GitHub Pages](https://github.com/R-LadiesMelbourne/28-05-25-Creating-simple-websites-with-Quarto-GitHub-Pages)
+-   [Using Git for Version Control and Collaboration](https://github.com/R-LadiesMelbourne/09-07-2025-Using-Git-for-Version-Control-and-Collaboration)
+-   [R-Ladies Social Night](https://www.meetup.com/rladies-melbourne/events/310287919/)
+-   [Plot Twist - Bringing Your ggplot2 Visuals to Life with ggplotly](https://www.meetup.com/rladies-melbourne/events/310808326/)
+-   [It Takes a Spark 2025 - Become A Disease Detective](https://github.com/R-LadiesMelbourne/23-10-25-It-Takes-A-Spark)
+-   [R-Ladies & SSA Melbourne Social Night: Happy 9th Birthday R-Ladies](https://www.meetup.com/rladies-melbourne/events/311337114/)
+-   [R-Ladies at R Dev Days with Dr Heather Turner](https://www.meetup.com/rladies-melbourne/events/311618693/)
+-   [End-of-Year Networking Event](https://www.meetup.com/rladies-melbourne/events/311618784/)
+:::
+:::::
+::::::
+
+::: column-margin
+**Committee Members**:
+
+-   Dionne Argyropoulos (President)
+-   Danyang Dai (Daidai) (Vice President)
+-   Sehrish Kanwal (Secretary)
+-   Kathleen Zeglinski (Treasurer)
+-   Caitlin Bourke
+-   Lauren Smith
+-   Belen Prado
+-   Cecilia Rios Teran
+-   Felicia Bongiovanni
+-   Harriet Mason
+-   Kirsty McCann
+-   Mansi Aggarwal
+-   Megan Soria
+:::
 
 ### 2024-25
 
@@ -116,6 +172,7 @@ timeline
 -   [Data in Sport Analytics](https://github.com/R-LadiesMelbourne/20-11-24-Leveraging-the-Power-of-Data-in-Sport/tree/main).
 -   [End of Year Networking Event](https://www.meetup.com/rladies-melbourne/events/304646177/?eventOrigin=group_past_events)
 -   [Inspiring the Next Generation: R-Ladies Melb at “It Takes A Spark” Conference](https://github.com/R-LadiesMelbourne/26-2-25-Inspiring-the-Next-Generation)
+-   [PGEforge: towards an open analysis ecosystem for malaria genomic epidemiology](https://github.com/shaziaruybal/pgeforge_rladiesmelb)
 :::
 :::::
 ::::::
@@ -479,7 +536,7 @@ timeline
 -   Sooror Zadeh
 :::
 
-::::::::::::::::::::::::::::::::::::::::::::::: column-page
+::::::::::::::::::::::::::::::::::::::::::::::::::::::: column-page
 ## Committee Member Profiles
 
 R-Ladies Melbourne Organising Committee and Friends past and present in alphabetical order.
@@ -520,7 +577,7 @@ R-Ladies Melbourne Organising Committee and Friends past and present in alphabet
 ![](images/committee_profiles/Argyropoulos_Dionne.png){.circular-image}
 
 **Current Position**: Research Officer at WEHI\
-[ <img src="images/bluesky-brands-solid.svg" alt="Bluesky" width="15" height="15" style="fill:#666666; margin-right: 5px;"/> <a href="https://bsky.app/profile/dionnecargy.bsky.social">Bluesky</a> ]{style="display:inline-flex; align-items:center;"}\
+[<img src="images/bluesky-brands-solid.svg" alt="Bluesky" width="15" height="15" style="fill:#666666; margin-right: 5px;"/> <a href="https://bsky.app/profile/dionnecargy.bsky.social">Bluesky</a>]{style="display:inline-flex; align-items:center;"}\
 <i class="bi bi-github"></i> [Github](https://github.com/dionnecargy)\
 <i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/dionneargy/)\
 <i class="bi bi-envelope-fill"></i> [Email](argyropoulos.d@wehi.edu.au)
@@ -576,7 +633,7 @@ R-Ladies Melbourne Organising Committee and Friends past and present in alphabet
 ![](images/committee_profiles/Dai_Danyang.png){.circular-image}
 
 **Current Position**: PhD Student at Queensland Digital Health Centre, The University of Queensland\
-[ <img src="images/bluesky-brands-solid.svg" alt="Bluesky" width="15" height="15" style="fill:#666666; margin-right: 5px;"/> <a href="https://bsky.app/profile/danyang.dai.bsky.social">Bluesky</a> ]{style="display:inline-flex; align-items:center;"}\
+[<img src="images/bluesky-brands-solid.svg" alt="Bluesky" width="15" height="15" style="fill:#666666; margin-right: 5px;"/> <a href="https://bsky.app/profile/danyang.dai.bsky.social">Bluesky</a>]{style="display:inline-flex; align-items:center;"}\
 <i class="bi bi-github"></i> [Github](https://github.com/DanyangDai)\
 <i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/danyang-dai-7529b4152/)
 :::
@@ -598,14 +655,46 @@ R-Ladies Melbourne Organising Committee and Friends past and present in alphabet
 
 <details open>
 
+<summary>Mei DU</summary>
+
+:::::: columns
+::: {.column .centre-align width="30%"}
+![](images/committee_profiles/Du_Mei.jpeg){.circular-image}
+
+**Current Position**: Research Assistant (Bioinformatics)\
+[<img src="images/bluesky-brands-solid.svg" alt="Bluesky" width="15" height="15" style="fill:#666666; margin-right: 5px;"/> <a href="https://bsky.app/profile/mei-du.bsky.social">Bluesky</a>]{style="display:inline-flex; align-items:center;"}\
+<i class="bi bi-github"></i> [Github](https://github.com/mei-du)\
+<i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/mei-du/)\
+<i class="bi bi-instagram"></i>[Instagram](https://www.instagram.com/diemspace/)\
+<i class="bi bi-twitter-x"></i> [Twitter/X](https://x.com/mei__du)\
+<i class="bi bi-envelope-fill"></i> [Email](dumeir@gmail.com)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+**What do you use R for?** Bioinformatics analysis, particularly of transcriptomics (bulk, single-cell, and spatial).
+
+**Favourite R packages**: [tidyverse](https://www.tidyverse.org/)
+
+**Biography**: Mei is a bioinformatician in Melbourne, Australia, dedicated to supporting medical research at MCRI by providing end-to-end biooinformatics analysis support.  Her scientific journey began with studying genetics, driven by the desire to dive deep into the instructions and mechanisms that shape us. She also enjoys communicating science and sharing her passion for slow fashion and sustain-able living.
+:::
+::::::
+
+</details>
+
+<details open>
+
 <summary>Saskia FREYTAG</summary>
 
 :::::: columns
 ::: {.column .centre-align width="30%"}
 ![](images/committee_profiles/Freytag_Saskia.png){.circular-image}
 
-**Current Position**: Lab Head \
-[ <img src="images/bluesky-brands-solid.svg" alt="Bluesky" width="15" height="15" style="fill:#666666; margin-right: 5px;"/> <a href="https://bsky.app/profile/saskiafreytag.bsky.social">Bluesky</a> ]{style="display:inline-flex; align-items:center;"}\
+**Current Position**: Lab Head\
+[<img src="images/bluesky-brands-solid.svg" alt="Bluesky" width="15" height="15" style="fill:#666666; margin-right: 5px;"/> <a href="https://bsky.app/profile/saskiafreytag.bsky.social">Bluesky</a>]{style="display:inline-flex; align-items:center;"}\
 :::
 
 ::: {.column width="10%"}
@@ -713,7 +802,6 @@ Roxane completed a Master of Science ("Informatics and Bioinformatics") in Franc
 
 </details open>
 
-
 <details open>
 
 <summary>Shazia RUYBAL-PESÁNTEZ</summary>
@@ -723,7 +811,7 @@ Roxane completed a Master of Science ("Informatics and Bioinformatics") in Franc
 ![](images/committee_profiles/Ruybal_Shazia.jpg){.circular-image}
 
 **Current Position**: Research Associate in Malaria Genomic Epidemiology, Imperial College London\
-[ <img src="images/bluesky-brands-solid.svg" alt="Bluesky" width="15" height="15" style="fill:#666666; margin-right: 5px;"/> <a href="https://bsky.app/profile/drshaziaruybal.bsky.social">Bluesky</a> ]{style="display:inline-flex; align-items:center;"}\
+[<img src="images/bluesky-brands-solid.svg" alt="Bluesky" width="15" height="15" style="fill:#666666; margin-right: 5px;"/> <a href="https://bsky.app/profile/drshaziaruybal.bsky.social">Bluesky</a>]{style="display:inline-flex; align-items:center;"}\
 <i class="bi bi-github"></i> [Github](https://www.github.com/shaziaruybal)\
 <i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/shazia-ruybal-pesantez/)
 :::
@@ -733,13 +821,13 @@ Roxane completed a Master of Science ("Informatics and Bioinformatics") in Franc
 :::
 
 ::: {.column width="60%"}
-**What do you use R for?** Pretty much everything! From data cleaning to modeling, to R packages and shiny apps, to websites! 
+**What do you use R for?** Pretty much everything! From data cleaning to modeling, to R packages and shiny apps, to websites!
 
 **Favourite R packages**: [rmarkdown](https://rmarkdown.rstudio.com/index.html), [tidyverse](https://www.tidyverse.org/), [gt](https://gt.rstudio.com/)
 
-**Biography**: Dr Shazia Ruybal-Pesántez is a genomic epidemiologist specializing in pathogen genomic epidemiology and its applications in malaria surveillance. Her research integrates population genetics, bioinformatics, and epidemiology to design analytical and statistical methods that enhance our understanding of malaria transmission dynamics. She is particularly interested in leveraging genomic data to optimize malaria surveillance strategies in response to emerging challenges such as increased localized outbreaks, drug resistance, and climate change. Through her work she aims to bridge the gap between data generation, analysis and real-world impact. 
+**Biography**: Dr Shazia Ruybal-Pesántez is a genomic epidemiologist specializing in pathogen genomic epidemiology and its applications in malaria surveillance. Her research integrates population genetics, bioinformatics, and epidemiology to design analytical and statistical methods that enhance our understanding of malaria transmission dynamics. She is particularly interested in leveraging genomic data to optimize malaria surveillance strategies in response to emerging challenges such as increased localized outbreaks, drug resistance, and climate change. Through her work she aims to bridge the gap between data generation, analysis and real-world impact.
 
-She is also an avid R user (she is a former R-Ladies Melbourne president!) and is passionate about open science, training and capacity-building, and the development of accessible digital tools. She is also a consultant and instructor for Applied Epi, where she teaches applied epidemiologists and public health professionals to apply epidemiological methods using R. 
+She is also an avid R user (she is a former R-Ladies Melbourne president!) and is passionate about open science, training and capacity-building, and the development of accessible digital tools. She is also a consultant and instructor for Applied Epi, where she teaches applied epidemiologists and public health professionals to apply epidemiological methods using R.
 :::
 ::::::
 
@@ -859,4 +947,4 @@ I am particularly concerned by the low rate of female participation in STEM and 
 ::::::
 
 </details>
-:::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::

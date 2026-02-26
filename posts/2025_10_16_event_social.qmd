@@ -1,0 +1,32 @@
+---
+title: "Meetup: 16 Oct 2025: R-Ladies & SSA Melbourne Social Night: Happy 9th Birthday R-Ladies"
+author: "Dionne Argyropoulos"
+date: "2025-10-16"
+categories: [Event, Social]
+---
+
+## Happy 9th Birthday R-Ladies Melbourne 🎉
+
+Come unwind and connect with like-minded people at a joint event with R-Ladies Melbourne and the Statistical Society of Australia!
+
+::: column-margin
+Sign up on the R-Ladies Melbourne [**meetup page**](https://www.meetup.com/rladies-melbourne/events/311337114).
+
+Time: Thu, Oct 10, 2025
+
+5:30 PM to 7:30 PM AEST
+
+Location: Father's Office (249 Lt Lonsdale St, Melbourne)
+:::
+
+Whether you’ve been to one of our events in the past or you’re just starting out, this evening will be about building community and getting to know each other better.
+
+Meet us at Father’s Office on Thursday 16th October for a casual meet up with good vibes and great company. Make sure to come on time to take advantage of the Father’s Office happy hour!
+
+We look forward to seeing you there.
+
+\*Please note that food and drinks are not provided at this event and are at the attendee’s expense.
+
+💜 Dionne on behalf of R-Ladies Melbourne
+
+[Back to our blog home page](../blog_index.qmd)

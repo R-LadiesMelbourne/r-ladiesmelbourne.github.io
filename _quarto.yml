@@ -32,6 +32,8 @@ website:
             text: It Takes a Spark
           - href: outputs/eoy2024.qmd
             text: 2024 End of Year Event
+          - href: outputs/eoy2025.qmd
+            text: 2025 End of Year Event
       - href: videos.qmd
         text: Our Videos
       - href: resources.qmd
@@ -57,7 +59,7 @@ website:
   #repo-url: https://github.com/quarto-dev/quarto-demo follow this tutorial here: https://quarto.org/docs/websites/website-navigation.html#github-links
   #repo-actions: [edit, source, issue]
   page-footer: 
-    left: "Copyright 2024, R-Ladies Melbourne"
+    left: "Copyright 2025, R-Ladies Melbourne"
     right: 
       - text: "{{< iconify fa6-brands bluesky >}}"
         href: https://bsky.app/profile/rladiesmelb.bsky.social
