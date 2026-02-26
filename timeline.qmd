@@ -536,7 +536,7 @@ timeline
 -   Sooror Zadeh
 :::
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::: column-page
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: column-page
 ## Committee Member Profiles
 
 R-Ladies Melbourne Organising Committee and Friends past and present in alphabetical order.
@@ -679,7 +679,7 @@ R-Ladies Melbourne Organising Committee and Friends past and present in alphabet
 
 **Favourite R packages**: [tidyverse](https://www.tidyverse.org/)
 
-**Biography**: Mei is a bioinformatician in Melbourne, Australia, dedicated to supporting medical research at MCRI by providing end-to-end biooinformatics analysis support.  Her scientific journey began with studying genetics, driven by the desire to dive deep into the instructions and mechanisms that shape us. She also enjoys communicating science and sharing her passion for slow fashion and sustain-able living.
+**Biography**: Mei is a bioinformatician in Melbourne, Australia, dedicated to supporting medical research at MCRI by providing end-to-end biooinformatics analysis support. Her scientific journey began with studying genetics, driven by the desire to dive deep into the instructions and mechanisms that shape us. She also enjoys communicating science and sharing her passion for slow fashion and sustain-able living.
 :::
 ::::::
 
@@ -797,6 +797,34 @@ Roxane completed a Master of Science ("Informatics and Bioinformatics") in Franc
 **Favourite R packages**: [edgeR](https://bioconductor.org/packages/release/bioc/html/edgeR.html)
 
 **Biography**: I'm currently a software engineer working on open source scientific software. I got my start doing some bioinformatics during my research Masters and have really enjoyed developing software to help scientists!
+:::
+::::::
+
+</details open>
+
+<details open>
+
+<summary>Kirsty McCANN</summary>
+
+:::::: columns
+::: {.column .centre-align width="30%"}
+![](images/committee_profiles/McCann_Kirsty.jpg){.circular-image}
+
+**Current Position**: Research Fellow at Deakin University\
+<i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/dr-kirsty-mccann-ab27abb0/)\
+<i class="bi bi-github"></i> [Github](https://github.com/KirstyMcCann)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+**What do you use R for?** Generating figures for publication, visualisation, bioinformatics, statistics, population genetics, data wrangling
+
+**Favourite R packages**: [tidyverse](https://www.tidyverse.org/), [ggplot2](https://ggplot2.tidyverse.org/)
+
+**Biography**: Kirsty is a bioinformatician and genomic epidemiology Research Fellow based at Deakin University in the Centre for Innovation in Infectious Disease and Immunology Research (CIIDIR) within the School of Medicine in Geelong. Kirsty is passionate about streamlining analyses and reproducibility. Many of the population genetic analyses are data visualisation is completed using various R packages. Specifically, her current research focuses on using genetics and population genomics to understand malaria parasite transmission and diversity across malaria endemic countries including Papua New Guinea, Cambodia and Africa. As a bioinformatician, she has expertise in big data analysis and complex population analyses to explore malaria epidemiology and additionally other parasites and bacteria. Kirsty is also passionate in teaching analysis methods and capacity strengthening.
 :::
 ::::::
 
@@ -947,4 +975,4 @@ I am particularly concerned by the low rate of female participation in STEM and 
 ::::::
 
 </details>
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
