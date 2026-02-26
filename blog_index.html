@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,18 +37,19 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-707d8167ce6003fca903bfe2be84ab7f.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-f2e8aa17e86b7de51aa62fe8e6485999.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-119daffc87241a4178e5ce3c37924e8f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-f2e8aa17e86b7de51aa62fe8e6485999.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-0ed3833ee1a9cd5d687dbd118105c3bb.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-29dc190edf64f6ccce802e1b169f2b20.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-0ed3833ee1a9cd5d687dbd118105c3bb.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -148,7 +149,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -337,6 +338,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">R-Ladies Melbourne Inc.</span>
     </a>
@@ -484,7 +487,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="RXZlbnQlMkNSJTIwUGFja2FnZSUyQ1IlMjBEZXYlMjBEYXk=" data-listing-date-sort="1763647200000" data-listing-file-modified-sort="1765190218747" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="139">
+<div class="quarto-post image-right" data-index="0" data-categories="RXZlbnQlMkNSJTIwUGFja2FnZSUyQ1IlMjBEZXYlMjBEYXk=" data-listing-date-sort="1763643600000" data-listing-file-modified-sort="1772066648189" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="139">
 <div class="thumbnail"><a href="./posts/2025_11_21_rdev.html" class="no-external">
 
 <p class="card-img-top"><img src="posts/images/2025_11_21_RDev.jpeg"  class="thumbnail-image card-img"/></p>
@@ -518,7 +521,7 @@ Dionne Argyropoulos
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="RXZlbnQlMkNSJTIwUGFja2FnZSUyQ1IlMjBEZXYlMjBEYXk=" data-listing-date-sort="1762869600000" data-listing-file-modified-sort="1765190017520" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="316">
+<div class="quarto-post image-right" data-index="1" data-categories="RXZlbnQlMkNSJTIwUGFja2FnZSUyQ1IlMjBEZXYlMjBEYXk=" data-listing-date-sort="1762866000000" data-listing-file-modified-sort="1772066648189" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="316">
 <div class="thumbnail"><a href="./posts/2025_11_12_event.html" class="no-external">
 
 <p class="card-img-top"><img src="posts/images/2025_11_12_Flyer.png"  class="thumbnail-image card-img"/></p>
@@ -552,7 +555,7 @@ Dionne Argyropoulos
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="RXZlbnQlMkNTb2NpYWw=" data-listing-date-sort="1760536800000" data-listing-file-modified-sort="1765190522306" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="141">
+<div class="quarto-post image-right" data-index="2" data-categories="RXZlbnQlMkNTb2NpYWw=" data-listing-date-sort="1760533200000" data-listing-file-modified-sort="1772066648189" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="141">
 <div class="thumbnail"><a href="./posts/2025_10_16_event_social.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -584,7 +587,7 @@ Dionne Argyropoulos
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="RXZlbnQlMkNnZ3Bsb3RseSUyQ1IlMjBQYWNrYWdl" data-listing-date-sort="1758117600000" data-listing-file-modified-sort="1765189653655" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="222">
+<div class="quarto-post image-right" data-index="3" data-categories="RXZlbnQlMkNnZ3Bsb3RseSUyQ1IlMjBQYWNrYWdl" data-listing-date-sort="1758117600000" data-listing-file-modified-sort="1772066648188" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="222">
 <div class="thumbnail"><a href="./posts/2025_09_18_event.html" class="no-external">
 
 <p class="card-img-top"><img src="posts/images/2025_09_18_Flyer.png"  class="thumbnail-image card-img"/></p>
@@ -618,7 +621,7 @@ Dionne Argyropoulos
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="RXZlbnQlMkNTb2NpYWw=" data-listing-date-sort="1755093600000" data-listing-file-modified-sort="1765190517789" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="134">
+<div class="quarto-post image-right" data-index="4" data-categories="RXZlbnQlMkNTb2NpYWw=" data-listing-date-sort="1755093600000" data-listing-file-modified-sort="1772066648188" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="134">
 <div class="thumbnail"><a href="./posts/2025_08_14_event_social.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -650,7 +653,7 @@ Felicia Bongiovanni
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="RXZlbnQlMkNHaXQlMkNHaXRodWI=" data-listing-date-sort="1751983200000" data-listing-file-modified-sort="1765189663268" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="203">
+<div class="quarto-post image-right" data-index="5" data-categories="RXZlbnQlMkNHaXQlMkNHaXRodWI=" data-listing-date-sort="1751983200000" data-listing-file-modified-sort="1772066648188" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="203">
 <div class="thumbnail"><a href="./posts/2025_07_09_event.html" class="no-external">
 
 <p class="card-img-top"><img src="posts/images/2025_07_09_Flyer.png"  class="thumbnail-image card-img"/></p>
@@ -684,7 +687,7 @@ Dionne Argyropoulos
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="RXZlbnQlMkNRdWFydG8lMkNXb3Jrc2hvcCUyQ0dpdEh1YiUyMFBhZ2Vz" data-listing-date-sort="1748354400000" data-listing-file-modified-sort="1765189759936" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="290">
+<div class="quarto-post image-right" data-index="6" data-categories="RXZlbnQlMkNRdWFydG8lMkNXb3Jrc2hvcCUyQ0dpdEh1YiUyMFBhZ2Vz" data-listing-date-sort="1748354400000" data-listing-file-modified-sort="1772066648187" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="290">
 <div class="thumbnail"><a href="./posts/2025_05_28_event.html" class="no-external">
 
 <p class="card-img-top"><img src="posts/images/2025_08_25_Flyer.png"  class="thumbnail-image card-img"/></p>
@@ -720,7 +723,7 @@ Kathleen Zeglinski
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="RXZlbnQlMkNUaWR5VHVlc2RheQ==" data-listing-date-sort="1746453600000" data-listing-file-modified-sort="1765189746668" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="172">
+<div class="quarto-post image-right" data-index="7" data-categories="RXZlbnQlMkNUaWR5VHVlc2RheQ==" data-listing-date-sort="1746453600000" data-listing-file-modified-sort="1772066648187" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="172">
 <div class="thumbnail"><a href="./posts/2025_05_06_event.html" class="no-external">
 
 <p class="card-img-top"><img src="posts/images/2025_05_06_Flyer.png"  class="thumbnail-image card-img"/></p>
@@ -752,7 +755,7 @@ Dionne Argyropoulos
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="RXZlbnQlMkNCaW9pbmZvcm1hdGljcyUyQ1BpcGVsaW5lJTJDV29ya2Zsb3dz" data-listing-date-sort="1742997600000" data-listing-file-modified-sort="1765189723301" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="412">
+<div class="quarto-post image-right" data-index="8" data-categories="RXZlbnQlMkNCaW9pbmZvcm1hdGljcyUyQ1BpcGVsaW5lJTJDV29ya2Zsb3dz" data-listing-date-sort="1742994000000" data-listing-file-modified-sort="1772066648187" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="412">
 <div class="thumbnail"><a href="./posts/2025_03_27_event.html" class="no-external">
 
 <p class="card-img-top"><img src="posts/images/2025_04_03_Flyer.png"  class="thumbnail-image card-img"/></p>
@@ -788,7 +791,7 @@ Dionne Argyropoulos
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="RXZlbnQlMkNFZHVjYXRpb24lMkNSLUxhZGllcyUyME1lbGJvdXJuZQ==" data-listing-date-sort="1740146400000" data-listing-file-modified-sort="1765189713008" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="319">
+<div class="quarto-post image-right" data-index="9" data-categories="RXZlbnQlMkNFZHVjYXRpb24lMkNSLUxhZGllcyUyME1lbGJvdXJuZQ==" data-listing-date-sort="1740142800000" data-listing-file-modified-sort="1772066648186" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="319">
 <div class="thumbnail"><a href="./posts/2025_02_22_event_redu.html" class="no-external">
 
 <p class="card-img-top"><img src="posts/images/2025_02_26_Flyer.png"  class="thumbnail-image card-img"/></p>
@@ -822,7 +825,7 @@ Dionne Argyropoulos
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-categories="RXZlbnQlMkNOZXR3b3JraW5n" data-listing-date-sort="1732456800000" data-listing-file-modified-sort="1765189701905" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="148">
+<div class="quarto-post image-right" data-index="10" data-categories="RXZlbnQlMkNOZXR3b3JraW5n" data-listing-date-sort="1732453200000" data-listing-file-modified-sort="1772066648186" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="148">
 <div class="thumbnail"><a href="./posts/2024_11_25_event_EOY.html" class="no-external">
 
 <p class="card-img-top"><img src="posts/images/2024_12_05_Flyer.png"  class="thumbnail-image card-img"/></p>
@@ -854,7 +857,7 @@ Dionne Argyropoulos
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="RXZlbnQlMkNEYXRhJTIwU2NpZW5jZSUyQ0FGTA==" data-listing-date-sort="1730901600000" data-listing-file-modified-sort="1765189685579" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="334">
+<div class="quarto-post image-right" data-index="11" data-categories="RXZlbnQlMkNEYXRhJTIwU2NpZW5jZSUyQ0FGTA==" data-listing-date-sort="1730898000000" data-listing-file-modified-sort="1772066648184" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="334">
 <div class="thumbnail"><a href="./posts/2024_11_06_event.html" class="no-external">
 
 <p class="card-img-top"><img src="posts/images/2024_11_20_Flyer.png"  class="thumbnail-image card-img"/></p>
@@ -888,7 +891,7 @@ Caitlin Bourke
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="12" data-categories="QWRtaW4lMkNDb2Rl" data-listing-date-sort="1730815200000" data-listing-file-modified-sort="1731215977112" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="83">
+<div class="quarto-post image-right" data-index="12" data-categories="QWRtaW4lMkNDb2Rl" data-listing-date-sort="1730811600000" data-listing-file-modified-sort="1772066648186" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="83">
 <div class="thumbnail"><a href="./posts/2024_11_06_welcome.html" class="no-external">
 
 <p class="card-img-top"><img src="posts/images/rladiesmelblogo.png"  class="thumbnail-image card-img"/></p>
@@ -987,13 +990,14 @@ Dionne Argyropoulos
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -1008,7 +1012,7 @@ Dionne Argyropoulos
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/R-LadiesMelbourne\.github\.io\/rladiesmelbwebsite\/");
+        var filterRegex = new RegExp("https:\/\/R-LadiesMelbourne\.github\.io\/r-ladiesmelbourne\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
