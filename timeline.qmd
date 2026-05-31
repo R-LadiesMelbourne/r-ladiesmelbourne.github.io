@@ -1,110 +1,162 @@
 ---
 title: "Our Legacy"
+filters:
+  - timeline
 ---
 
-## Timeline
+## History of R-Ladies Melbourne Inc.
 
-::: column-screen-inset-shaded
-```{mermaid}
-%%{init: { 'logLevel': 'debug', 'theme': 'default', 'themeVariables': { 
-    'fontFamily': 'Helvetica, Arial, sans-serif',
-    'cScale0': '#88398A', 'cScale1': '#e1b9e2','cScale2': '#88398A','cScale3': '#e1b9e2',
-    'cScaleLabel0': '#ffffff', 'cScaleLabel1': '#000000', 'cScaleLabel2': '#ffffff', 'cScaleLabel3': '#000000'
-} } }%%
+A timeline of this organisation, generated with the [`quarto-timeline`](https://emilhvitfeldt.github.io/quarto-timeline/) extension developed by Emil Hvitfeldt.
 
-timeline
-    title History of R-Ladies Melbourne Inc. 
+::: {.timeline .vertical .tl-label-banner}
+::: {.event data-label="2012" style="--tl-color-accent: #88398A;"}
+**R-Ladies Founded**
+in San Francisco by Gabriela de Queiroz 💜
+:::
+::: {.event data-label="18-Oct-2016" style="--tl-color-accent: #88398A;"}
+**R-Ladies Melbourne Launched**
+by Göknur Giner, Sepideh Foroutan, Saskia Freytag, Roxane Legale, Alexandra Graham, Anna Quaglieri, Sooror Zadeh 🚀
 
-    section Our Foundation
-    2012 : R-Ladies founded in San Francisco by Gabriela de Queiroz 💜
-    2016 : 18th October - R-Ladies Melbourne Launched 🚀
+![](images/rladiesmelblogo.png){width=100 height=100}
+:::
+::: {.event data-label="2017" style="--tl-color-accent: #e1b9e2;"}
+**2017 Meetups**
 
-    section Our Meetups
-    2017 : R Notebooks and Interactive Graphs
-         : Git and GitHub Workshop
-         : Twitter Workshop
-         : Web Scraping and Sports Analytics
-         : Build Neural Network with R
-         : mixOmics Combine Large Scale Datasets
-         : Introduction to R Workshop
-         : Random Forest, Climate Change and Food Production
-         : One Year of R-Ladies Melbourne
-         : Introduction to R-Shiny
-         : Christmas Party
-    2018 : Semiparametric and non-parametric models in R
-         : From zero to science hero in 1 week
-         : How R you? R-Ladies Melbourne second anniversary 
-         : R as a tool for complex systems modelling 
-         : Getting down and up with blogging with R! 
-         : Follow me! Introduction so social media analysis in R 
-         : Introduction to R 
-         : Everything you need to know to create your R Package 
-         : More than words - Text Analysis in R 
-         : Parallel Programming in R 
-         : Public Transport Maps and Geospatial Data in R
-         
-    section Milestone
-    2019 : R-Ladies Melbourne became R-Ladies Melbourne Inc. on 28th March 2019 🎉
-    
-    section Our Meetups .
-    2019 : Producing publication-ready documents in R Markdown
-         : Baby one more time - reproducibility in R and when to bring in the big guns
-         : NLP with SpaCy in R
-         : Cluster analysis with international education data
-         : Introduction to R Workshop
-         : Gold star reproducibility - straightforward containerisation
-         : Take a sad plot and make it better
-         : Intro to Data Analysis and Graphics with R
-         : R-Shiny Tricks or Treats, Maybe Both?
-         : Designing Data Science
-         : Christmas Networking Party
-    2020 : TidyTuesday
-         : Binovisualfields Package - Development and Publication to CRAN
-         : Recent work in cluster trials and the representation of women in statistics
-         : Would you like to become a more confident and engaging speaker?
-         : R Markdown - A better way of communicating with data
-         : Sport, Data, and R
-         : Resume Guru
-         : How R you? 4-year Anniversary
-    2021 : TidyTuesday 
-         : Diversity Scholars Workshop
-         : Create and publish your pesronal website with Blogdown
-         : A remove glimpse into the useR!2021 conference
-         : Anomalies! You can't escape them
-         : The Art of Design - Software and Experimental Design
-    2022 : Automate your CV with R Markdown - Easy as 1, 2, knit
-         : AI Ethics Workshop
-         : How to do analysis for others without going crazy - My mistakes in consulting
-         : Building a new geom in ggplot2
-         : Data viz for mass audiences
-         : The workflow of tidy data, constructing plots and making data driven decisions
-         : Switching between space and time - Spatiotemporal analysis with cubble
-         : How I use workflowr to create reproducible analyses
-         : Choose your own adventure - Tools for Open and Reproducible Research
-    2023 : Navigating Public Health Careers Insights into Career Journeys
-         : What's New in the Tidyverse?
-         : Teaching Computers to See Scatterplots with Scagnostics
-         : It Takes a Spark 2023 - Become A Disease Detective
-    2024 : Careers in Data Science
-         : Increasing diversity in R-Ladies São Paulo
-         : It Takes a Spark 2024 - Become A Disease Detective
-         : Data in Sport Analytics
-         : End-of-Year Networking Event 
-    2025 : Inspiring the Next Generation- R-Ladies Melb at "It Takes A Spark" Conference
-         : PGEforge-towards an open analysis ecosystem for malaria genomic epidemiology
-         : Cross-chapter TidyTuesday with R-Ladies
-         : Creating simple websites with Quarto + GitHub Pages
-         : Using Git for Version Control and Collaboration
-         : R-Ladies Social Night
-         : Plot Twist - Bringing Your ggplot2 Visuals to Life with ggplotly
-         : It Takes a Spark 2025 - Become A Disease Detective
-         : R-Ladies & SSA Melbourne Social Night: Happy 9th Birthday R-Ladies
-         : R-Ladies at R Dev Days with Dr Heather Turner
-         : End-of-Year Networking Event 
-```
+- R Notebooks and Interactive Graphs
+- Git and GitHub Workshop
+- Twitter Workshop
+- Web Scraping and Sports Analytics
+- Build Neural Network with R
+- mixOmics Combine Large Scale Datasets
+- Introduction to R Workshop
+- Random Forest, Climate Change and Food Production
+- One Year of R-Ladies Melbourne
+- Introduction to R-Shiny
+- Christmas Party
+:::
+::: {.event data-label="2018" style="--tl-color-accent: #e1b9e2;"}
+**2018 Meetups**
+
+- Semiparametric and non-parametric models in R
+- From zero to science hero in 1 week
+- How R you? R-Ladies Melbourne second anniversary
+- R as a tool for complex systems modelling
+- Getting down and up with blogging with R!
+- Follow me! Introduction to social media analysis in R
+- Introduction to R
+- Everything you need to know to create your R Package
+- More than words Text Analysis in R
+- Parallel Programming in R
+- Public Transport Maps and Geospatial Data in R
+:::
+::: {.event data-label="28-Mar-2019" style="--tl-color-accent: #88398A;"}
+**R-Ladies Melbourne Inc.**
+R-Ladies Melbourne became R-Ladies Melbourne Inc. on 28th March 2019 🎉
+:::
+::: {.event data-label="2019" style="--tl-color-accent: #e1b9e2;"}
+**2019 Meetups**
+
+- Producing publication-ready documents in R Markdown
+- Baby one more time - reproducibility in R and when to bring in the big guns
+- NLP with SpaCy in R
+- Cluster analysis with international education data
+- Introduction to R Workshop
+- Gold star reproducibility - straightforward containerisation
+- Take a sad plot and make it better
+- Intro to Data Analysis and Graphics with R
+- R-Shiny Tricks or Treats, Maybe Both?
+- Designing Data Science
+- Christmas Networking Party
+:::
+::: {.event data-label="2020" style="--tl-color-accent: #e1b9e2;"}
+**2020 Meetups**
+
+- TidyTuesday
+- Binovisualfields Package - Development and Publication to CRAN
+- Recent work in cluster trials and the representation of women in statistics
+- Would you like to become a more confident and engaging speaker?
+- R Markdown - A better way of communicating with data
+- Sport, Data, and R
+- Resume Guru
+- How R you? 4-year Anniversary
+:::
+::: {.event data-label="2021" style="--tl-color-accent: #e1b9e2;"}
+**2021 Meetups**
+
+- TidyTuesday
+- Diversity Scholars Workshop
+- Create and publish your personal website with Blogdown
+- A remote glimpse into the useR!2021 conference
+- Anomalies! You can't escape them
+- The Art of Design - Software and Experimental Design
+:::
+::: {.event data-label="2022" style="--tl-color-accent: #e1b9e2;"}
+**2022 Meetups**
+
+- Automate your CV with R Markdown - Easy as 1, 2, knit
+- AI Ethics Workshop
+- How to do analysis for others without going crazy - My mistakes in consulting
+- Building a new geom in ggplot2
+- Data viz for mass audiences
+- The workflow of tidy data, constructing plots and making data driven decisions
+- Switching between space and time - Spatiotemporal analysis with cubble
+- How I use workflowr to create reproducible analyses
+- Choose your own adventure - Tools for Open and Reproducible Research
+:::
+::: {.event data-label="2023" style="--tl-color-accent: #e1b9e2;"}
+**2023 Meetups**
+
+- Navigating Public Health Careers Insights into Career Journeys
+- What's New in the Tidyverse?
+- Teaching Computers to See Scatterplots with Scagnostics
+- It Takes a Spark 2023 - Become A Disease Detective
+:::
+::: {.event data-label="2024" style="--tl-color-accent: #e1b9e2;"}
+**2024 Meetups**
+
+- Careers in Data Science
+- Increasing diversity in R-Ladies São Paulo
+- It Takes a Spark 2024 - Become A Disease Detective
+- Data in Sport Analytics
+- End-of-Year Networking Event
+:::
+::: {.event data-label="2025" style="--tl-color-accent: #e1b9e2;"}
+**2025 Meetups**
+
+- Inspiring the Next Generation - R-Ladies Melb at "It Takes A Spark" Conference
+- PGEforge - towards an open analysis ecosystem for malaria genomic epidemiology
+- Cross-chapter TidyTuesday with R-Ladies
+- Creating simple websites with Quarto + GitHub Pages
+- Using Git for Version Control and Collaboration
+- R-Ladies Social Night
+- Plot Twist - Bringing Your ggplot2 Visuals to Life with ggplotly
+- It Takes a Spark 2025 - Become A Disease Detective
+- R-Ladies & SSA Melbourne Social Night: Happy 9th Birthday R-Ladies
+- R-Ladies at R Dev Days with Dr Heather Turner
+- End-of-Year Networking Event
+:::
+::: {.event data-label="Mar-2025" style="--tl-color-accent: #88398A;"}
+**R-Ladies+ Rebrand**
+from R-Ladies to R-Ladies+, recognising the need to be more explicit about our mission to serve underrepresented gender minorities beyond cis women. A full breakdown of this discussion can be found on the [rladies.org website](https://rladies.org/news/2026/rebrand-launch/).
+:::
+::: {.event data-label="Apr-2025" style="--tl-color-accent: #88398A;"}
+**R-Ladies+ Melbourne Rebrand**
+transitioning from R-Ladies Melbourne from April 2025.
+
+![](images/R-Ladies+ Melbourne Logo.png){width=100 height=100}
+:::
+::: {.event data-label="2026" style="--tl-color-accent: #e1b9e2;"}
+**2026 Meetups**
+
+- Data Driven Decision Making for Fantasy Basketball
+- Di Cook Award Seminar Watch Party
+- Deep Probabilistic and Generative Modeling
+:::
 :::
 
 ## Our Organising Committees
+
+A list of our organising committees over the years. Our committees are appointed following the April–June Annual General Meetings and serve until the following year's meetings.
 
 ### 2025-26
 
@@ -130,6 +182,10 @@ timeline
 -   [R-Ladies & SSA Melbourne Social Night: Happy 9th Birthday R-Ladies](https://www.meetup.com/rladies-melbourne/events/311337114/)
 -   [R-Ladies at R Dev Days with Dr Heather Turner](https://www.meetup.com/rladies-melbourne/events/311618693/)
 -   [End-of-Year Networking Event](https://www.meetup.com/rladies-melbourne/events/311618784/)
+-   [Data Driven Decision Making for Fantasy Basketball](https://www.meetup.com/rladies-melbourne/events/313639240/?eventOrigin=group_past_events)
+-   [Di Cook Award Seminar Watch Party](https://www.meetup.com/rladies-melbourne/events/313938056/?eventOrigin=group_past_events)
+-   [Deep Probabilistic and Generative Modeling](https://www.meetup.com/rladies-melbourne/events/314684648/?eventOrigin=group_past_events)
+
 :::
 :::::
 ::::::
@@ -142,14 +198,15 @@ timeline
 -   Sehrish Kanwal (Secretary)
 -   Kathleen Zeglinski (Treasurer)
 -   Caitlin Bourke
--   Lauren Smith
--   Belen Prado
--   Cecilia Rios Teran
 -   Felicia Bongiovanni
 -   Harriet Mason
 -   Kirsty McCann
 -   Mansi Aggarwal
 -   Megan Soria
+-   Mei Du
+-   Kylie Ainslie
+-   Maliny Po
+-   Outgoing members: Lauren Smith, Belen Prado, Cecilia Rios Teran
 :::
 
 ### 2024-25
@@ -539,7 +596,7 @@ timeline
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::: column-page
 ## Committee Member Profiles
 
-R-Ladies Melbourne Organising Committee and Friends past and present in alphabetical order.
+R-Ladies Melbourne Inc. Organising Committee and Friends past and present in alphabetical order.
 
 <details open>
 
