@@ -9,24 +9,19 @@ toc: false
 
 ## Meet our Committee {#sec-committee}
 
-Our leadership for 2025-26 R-Ladies Melbourne includes:
+Our leadership for 2026-27 R-Ladies Melbourne includes:
 
--   **President**: Dionne Argyropoulos
--   **Vice President**: Danyang Dai (Daidai)
--   **Secretary**: Sehrish Kanwal
--   **Treasurer**: Kathleen Zeglinski
--   **Committee members**: Caitlin Bourke, Lauren Smith, Belen Prado, Cecilia Rios Teran, Felicia Bongiovanni, Harriet Mason, Kirsty McCann, Mansi Aggarwal, Megan Sora
+-   **President**: Kirsty McCann
+-   **Vice President**: Mansi Aggarwal
+-   **Secretary**: Harriet Mason
+-   **Treasurer**: Harriet Mason
+-   **Committee members**: Caitlin Bourke, Kathleen Zeglinski, Felicia Bongiovanni, Kylie Ainslie, Maliny Po, Mei Du, Danyang Dai (Daidai), Sehrish Kanwal
 
-![](images/committee_25_26.png)
+![](images/committee_26_27.jpeg)
 
 ::: column-margin
-**Committee**: Kathleen (top left), Dionne (top centre), Megan (top right), Daidai (second row right), Kirsty (third row middle), Sehrish (bottom left), Mansi (bottom right), Belen, Lauren, Caitlin, Felicia and Harriet \[not pictured\].
+**Committee**: Kirsty (top left), Dionne (top centre), Felicia (top right), Harriet (second row left), Daidai (second row middle), Mansi (second row right), Maliny (third row left), Mei (third row middle), Kathleen (third row right), Caitlin (bottom), Felicia, Sehrish, Daidai \[not pictured\].
 
-**R-Ladies Sydney**: Fonti (second row left)
-
-**R-Ladies Canberra**: Emi (third row left)
-
-**Advisory Committee**: Anna (second row middle), Di (third row right)
 :::
 
 Please [**email us**](rladiesmelbourne@gmail.com) if you'd like to join our [committee](#sec-committee)!
