@@ -1,1 +1,1 @@
-Sitemap: https://R-LadiesMelbourne.github.io/rladiesmelbwebsite/sitemap.xml
+Sitemap: https://R-LadiesMelbourne.github.io/r-ladiesmelbourne.github.io/sitemap.xml
